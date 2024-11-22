@@ -2,9 +2,9 @@
 
 # use epsilon greedy action selector
 action_selector: "epsilon_greedy"
-epsilon_start: 1.0
-epsilon_finish: 0.05
-epsilon_anneal_time: 100000 # 500000 for 6h_vs_8z
+epsilon_start: 0.2
+epsilon_finish: 0.00
+epsilon_anneal_time: 300000 # 500000 for 6h_vs_8z
 
 runner: "parallel"
 batch_size_run: 8 # batch_size_run=4, buffer_size = 2500, batch_size=64  for 3s5z_vs_3s6z
@@ -12,7 +12,7 @@ buffer_size: 5000
 batch_size: 128
 optimizer: 'adam'
 
-t_max: 10050000
+t_max: 400000 
 
 # update the target network every {} episodes
 target_update_interval: 200
