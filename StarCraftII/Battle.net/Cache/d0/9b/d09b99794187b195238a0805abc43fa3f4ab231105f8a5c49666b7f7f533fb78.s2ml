@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esES">
+    <e id="1">Guerra de malware</e>
+    <e id="2">Hace mucho, esta instalación protoss se usaba para transformar las personalidades de grandes guerreros protoss en la inteligencia artificial conocida como los purificadores. Los investigadores probaron el proceso con un prisionero tal&apos;darim cuya personalidad corrupta comenzó a atacar la instalación. Ahora, la guardiana de los purificadores Aurana lucha por recuperar el control.</e>
+    <e id="3">Desierto de purificación</e>
+    <e id="4">Miscelánea</e>
+    <e id="5">Tipos de partida: miscelánea</e>
+    <e id="6">Instrucciones básicas</e>
+    <e id="7">Cómo ganar</e>
+    <e id="8">Instrucciones avanzadas</e>
+</Locale>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="frFR">
+    <e id="1">La route de Korhal</e>
+    <e id="2">Des failles du Vide sont apparues dans le secteur impérial d’Augustgrad. Ensemble, vous devez détruire ces failles avant que les hybrides écrasent vos troupes.</e>
+    <e id="3">Korhal (ville)</e>
+    <e id="4">Divers</e>
+    <e id="5">Type de jeu sans classification</e>
+    <e id="6">Personnalisé</e>
+    <e id="7">Tous les réglages peuvent être personnalisés.</e>
+    <e id="8">Instructions de base</e>
+    <e id="9">Comment gagner</e>
+    <e id="10">Instructions avancées</e>
+</Locale>

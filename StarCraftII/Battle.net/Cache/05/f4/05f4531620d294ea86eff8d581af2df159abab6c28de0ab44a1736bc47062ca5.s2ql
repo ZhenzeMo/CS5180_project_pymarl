@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><locale locale="enGB" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="l10n_output.xsd">
+  <e id="0">Welcome to Multiplayer Testing:</e>
+  <e id="1">Testing</e>
+  <e id="2">- Play 1v1 against other players to test new multiplayer maps and balance changes.
+- Note that your test MMR is tracked separately and will not affect your Ranked MMR.
+- Please provide any balance feedback you have on our forums!</e>
+</locale>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Essence Stacking BGH</e>
+    <e id="2">Units become stronger when they kill enemy units, but slightly slower. Killing built up units gives you all the essence they built up.&lt;br&gt;&lt;br&gt;Original by Proxy&lt;br&gt;BGH Added by Awstrd and ParthTactics&lt;br&gt;Essence Transfer and Essence Values added by Yoni</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">Every kill a unit gets, it will get stronger proportionally to the value of the unit it killed. Friendly-fire kills also count.</e>
+    <e id="5">If a &quot;built-up&quot; unit is killed, all of its increased strength transfers to the unit that killed it.</e>
+    <e id="6">As units consume and get more powerful, they get increasingly slower (and more vulnerable).</e>
+    <e id="7">How To Win</e>
+    <e id="8">Advanced Instructions</e>
+    <e id="9">Version 1.7</e>
+    <e id="10">February 20, 2014</e>
+    <e id="11">Changed buff increase to a flat 0.6 instead of a variable 5% increase (so stronger units don&apos;t get disproportionately buffed).</e>
+    <e id="12">Version 1.8</e>
+    <e id="13">February 23, 2014</e>
+    <e id="14">Units now increase in size as they get stronger. Fixed sudden-death bug occuring when high level units fought.</e>
+    <e id="15">Version 2.0</e>
+    <e id="16">March 25, 2014</e>
+    <e id="17">Completely revamped the essence buildup system. </e>
+    <e id="18">Unit damage increases are now proportional to their DPS.</e>
+    <e id="19">Units now grow gradually in size.</e>
+    <e id="20">Version 2.6</e>
+    <e id="21">March 26, 2014</e>
+    <e id="22">Balance Adjustments:</e>
+    <e id="23"></e>
+    <e id="24">Killing a transport with buffed units inside grants the killer their essence.</e>
+    <e id="25">Transports now grow in size and slow down proportionally to the level of the units they carry.</e>
+    <e id="26">Blink cooldown proportionally increased to the stalker&apos;s level.</e>
+    <e id="27"></e>
+    <e id="28">Other minor balance adjustments.</e>
+    <e id="29">Version 2.8</e>
+    <e id="30">July 4, 2014</e>
+    <e id="31">Miscellaneous essence value fixes (things like larva, infested terrans, changelings, etc. no longer give off ridiculous essence).</e>
+</Locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">GodMod</e>
+    <e id="2">The player chosen as god will gain great powers, while the other players behave normally. God can create units, structures, pickups, nuke places, change supply limits and more.</e>
+    <e id="3">Role</e>
+    <e id="4">Defines the player role. If there is more than one god set, the first one will become the god.</e>
+    <e id="5">God</e>
+    <e id="6">This player is god. If there is more than one god set, the first one will become the god.</e>
+    <e id="7">Believer</e>
+    <e id="8">This is a normal player role.</e>
+    <e id="9">God</e>
+    <e id="10">Basic Instructions</e>
+    <e id="11">Roleplaying, god will make the setup</e>
+    <e id="12">Normal melee game, but the melee options for defeat/victory/stalemate have been disabled</e>
+    <e id="13">How To Win</e>
+    <e id="14">Advanced Instructions</e>
+    <e id="15">God creates objectives</e>
+    <e id="16">Other players: Defeat the opposing team and complete objectives of god</e>
+    <e id="17">Version 0.69</e>
+    <e id="18">December 13, 2015</e>
+    <e id="19">Alpha Release</e>
+</Locale>

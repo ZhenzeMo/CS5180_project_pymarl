@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">WCS GameHeart - Pro Series</e>
+    <e id="2">WCS GameHeart es un mod de extensión diseñado para mejorar la experiencia del espectador de StarCraft 2.&lt;br&gt;&lt;br&gt;Blizzard Entertainment quiere agradecer y reconocer a los miembros de la comunidad Ryan Schutter, Christoph Ahlers, Philip Tan, Nick Mohr, el laboratorio de juegos del MIT, Milov Vasya y Pedro Zea por el trabajo fantástico que realizaron con el mod GameHeart original.&lt;br&gt;&lt;br&gt;Fragmentos aportados por el laboratorio del juegos del MIT.</e>
+    <e id="3">Íconos ubicados sobre las edificaciones que muestran qué unidades se están entrenando o qué tecnología se está investigando mientras se ve su barra de estado.</e>
+    <e id="4">Notificaciones de mejoras para saber si los procesos se están realizando o si se completaron, cancelaron o rechazaron.</e>
+    <e id="5">Notificaciones sobre los trabajadores asesinados para saber cuántos trabajadores perdió un jugador determinado en el último enfrentamiento.</e>
+    <e id="6">Instrucciones básicas</e>
+    <e id="7">Si quieres una interfaz personalizada, tienes que acceder a las opciones de juego y seleccionar una del menú desplegable.</e>
+    <e id="8">Para que los colores del equipo se vean más fuertes, accede a las opciones de juego y ajusta la opción de intensidad de color de equipo.</e>
+    <e id="9">Para ver los logotipos de liga y equipo tienes que poner un archivo Logos.SC2Mod en el directorio Documents/Starcraft II.</e>
+    <e id="10">Cómo ganar</e>
+    <e id="11">Instrucciones avanzadas</e>
+    <e id="12">La interfaz WCS 2.0 es la única que actualmente tiene los elementos de IU necesarios para mostrar el panel de información de ciclo.</e>
+    <e id="13">Logos.SC2Mod es un archivo de mod especial que permite mostrar los logotipos en el mapa para que los vean los observadores.</e>
+    <e id="14">Para obtener instrucciones sobre el uso del mod Logos.SC2Mod, lee la documentación disponible en línea.</e>
+</Locale>

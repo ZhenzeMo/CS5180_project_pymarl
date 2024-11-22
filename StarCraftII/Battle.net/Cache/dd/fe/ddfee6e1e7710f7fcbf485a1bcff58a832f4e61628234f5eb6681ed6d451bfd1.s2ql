@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="3">Default</e>
+    <e id="4">Forged</e>
+    <e id="5">Purifier</e>
+    <e id="6">Junker</e>
+    <e id="7">Golden Age</e>
+    <e id="8">Classic</e>
+</Locale>

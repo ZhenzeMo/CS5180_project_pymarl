@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">Evacuación minera</e>
+    <e id="2">La infestación se disemina sin control por una de las colonias mineras remotas de Kel Moria. Debra Greene, líder del gremio minero local, está decidida a sacar a su gente de allí y ponerla a salvo. Lucha contra Amón y contra los infestados para que la evacuación sea un éxito. </e>
+    <e id="3">Jarbán Menor - Selva</e>
+    <e id="4">Varios</e>
+    <e id="5">Partidas de tipos varios</e>
+    <e id="6">Personalizada</e>
+    <e id="7">Todas las configuraciones pueden personalizarse.</e>
+    <e id="8">Instrucciones básicas</e>
+    <e id="9">Cómo ganar</e>
+    <e id="10">Instrucciones avanzadas</e>
+</Locale>

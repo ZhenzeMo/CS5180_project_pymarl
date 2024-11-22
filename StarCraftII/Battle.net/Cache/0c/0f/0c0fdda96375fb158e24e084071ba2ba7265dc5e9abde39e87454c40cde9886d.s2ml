@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Coop Hots - 14. The Crucible</e>
+    <e id="2">After the awakening of the ancient primal Zerg Zurvan, he told Kerrigan that she needed to be reborn to become Queen of Blades once more. She must seek out the first spawning pool that first created the Zerg.</e>
+    <e id="3">(HotS) Zerus (Jungle)</e>
+    <e id="4">Other</e>
+    <e id="5">Unclassified game type.</e>
+    <e id="6">Coop</e>
+    <e id="7">Heart of the Swarm coop for three players.</e>
+    <e id="8">Basic Instructions</e>
+    <e id="9">How To Win</e>
+    <e id="10">Advanced Instructions</e>
+    <e id="11">Version 1.3</e>
+    <e id="12">July 11, 2019</e>
+    <e id="13">Correct evolution units are now given after the mid cutscene.</e>
+    <e id="14">The ending cutscene should now play.</e>
+    <e id="15">Version 1.4</e>
+    <e id="16">July 12, 2019</e>
+    <e id="17">Tyrranozor and Quillgors are now bitter enemies.</e>
+    <e id="18">Version 1.5</e>
+    <e id="19">July 12, 2019</e>
+    <e id="20">Tyrannozor no longer ignores 1 armor when dealing damage.</e>
+    <e id="21">Version 1.6</e>
+    <e id="22">July 18, 2019</e>
+    <e id="23">Hero Cocoons should no longer show up.</e>
+    <e id="24">Version 1.7</e>
+    <e id="25">July 21, 2019</e>
+    <e id="26">Now each player has a Swarm Host after the middle cinematic.</e>
+    <e id="27">http://discord.gg/qT2UdZj</e>
+</Locale>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Kill Bots</e>
+    <e id="2">Offensive robots of a mysterious origin have been unleashed on the Koprulu sector, intent on destruction. Through cunning engineering, they are invincible until their pre-programmed kill counter has been filled. After that occurs, they will shut down. But can you survive for that long?</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">How To Win</e>
+    <e id="5">Advanced Instructions</e>
+</Locale>

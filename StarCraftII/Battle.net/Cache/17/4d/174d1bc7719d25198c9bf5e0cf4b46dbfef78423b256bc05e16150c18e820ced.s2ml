@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Heroes from the Storm</e>
+    <e id="2">Every attack wave will be led by Heroes of increasing power.</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">How To Win</e>
+    <e id="5">Advanced Instructions</e>
+</Locale>

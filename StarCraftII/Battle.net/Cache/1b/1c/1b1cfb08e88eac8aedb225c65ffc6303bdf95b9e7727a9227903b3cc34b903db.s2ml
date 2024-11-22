@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Void Thrashing</e>
+    <e id="2">Void thrashers are surfacing on Char. Work together and destroy them before Sgt. Hammer&apos;s fortress falls to their ruthless assault.</e>
+    <e id="3">Char Ex2 Fortress</e>
+    <e id="4">Miscellaneous</e>
+    <e id="5">Miscellaneous game types</e>
+    <e id="6">Custom</e>
+    <e id="7">All settings may be customized.</e>
+    <e id="8">Basic Instructions</e>
+    <e id="9">How To Win</e>
+    <e id="10">Advanced Instructions</e>
+</Locale>

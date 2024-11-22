@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><locale locale="deDE" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="l10n_output.xsd">
+  <e id="0">Co-op: Drei Spieler vs. drei Computer</e>
+  <e id="1">3 vs K.I.</e>
+  <e id="2">Spielen Sie mit zwei Teamkameraden gegen ein Team aus drei Computergegnern.</e>
+</locale>

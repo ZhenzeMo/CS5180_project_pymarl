@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esES">
+    <e id="1">Mod de prueba de equilibrio</e>
+    <e id="2">Mod de prueba de equilibrio oficial de Blizzard. Añadir este mod de extensión a un mapa multijugador adaptará el equilibrio de unidades de StarCraft II a la versión de prueba actual.</e>
+    <e id="3">Instrucciones básicas</e>
+    <e id="4">Cómo ganar</e>
+    <e id="5">Instrucciones avanzadas</e>
+    <e id="6">Versión 1.0</e>
+    <e id="7">17 Agosto 2017</e>
+    <e id="8">Para consultar todos los detalles de los nuevos cambios de equilibrio, ve a la pestaña &quot;Vista general&quot; y usa el enlace ubicado en el apartado &quot;Detalles&quot;.</e>
+    <e id="9"></e>
+    <e id="10">¡Gracias por probar los nuevos cambios! ¡Os agradecemos que compartáis vuestros comentarios en los foros de la comunidad!</e>
+    <e id="11">http://starcraft2.com/news/22372713</e>
+</Locale>

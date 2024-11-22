@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">Época de vacas flacas</e>
+    <e id="2">Los trabajadores del jugador recogen recursos a menor velocidad, pero en el mapa aparecerán palets de recursos.</e>
+    <e id="3">Instrucciones básicas</e>
+    <e id="4">Cómo ganar</e>
+    <e id="5">Instrucciones avanzadas</e>
+</Locale>

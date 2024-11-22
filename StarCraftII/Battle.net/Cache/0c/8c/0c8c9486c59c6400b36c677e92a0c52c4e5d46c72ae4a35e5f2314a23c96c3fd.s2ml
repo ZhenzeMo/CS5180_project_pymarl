@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="zhTW">
+    <e id="1">Big Game Hunters (No-Unit-Limit) Full Custom</e>
+    <e id="2">- Nearly endless ressources&lt;br&gt;- No unit limits&lt;br&gt;- Custom teams&lt;br&gt;- No default AI player.</e>
+    <e id="3">阿格利亞（叢林）</e>
+    <e id="4">對戰</e>
+    <e id="5">對抗其他玩家的標準對戰</e>
+    <e id="6">4 VS 4</e>
+    <e id="7">Unclassified game mode.</e>
+    <e id="8">對戰</e>
+    <e id="9">對抗其他玩家的標準對戰</e>
+    <e id="10">3 VS 5</e>
+    <e id="11">Unclassified game mode.</e>
+    <e id="12">對戰</e>
+    <e id="13">對抗其他玩家的標準對戰</e>
+    <e id="14">2 VS 6</e>
+    <e id="15">Unclassified game mode.</e>
+    <e id="16">對戰</e>
+    <e id="17">對抗其他玩家的標準對戰</e>
+    <e id="18">1 VS 7</e>
+    <e id="19">Unclassified game mode.</e>
+    <e id="20">對戰</e>
+    <e id="21">對抗其他玩家的標準對戰</e>
+    <e id="22">自由混戰</e>
+    <e id="23">決戰到只剩一名玩家為止。</e>
+    <e id="24">大混戰</e>
+    <e id="25">每個玩家只能建造一種單位的對戰遊戲</e>
+    <e id="26">自由混戰</e>
+    <e id="27">決戰到只剩一名玩家為止。</e>
+    <e id="28">基本指示</e>
+    <e id="29">如何獲勝</e>
+    <e id="30">進階指示</e>
+</Locale>

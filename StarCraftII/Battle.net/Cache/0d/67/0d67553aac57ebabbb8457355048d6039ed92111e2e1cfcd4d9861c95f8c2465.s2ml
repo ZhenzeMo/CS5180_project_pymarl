@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">StarJeweled</e>
+    <e id="2">En StarJeweled, alinea 3 gemas de manera horizontal o vertical para crear energía, la cual se utiliza para entrenar unidades o activar habilidades. Destruye la base enemiga para obtener la victoria.</e>
+    <e id="3">Monlito (Lunar)</e>
+    <e id="4">Competencia de fuerza</e>
+    <e id="5">Construir estructuras que envían unidades a atacar la base del enemigo.</e>
+    <e id="6">2 vs. 2</e>
+    <e id="7">Dos equipos de dos luchan por la supremacía.</e>
+    <e id="8">Se generan dos combinaciones de gemas con un solo movimiento, lo que otorga una bonificación energía.</e>
+    <e id="9">Los Colosos son excelentes contra unidades ligeras, y los Tanques de asedio son efectivos contra las estructuras.</e>
+    <e id="10">Mueve el cursor sobre una unidad en el menú de engendración para obtener información sobre sus fortalezas y debilidades.</e>
+    <e id="11">Una Prisión de gravitón precisa inhabilita al Ultralisco del enemigo.</e>
+    <e id="12">Solo podrás mover las gemas si como resultado del movimiento obtienes una línea.</e>
+    <e id="13">Cuantas más gemas combines, más energía recibirás.</e>
+    <e id="14">Engendra unidades haciendo clic en los botones de unidades ubicados debajo de tu barra de energía.</e>
+    <e id="15">Destruye la base enemiga y obtendrás la victoria.</e>
+    <e id="16">Instrucciones básicas</e>
+    <e id="17">Intercambia de lugar dos gemas contiguas para alinearlas.</e>
+    <e id="18">Si alineas tres o más gemas del mismo color, desaparecerán y aumentará tu energía.</e>
+    <e id="19">Usa la energía para crear unidades que atacarán a tus enemigos.</e>
+    <e id="20">Cómo ganar</e>
+    <e id="21">Destruye la base enemiga.</e>
+    <e id="22">Instrucciones avanzadas</e>
+    <e id="23">Combinar gemas en la parte inferior del tablero puede generar más combinaciones en la parte superior.</e>
+    <e id="24">Recibirás una bonificación de energía si logras alinear varios grupos de gemas con un solo movimiento.</e>
+    <e id="25">Todas las unidades tienen fortalezas y debilidades. Intenta crear unidades que sean fuertes para defenderse de las unidades de tus enemigos.</e>
+    <e id="26">Saber usar las habilidades especiales puede cambiar el curso de una batalla.</e>
+    <e id="27">Puedes almacenar energía para enviar una oleada grande de unidades o unas pocas unidades muy poderosas.</e>
+    <e id="28">Versión 1.0</e>
+    <e id="29">Julio 25, 2012</e>
+    <e id="30"></e>
+</Locale>

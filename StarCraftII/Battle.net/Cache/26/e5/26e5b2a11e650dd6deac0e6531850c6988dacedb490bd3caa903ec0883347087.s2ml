@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">The Vermillion Problem</e>
+    <e id="2">Amon has incited volcanic eruptions that are destroying Veridia Prime. Gather the crystals required to reactivate the environmental stabilizers and restore the planet before it is obliterated.</e>
+    <e id="3">Char Ex2</e>
+    <e id="4">Miscellaneous</e>
+    <e id="5">Miscellaneous game types</e>
+    <e id="6">Other</e>
+    <e id="7">Unclassified game mode.</e>
+    <e id="8">Basic Instructions</e>
+    <e id="9">How To Win</e>
+    <e id="10">Advanced Instructions</e>
+</Locale>

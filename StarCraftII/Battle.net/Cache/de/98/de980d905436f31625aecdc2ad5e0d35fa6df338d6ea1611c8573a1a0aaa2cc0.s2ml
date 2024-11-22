@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="koKR">
+    <e id="1">모든 유닛 폭발</e>
+    <e id="2">모든 지상 유닛이 죽을 때 산성액을 뿜으며 주위의 유닛과 구조물에 피해를 줍니다.</e>
+    <e id="3">기본 설명</e>
+    <e id="4">승리 방식</e>
+    <e id="5">고급 설명</e>
+</Locale>

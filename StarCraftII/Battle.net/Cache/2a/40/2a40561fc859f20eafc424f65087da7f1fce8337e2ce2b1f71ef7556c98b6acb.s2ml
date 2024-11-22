@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">Noche mortal</e>
+    <e id="2">Se ha descubierto una infestación que avanza velozmente en uno de los mundos marginales del Dominio. Quema todas las estructuras infestadas para evitar la propagación.</e>
+    <e id="3">Meinhoff Ex3</e>
+    <e id="4">Otro</e>
+    <e id="5">Tipo de juego no clasificado.</e>
+    <e id="6">Otro</e>
+    <e id="7">Modo de juego no clasificado.</e>
+    <e id="8">Instrucciones básicas</e>
+    <e id="9">Cómo ganar</e>
+    <e id="10">Instrucciones avanzadas</e>
+</Locale>

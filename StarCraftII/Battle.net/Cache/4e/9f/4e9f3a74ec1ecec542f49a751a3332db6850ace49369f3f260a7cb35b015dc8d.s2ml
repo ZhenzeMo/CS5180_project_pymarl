@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="deDE">
+    <e id="1">Shuttle zu Schutt</e>
+    <e id="2">Amon verwendet die Warpverbindung von Kaldir, um seine Truppen quer durch den Sektor zu transportieren. Vernichten Sie die Shuttles, die seine Truppen befördern, bevor sie die Warpverbindungen erreichen.</e>
+    <e id="3">Ice World Ex2</e>
+    <e id="4">Verschiedenes</e>
+    <e id="5">Verschiedene Spieltypen.</e>
+    <e id="6">Benutzerdefiniert</e>
+    <e id="7">Alle Einstellungen können vom Benutzer konfiguriert werden.</e>
+    <e id="8">Grundinformationen</e>
+    <e id="9">Wie man gewinnt</e>
+    <e id="10">Erweiterte Anweisungen</e>
+</Locale>

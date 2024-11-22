@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Aiur Chef</e>
+    <e id="2">On a remote area of the planet Aiur, aspiring zealot chefs skilled in the arts of cooking and killing compete for the title of Aiur Chef.</e>
+    <e id="3">Aiur (Urban)</e>
+    <e id="4">Arena</e>
+    <e id="5">Evenly matched groups of units face off in arena combat.</e>
+    <e id="6">FFA</e>
+    <e id="7">All players fight until only one remains.</e>
+    <e id="8">Some ingredients can be found on the ground. Others may require you to slay wild creatures.</e>
+    <e id="9">Always keep an eye on your recipe card when deciding which ingredients to collect.</e>
+    <e id="10">Once you&apos;ve completed a recipe, return to the center to prepare your dish.</e>
+    <e id="11">Collect the most points after 3 rounds of cooking to claim the title of &quot;Aiur Chef&quot;.</e>
+    <e id="12">Basic Instructions</e>
+    <e id="13">Explore the map to collect ingredients. Use your recipe list in the top-left to decide which ingredients you should gather.</e>
+    <e id="14">Once you have all the ingredients for a recipe, return to the center of the map to complete your dish.</e>
+    <e id="15">Your Chef will respawn if he&apos;s killed, but he&apos;ll drop any ingredients he was carrying.</e>
+    <e id="16">How To Win</e>
+    <e id="17">Score the most points after 3 rounds of cooking.</e>
+    <e id="18">Advanced Instructions</e>
+    <e id="19">Each round offers different recipes based on a featured ingredient.</e>
+    <e id="20">Try to mix up your recipes. Cooking the same dish repeatedly will cause you to earn fewer points.</e>
+    <e id="21">Some recipes grant special abilities or power-ups for your Chef in addition to points.</e>
+    <e id="22">Pick up a Restoration Charge to heal your Chef if he becomes injured.</e>
+    <e id="23">You can drop unwanted items from your inventory if you need space or want to change recipes.</e>
+    <e id="24">Version 1.0</e>
+    <e id="25">July 25, 2012</e>
+    <e id="26">Arcade v.1.0</e>
+</Locale>

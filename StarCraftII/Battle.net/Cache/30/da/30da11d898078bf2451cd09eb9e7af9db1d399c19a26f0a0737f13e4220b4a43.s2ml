@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Evolves Classic</e>
+    <e id="2">Evolves Classic&lt;br&gt;Four player evolves map with massers and over a dozen evolution levels.  &lt;br&gt;Supports FFA or 2v2&lt;br&gt;Computer AI is poor for this map type, they are not recommended.&lt;br&gt;&lt;br&gt;contact me via www.breakspirit.com with any comments</e>
+    <e id="3">Zhakul'Das (Jungle)</e>
+    <e id="4">Other</e>
+    <e id="5">Unclassified game type.</e>
+    <e id="6">Free For All</e>
+    <e id="7">Free For All</e>
+    <e id="8">Other</e>
+    <e id="9">Unclassified game type.</e>
+    <e id="10">2v2</e>
+    <e id="11">2v2</e>
+    <e id="12">Basic Instructions</e>
+    <e id="13">Use the Masser in the middle of the map to control your entire army at once</e>
+    <e id="14">Your Raven will automatically spawn your units, up to a maximum of 351</e>
+    <e id="15">Put your ghosts in your bunker when the game starts</e>
+    <e id="16">How To Win</e>
+    <e id="17">Destroy the enemy bunkers</e>
+    <e id="18">Advanced Instructions</e>
+    <e id="19">Version 2.36</e>
+    <e id="20">November 20, 2014</e>
+    <e id="21">Gave mutalisks more health</e>
+    <e id="22">Removed some health from thors</e>
+    <e id="23">Decreased scv damage</e>
+    <e id="24">Version 2.37</e>
+    <e id="25">November 20, 2014</e>
+    <e id="26">Added a feature to give a bonus damage modifier to players who fall too far behind the lead player's score</e>
+    <e id="27">http://www.breakspirit.com</e>
+</Locale>

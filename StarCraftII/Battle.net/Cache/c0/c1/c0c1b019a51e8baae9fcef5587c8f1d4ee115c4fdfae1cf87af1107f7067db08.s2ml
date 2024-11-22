@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">good great best game</e>
+    <e id="2">it&apos;s good great best game.  i&apos;m not even lying to you.&lt;br&gt;&lt;br&gt;all the fun will into your lungs.  and sometimes you will win.</e>
+    <e id="3">Haven (Jungle)</e>
+    <e id="4">Tug Of War</e>
+    <e id="5">Build structures which send units to attack the enemy base.</e>
+    <e id="6">1v1</e>
+    <e id="7">All settings may be customized.</e>
+    <e id="8">Basic Instructions</e>
+    <e id="9">Choose from randomly generated cards to create your unit deck.</e>
+    <e id="10">Play units from your deck to assault the enemy.</e>
+    <e id="11">How To Win</e>
+    <e id="12">Kill the enemy buildings.</e>
+    <e id="13">Advanced Instructions</e>
+    <e id="14">Play the cards from your deck using Q,W,E,R,A,S,D,F as hotkeys.</e>
+    <e id="15">Units can only be played on your side of the map.</e>
+    <e id="16">Try not to do bad.</e>
+    <e id="17">Version 0.1</e>
+    <e id="18">May 20, 2016</e>
+    <e id="19">Beta tests and bug fixing.</e>
+    <e id="20">Version 0.2</e>
+    <e id="21">May 20, 2016</e>
+    <e id="22">Laying the ground work for overtime and terrain polish.</e>
+    <e id="23">Version 0.7</e>
+    <e id="24">May 20, 2016</e>
+    <e id="25">Trimming some fat off triggers and some light game speed changes.</e>
+    <e id="26">Version 0.8</e>
+    <e id="27">May 26, 2016</e>
+    <e id="28">Tweaks regarding income speed and some light rebalancing.</e>
+</Locale>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="zhCN">
+    <e id="1">WCS GameHeart - Pro Series</e>
+    <e id="2">WCS GameHeart是用于增强《星际争霸II》观战者体验的一种扩展mod。&lt;br&gt;&lt;br&gt;暴雪娱乐忠心感谢社区成员Ryan Schutter, Christoph Ahlers, Philip Tan, Nick Mohr, The MIT Game Lab, Milov Vasya以及Pedro Zea他们在初版GameHeart Mod上的惊人贡献。&lt;br&gt;&lt;br&gt;MIT Game Lab为此付出了相当一部分的贡献 。</e>
+    <e id="3">建筑上方的图标，会在显示建筑状态条的同时也显示出正在训练或研究的项目。</e>
+    <e id="4">升级提醒，会提示你某项升级即将完成、已完成、已取消或被中断。</e>
+    <e id="5">工人死亡提醒，会提示你玩家在最近一场战斗中损失了多少工人。</e>
+    <e id="6">基础说明</e>
+    <e id="7">若想自定义界面，请前往游戏设置，从下拉菜单中进行选择！</e>
+    <e id="8">若想让队伍颜色变得更鲜艳，请前往游戏设置，调整你的队伍颜色密度选项！</e>
+    <e id="9">若想获得队伍和联赛标识，请先确保将Logos.SC2Mod文件存放在你的“文档/星际争霸II”目录中！</e>
+    <e id="10">如何获胜</e>
+    <e id="11">进阶说明</e>
+    <e id="12">WCS 2.0 界面是目前唯一能让主要UI元素循环显示信息面板的界面。</e>
+    <e id="13">Logos.SC2Mod是一种特殊类型的mod文件，负责管理在观战模式下各种标识在地图上的显示。</e>
+    <e id="14">请参看线上文档介绍，了解Logos.SC2Mod的使用方法。</e>
+</Locale>

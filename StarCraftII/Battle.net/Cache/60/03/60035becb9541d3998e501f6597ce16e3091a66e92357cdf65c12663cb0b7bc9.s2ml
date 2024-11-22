@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Hardened Will</e>
+    <e id="2">Enemy Heroic units reduce all incoming damage to a maximum of 10 when any non-heroic enemy unit is near them.</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">How To Win</e>
+    <e id="5">Advanced Instructions</e>
+</Locale>

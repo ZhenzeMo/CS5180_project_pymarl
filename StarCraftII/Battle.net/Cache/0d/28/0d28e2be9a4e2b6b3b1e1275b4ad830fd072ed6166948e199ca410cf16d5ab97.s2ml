@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esES">
+    <e id="1">Dirt Side FFA - Surrender Enabled</e>
+    <e id="2">Las expansiones naturales están cerca pero son vulnerables a los ataques. Hay muchos caminos hasta el enemigo que rodean una zona central con expansiones de minerales ricos. Las expansiones en islas pueden ser una manera más segura de recolectar recursos adicionales.</e>
+    <e id="3">Tarsonis (urbano)</e>
+    <e id="4">Refriega</e>
+    <e id="5">Partidas de refriega normal contra otros jugadores.</e>
+    <e id="6">TcT</e>
+    <e id="7">Todos los jugadores luchan hasta que solo queda uno.</e>
+    <e id="8">Instrucciones básicas</e>
+    <e id="9">Cómo ganar</e>
+    <e id="10">Instrucciones avanzadas</e>
+</Locale>

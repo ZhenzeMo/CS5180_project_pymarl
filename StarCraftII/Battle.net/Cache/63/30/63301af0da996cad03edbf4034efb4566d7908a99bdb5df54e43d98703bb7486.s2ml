@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">StarJeweled</e>
+    <e id="2">In StarJeweled, you match 3 jewels vertically or horizontally to create energy, which you use to train units or activate abilities.  Crush the enemy base to achieve victory.</e>
+    <e id="3">Monlyth (Lunar)</e>
+    <e id="4">Tug Of War</e>
+    <e id="5">Build structures which send units to attack the enemy base.</e>
+    <e id="6">2V2</e>
+    <e id="7">Two teams of two vie for dominance.</e>
+    <e id="8">Two matches are created with a single move, granting bonus energy.</e>
+    <e id="9">Colossi excel against light units, while Siege Tanks are effective against structures.</e>
+    <e id="10">Hover over a unit in the summoning menu to read about its strengths and weaknesses.</e>
+    <e id="11">A well-timed Graviton Prison disables the enemy&apos;s Ultralisk.</e>
+    <e id="12">You can only complete a swap if it will result in a match.</e>
+    <e id="13">The more gems you match, the more energy you&apos;ll get.</e>
+    <e id="14">Summon units by clicking on the unit buttons below your energy bar.</e>
+    <e id="15">Destroy the enemy base and victory will be yours.</e>
+    <e id="16">Basic Instructions</e>
+    <e id="17">Swap 2 adjacent jewels to create a match.</e>
+    <e id="18">If you line up 3 or more jewels of the same color, they will disappear and your energy will increase.</e>
+    <e id="19">Use energy to create units that will attack your enemies.</e>
+    <e id="20">How To Win</e>
+    <e id="21">Destroy the enemy base.</e>
+    <e id="22">Advanced Instructions</e>
+    <e id="23">Creating matches further down the board may cause additional matches to occur higher up.</e>
+    <e id="24">You&apos;ll receive bonus energy if you cause several matches to occur with a single move.</e>
+    <e id="25">Each unit has different strengths and weaknesses. Try to create units that are strong against your enemies&apos; units.</e>
+    <e id="26">Good use of special abilities can turn the tide of a battle.</e>
+    <e id="27">You can save up energy to send a large wave of units, or a few very powerful ones.</e>
+    <e id="28">Version 1.0</e>
+    <e id="29">July 25, 2012</e>
+    <e id="30">Arcade v.1.0</e>
+</Locale>

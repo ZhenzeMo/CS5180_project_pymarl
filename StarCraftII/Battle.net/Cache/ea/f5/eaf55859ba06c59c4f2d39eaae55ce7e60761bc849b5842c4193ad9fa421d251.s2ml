@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">infinite resources (read desc)</e>
+    <e id="2">Huge rewrite! Players start with 1000000 minerals and vespene gas. Fixed zerg! Enjoy! FIXED NEXUS WARS!!!</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">How To Win</e>
+    <e id="5">Advanced Instructions</e>
+</Locale>

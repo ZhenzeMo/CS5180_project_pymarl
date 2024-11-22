@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="frFR">
+    <e id="1">Dépôts sauvages</e>
+    <e id="2">Les ouvriers des joueurs récoltent les ressources plus lentement, mais des dépôts de ressources apparaissent un peu partout sur la carte.</e>
+    <e id="3">Instructions de base</e>
+    <e id="4">Comment gagner</e>
+    <e id="5">Instructions avancées</e>
+</Locale>

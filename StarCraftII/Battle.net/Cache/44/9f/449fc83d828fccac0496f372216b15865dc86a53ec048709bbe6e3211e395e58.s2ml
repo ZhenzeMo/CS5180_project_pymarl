@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="koKR">
+    <e id="1">극성</e>
+    <e id="2">각각의 적 유닛이 플레이어 또는 플레이어의 동맹의 유닛 중 한 쪽에게 면역이 됩니다.</e>
+    <e id="3">기본 설명</e>
+    <e id="4">승리 방식</e>
+    <e id="5">고급 설명</e>
+</Locale>

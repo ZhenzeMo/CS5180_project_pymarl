@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="deDE">
+    <e id="1">WCS GameHeart - Pro Series</e>
+    <e id="2">WCS GameHeart ist ein Addon, das das Zuschauer-Interface von StarCraft II verbessert.&lt;br&gt;&lt;br&gt;Blizzard Entertainment möchte Community-Mitgliedern Ryan Schutter, Christoph Ahlers, Philip Tan, Nick Mohr, MIT Game Lab, Milov Vasya und Pedro Zea für ihre unglaubliche Arbeit an der ursprünglichen GameHeart-Mod herzlich danken.&lt;br&gt;&lt;br&gt;Teile von MIT Game Lab beigetragen.</e>
+    <e id="3">Symbole auf Gebäuden, die anzeigen, welche Einheiten ausgebildet bzw. welche Upgrades erforscht werden, solange die Statusleiste des Gebäudes angezeigt wird.</e>
+    <e id="4">Benachrichtigungen, wenn Upgrades bald abgeschlossen werden bzw. abgeschlossen, abgebrochen oder verweigert wurden.</e>
+    <e id="5">Benachrichtigungen, die angeben, wie viele Arbeiter ein Spieler im letzten Kampf verloren hat.</e>
+    <e id="6">Grundinformationen</e>
+    <e id="7">Benutzerdefinierte Interfaces können Sie in einem Dropdown-Menü der Gameplay-Optionen auswählen.</e>
+    <e id="8">Wenn Sie möchten, dass die Teamfarben stärker hervorstechen, können Sie in den Gameplay-Optionen ihre Intensität einstellen.</e>
+    <e id="9">Damit Team- und Ligenlogos angezeigt werden, muss im Verzeichnis Dokumente/StarCraft II eine Logos.SC2Mod-Datei abgelegt sein.</e>
+    <e id="10">Wie man gewinnt</e>
+    <e id="11">Erweiterte Anweisungen</e>
+    <e id="12">Momentan sind nur im Interface &quot;WCS 2.0&quot; die nötigen UI-Elemente vorhanden, um die Leiste mit wechselnden Informationen anzuzeigen.</e>
+    <e id="13">Logos.SC2Mod ist eine besondere Art Mod-Datei, die im Zuschauermodus die Anzeige von Logos auf der Karte verwaltet.</e>
+    <e id="14">Bitte lesen Sie die Online-Dokumentation, um zu erfahren, wie Logos.SC2Mod-Dateien verwendet werden können.</e>
+</Locale>

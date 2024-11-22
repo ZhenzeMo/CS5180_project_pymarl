@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Void Reanimators</e>
+    <e id="2">Void Reanimators wander the battlefield, bringing your enemies back to life.</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">How To Win</e>
+    <e id="5">Advanced Instructions</e>
+</Locale>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Covert-Ops</e>
+    <e id="2">Command your forces and lead them to victory in this large-scale battle mod!&lt;br&gt;&lt;br&gt;Features:&lt;br&gt;- Easy and balanced gameplay, designed for new and veteran players.&lt;br&gt;- Completely reskinned and revamped units and structures.&lt;br&gt;- Campaign units and structures from across all three expansions, including heroes.</e>
+    <e id="3">Xel&apos;naga Pylon</e>
+    <e id="4">Terran Vehicle Weapons Level 4</e>
+    <e id="5">Terran Vehicle Weapons Level 4</e>
+    <e id="6">Terran Vehicle Weapons Ultra-Capacitors Level 4</e>
+    <e id="7">Terran Vehicle And Ship Weapons Level 4</e>
+    <e id="8">Terran Vehicle And Ship Weapons Level 4</e>
+    <e id="9">Terran Vehicle Weapons Ultra-Capacitors Level 4</e>
+    <e id="10">Terran Vehicle Weapons Level 4</e>
+    <e id="11">Terran Vehicle Weapons Ultra-Capacitors Level 4</e>
+    <e id="12">Terran Vehicle And Ship Weapons Level 4</e>
+    <e id="13">Lead your forces to victory!</e>
+    <e id="14">Play as the mighty Protoss, enhanced by their formidable strength and courage in battle.</e>
+    <e id="15">Play as the ravenous Zerg, always evolving and spreading to new worlds.</e>
+    <e id="16">Play as the resourceful Terrans, with advanced Covert-Ops technology and cutting-edge tactics.</e>
+    <e id="17">Each unit and structure has a descriptive tooltip for ease of gameplay.</e>
+    <e id="18">Basic Instructions</e>
+    <e id="19">Use workers to gather minerals and construct buildings.</e>
+    <e id="20">Train army units and heroes to conquer the enemy.</e>
+    <e id="21">Each unit and structure description has been expanded and improved upon.</e>
+    <e id="22">How To Win</e>
+    <e id="23">Defeat all players on the enemy team to claim victory!</e>
+    <e id="24">Advanced Instructions</e>
+    <e id="25">Mineral Fields have had their yield increased to 20,000.</e>
+    <e id="26">Vespene Geysers have had their yield increased to 25,000.</e>
+    <e id="27">Supply cap is 1,000.</e>
+    <e id="28">Enjoy the mod!</e>
+</Locale>

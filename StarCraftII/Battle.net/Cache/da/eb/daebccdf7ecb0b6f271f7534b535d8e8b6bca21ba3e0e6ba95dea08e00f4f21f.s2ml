@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">Chef de Aiur</e>
+    <e id="2">En un área remota de Aiur, Chefs Zelot en ciernes, hábiles en las artes culinarias y bélicas, compiten por el título de Chef de Aiur.</e>
+    <e id="3">Aiur (Urbano)</e>
+    <e id="4">Arena</e>
+    <e id="5">Grupos de unidades en igualdad de condiciones se enfrentan en un campo de batalla.</e>
+    <e id="6">TCT</e>
+    <e id="7">Todos los jugadores luchan hasta que queda solo uno.</e>
+    <e id="8">Algunos ingredientes pueden conseguirse en el suelo, pero para otros necesitarás asesinar criaturas salvajes.</e>
+    <e id="9">No dejes de estar atento a tu tarjeta de receta cuando decidas qué ingredientes recoger.</e>
+    <e id="10">Cuando hayas completado una receta, regresa al centro para preparar tu plato.</e>
+    <e id="11">Recoge la mayor cantidad de puntos que puedas después de 3 rondas de cocina para quedarte con el título de &quot;Chef de Aiur&quot;.</e>
+    <e id="12">Instrucciones básicas</e>
+    <e id="13">Explora el mapa para recoger ingredientes. Usa tu lista de recetas, ubicada en la sección superior izquierda, para descubrir qué ingredientes deberías recoger.</e>
+    <e id="14">Cuando tengas todos los ingredientes de una receta, regresa al centro del mapa para terminar tu plato.</e>
+    <e id="15">Si matan a tu Chef, revivirá, pero al morir dejará caer todos los ingredientes que llevaba con él.</e>
+    <e id="16">Cómo ganar</e>
+    <e id="17">Consigue la mayor cantidad de puntos después de 3 rondas de cocina.</e>
+    <e id="18">Instrucciones avanzadas</e>
+    <e id="19">Cada ronda ofrece diferentes recetas que deben prepararse con un ingrediente específico.</e>
+    <e id="20">Intenta mezclar tus recetas. Si cocinas el mismo plato una y otra vez, conseguirás menos puntos.</e>
+    <e id="21">Algunas recetas otorgarán habilidades especiales y potenciaciones a tu Chef, además de puntos.</e>
+    <e id="22">Si dañan a tu Chef, puedes recoger una Carga de restauración para curarlo.</e>
+    <e id="23">Si necesitas espacio o quieres cambiar tus recetas, puedes dejar caer los objetos que no quieras para hacer lugar.</e>
+    <e id="24">Versión 1.0</e>
+    <e id="25">Julio 25, 2012</e>
+    <e id="26">Arcade 1.0</e>
+</Locale>

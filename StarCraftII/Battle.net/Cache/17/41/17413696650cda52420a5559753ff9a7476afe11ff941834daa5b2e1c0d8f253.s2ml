@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">BGH+Extra Supply+No Wroker Supply</e>
+    <e id="2">Todos los campos de minerales del mapa aumentan a 20.000 de mineral y los géiseres de gas vespeno a 25.000 de gas.</e>
+    <e id="3">Instrucciones básicas</e>
+    <e id="4">Cómo ganar</e>
+    <e id="5">Instrucciones avanzadas</e>
+</Locale>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">WC3 Co-Op Campaign: Loerdaron&apos;s Fall</e>
+    <e id="2">A 6-player mission based on Warcraft 3&apos;s Human campaign.&lt;br&gt;&lt;br&gt;Build a base and train an army to help Arthas defeat the Undead.</e>
+    <e id="3">Zhakul&apos;Das (Jungle)</e>
+    <e id="4">Strategy</e>
+    <e id="5">Games which focus on strategic planning.</e>
+    <e id="6">Cooperative</e>
+    <e id="7">Ally with other players.</e>
+    <e id="8">A Co-Op Campaign mission based off Warcraft 3.</e>
+    <e id="9"></e>
+    <e id="10">Basic Instructions</e>
+    <e id="11">Build a base and train an army of Warcraft units.</e>
+    <e id="12">How To Win</e>
+    <e id="13">Help Prince Arthas defeat the Undead.</e>
+    <e id="14">Advanced Instructions</e>
+    <e id="15">The map can be played with anywhere from 1 up to 6 players.</e>
+</Locale>

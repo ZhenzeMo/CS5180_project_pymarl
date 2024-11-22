@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="koKR">
+    <e id="1">Coop Hots - 5. Fire in the Sky</e>
+    <e id="2">상세 설명을 입력합니다.</e>
+    <e id="3">(군단의심장) 차 요새 (화산)</e>
+    <e id="4">기타</e>
+    <e id="5">미분류 게임 유형입니다.</e>
+    <e id="6">Custom</e>
+    <e id="7">Heart of the Swarm Coop</e>
+    <e id="8"></e>
+    <e id="9">The second player has a separate base, attack quickly or they could fall to the Dominion forces.</e>
+    <e id="10">기본 설명</e>
+    <e id="11">승리 방식</e>
+    <e id="12">고급 설명</e>
+    <e id="13">버전 0.1</e>
+    <e id="14">2019년 6월 13일</e>
+    <e id="15">Private testing.</e>
+    <e id="16">버전 0.2</e>
+    <e id="17">2019년 6월 29일</e>
+    <e id="18">Hero ability selection screen now works.</e>
+    <e id="19">버전 0.3</e>
+    <e id="20">2019년 6월 29일</e>
+    <e id="21">Cinematic now only shows 1 Kerrigan.</e>
+    <e id="22">버전 0.4</e>
+    <e id="23">2019년 7월 5일</e>
+    <e id="24">Shadowlings now have a 6s cloak debuff rather than the 15 second debuff.</e>
+    <e id="25">Maybe fixed the hero ready selection.</e>
+    <e id="26">http://discord.gg/qT2UdZj</e>
+</Locale>

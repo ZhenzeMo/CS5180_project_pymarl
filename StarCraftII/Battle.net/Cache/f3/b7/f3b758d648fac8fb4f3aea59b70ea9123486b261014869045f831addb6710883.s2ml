@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="deDE">
+    <e id="1">WCS GameHeart 2v2</e>
+    <e id="2">WCS GameHeart ist ein Addon, das entwickelt wurde, um das Zuschauererlebnis für StarCraft II zu verbessern. Blizzard Entertainment möchte sich hiermit bei folgenden Community-Mitgliedern für ihre beeindruckende Arbeit an der ursprünglichen GameHeart-Mod bedanken: Ryan Schutter, Christoph Ahlers, Philip Tan, Nick Mohr, The MIT Game Lab, Milov Vasya und Pedro Zea. Teile des Addons wurden von MIT Game Lab beigesteuert.</e>
+    <e id="3">Symbole über Gebäuden, die während der Anzeige der Statusleiste signalisieren, was gerade produziert oder erforscht wird.</e>
+    <e id="4">Benachrichtigungen, die Sie informieren, wenn Upgrades abgeschlossen werden, abgeschlossen sind, abgebrochen werden oder verhindert wurden.</e>
+    <e id="5">Benachrichtigungen, die Sie informieren, wie viele Arbeiter während des letzten Kampfes eines Spielers getötet wurden.</e>
+    <e id="6">Grundinformationen</e>
+    <e id="7">Um ein benutzerdefiniertes Interface zu verwenden, wählen Sie eines im Dropdown-Menü in den Gameplay-Optionen aus.</e>
+    <e id="8">Um kräftigere Teamfarben zu sehen, passen Sie die Teamfarbenintensität in den Gameplay-Optionen an!</e>
+    <e id="9">Um die Team- und Ligalogos anzeigen zu können, müssen Sie eine Logos.SCMod-Datei in Ihren Dokumente/StarCraft II-Ordner legen!</e>
+    <e id="10">Wie man gewinnt</e>
+    <e id="11">Erweiterte Anweisungen</e>
+    <e id="12">Das WCS 2.0-Zuschauer-Interface ist derzeit die einzige Benutzeroberfläche, die über die notwendigen UI-Elemente verfügt, um die wechselnde Informationsanzeige anzuzeigen.</e>
+    <e id="13">Logos.SC2Mod ist eine besondere Art der Mod-Datei, die die Anzeige der Logos auf der Karte im Zuschauermodus steuert.</e>
+    <e id="14">Bitte informieren Sie sich online, wie Sie Logos.SC2Mod verwenden können.</e>
+</Locale>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="frFR">
+    <e id="1">Dirt Side FFA - Surrender Enabled</e>
+    <e id="2">Vous disposez d'extensions naturelles proches, mais elles sont vulnérables. De nombreux chemins mènent aux positions adverses, articulés autour des gisements de minerai riches de la zone centrale. Les îles peuvent vous offrir un moyen plus sûr de récolter des ressources supplémentaires.</e>
+    <e id="3">Tarsonis (Urbaine)</e>
+    <e id="4">Mêlée</e>
+    <e id="5">Parties en mêlée standard contre d’autres joueurs</e>
+    <e id="6">Chacun pour soi</e>
+    <e id="7">Tous les joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un.</e>
+    <e id="8">Instructions de base</e>
+    <e id="9">Comment gagner</e>
+    <e id="10">Instructions avancées</e>
+</Locale>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="zhCN">
+    <e id="1">熔岩爆裂</e>
+    <e id="2">岩浆会周期性地在随机位置从地下喷发，并对玩家的空中和地面单位造成伤害。</e>
+    <e id="3">基础说明</e>
+    <e id="4">如何获胜</e>
+    <e id="5">进阶说明</e>
+</Locale>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esES">
+    <e id="1">Expreso hacia la extinción</e>
+    <e id="2">La Organización Moebius está moviendo trenes con un cargamento secreto por la superficie de Tarsonis. Aúna fuerzas con tu aliado e intercepta los trenes antes de que escapen.</e>
+    <e id="3">Tarsonis (urbano)</e>
+    <e id="4">Miscelánea</e>
+    <e id="5">Tipos de partida: miscelánea</e>
+    <e id="6">Otro</e>
+    <e id="7">Modo de partida no clasificado.</e>
+    <e id="8">Instrucciones básicas</e>
+    <e id="9">Cómo ganar</e>
+    <e id="10">Instrucciones avanzadas</e>
+</Locale>

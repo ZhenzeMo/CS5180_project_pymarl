@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enGB">
+    <e id="1">Balance Multi (Mod)</e>
+    <e id="2">Balance Multi (Mod)</e>
+    <e id="3">Ghost</e>
+    <e id="4">Ghost</e>
+    <e id="5">Pylon</e>
+    <e id="6">Mag-Field Accelerator</e>
+    <e id="7">Armor Piercing Rockets</e>
+    <e id="8">Evolve Muscular Augments</e>
+    <e id="9">High Capacity Fuel Tanks</e>
+    <e id="10">Rapid Fire Launchers</e>
+    <e id="11">Advanced Ballistics</e>
+    <e id="12">Carrier Leash Range Upgrade</e>
+    <e id="13">Hyperflight Rotors</e>
+    <e id="14">Enhanced Shockwaves</e>
+    <e id="15">Recalibrated Explosives</e>
+    <e id="16">Enhanced Munitions</e>
+    <e id="17">Evolve Grooved Spines</e>
+    <e id="18">Carrier Capacity</e>
+    <e id="19">Mag-Field Launchers</e>
+    <e id="20">Explosive Shrapnel Shells</e>
+    <e id="21">Smart Servos</e>
+    <e id="22">Seismic Spines</e>
+    <e id="23">Adaptive Talons</e>
+    <e id="24">Shadow Stride</e>
+    <e id="25">Basic Instructions</e>
+    <e id="26">How To Win</e>
+    <e id="27">Advanced Instructions</e>
+</Locale>

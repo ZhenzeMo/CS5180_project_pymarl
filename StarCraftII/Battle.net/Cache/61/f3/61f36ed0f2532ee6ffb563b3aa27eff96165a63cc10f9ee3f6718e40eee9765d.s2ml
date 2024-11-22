@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Scion Custom Races (Mod)</e>
+    <e id="2">Loads the two custom races in this mod to a map of your choosing.&lt;br&gt;&lt;br&gt;You can find information on the races in the web link below.&lt;br&gt;&lt;br&gt;Optional Big Game Hunters mode may be turned on in lobby settings.</e>
+    <e id="3">Varient Race</e>
+    <e id="4">Choose a varient race</e>
+    <e id="5">Random</e>
+    <e id="6">Randomizes between the 2 custom races.</e>
+    <e id="7">Standard</e>
+    <e id="8">Turns off unconditional selection of a varient race.</e>
+    <e id="9">Genetron</e>
+    <e id="10">Play the Genetron custom race.</e>
+    <e id="11">Xeyed</e>
+    <e id="12">Play the Xeyed custom race</e>
+    <e id="13">Resource Mode</e>
+    <e id="14">Various options for game modes that are revolved around resource mechanics.</e>
+    <e id="15">Default</e>
+    <e id="16">All resources remain on the maps default resource settings.</e>
+    <e id="17">Big Game Hunters</e>
+    <e id="18">Mineral fields are set to hold 20000 resources, and vespene geysers are set to hold 25000 resources.</e>
+    <e id="19">Changeling</e>
+    <e id="20">Changeling</e>
+    <e id="21">Basic Instructions</e>
+    <e id="22">Includes 2 custom races, which can be picked in the Varient race dropdown in the lobby.</e>
+    <e id="23">How To Win</e>
+    <e id="24">Advanced Instructions</e>
+    <e id="25">http://discord.gg/4GSXkYU</e>
+</Locale>

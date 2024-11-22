@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="deDE">
+    <e id="1">Dirt Side FFA - Surrender Enabled</e>
+    <e id="2">Die ersten Expansionen befinden sich in der Nähe, sind aber relativ ungeschützt. Um die Mitte aus Expansionen mit ergiebigen Mineralien herum gibt es viele Wege zum Feind. Die Inseln bieten vielleicht sicherere Wege, zusätzliche Ressourcen abzubauen.</e>
+    <e id="3">Tarsonis (Stadt)</e>
+    <e id="4">Standard</e>
+    <e id="5">Normale Spiele der Kategorie Standard gegen andere Spieler</e>
+    <e id="6">JGJ</e>
+    <e id="7">Alle Spielern kämpfen, bis nur noch einer verbleibt.</e>
+    <e id="8">Grundinformationen</e>
+    <e id="9">Wie man gewinnt</e>
+    <e id="10">Erweiterte Anweisungen</e>
+</Locale>

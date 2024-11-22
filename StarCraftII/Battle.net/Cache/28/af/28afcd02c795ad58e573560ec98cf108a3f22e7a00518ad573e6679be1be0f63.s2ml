@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esES">
+    <e id="1">Reanimadores del vacío</e>
+    <e id="2">Hay reanimadores del vacío por el campo de batalla, que resucitan a vuestros enemigos.</e>
+    <e id="3">Instrucciones básicas</e>
+    <e id="4">Cómo ganar</e>
+    <e id="5">Instrucciones avanzadas</e>
+</Locale>

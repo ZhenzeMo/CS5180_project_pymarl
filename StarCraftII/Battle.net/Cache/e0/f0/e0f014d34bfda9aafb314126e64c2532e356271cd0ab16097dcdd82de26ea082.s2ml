@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="ptBR">
+    <e id="1">Irrupção de Lava</e>
+    <e id="2">Lava irrompe periodicamente do chão em locais aleatórios e causa dano às unidades terrestres e aéreas do jogador.</e>
+    <e id="3">Instruções Básicas</e>
+    <e id="4">Como Vencer</e>
+    <e id="5">Instruções Avançadas</e>
+</Locale>

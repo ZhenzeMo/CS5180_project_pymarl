@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="plPL">
+    <e id="1">Znalezione nie kradzione</e>
+    <e id="2">Jednostki robotnicze graczy gromadzą surowce w wolniejszym tempie, ale na całej mapie pojawiają się znajdźki z zasobami.</e>
+    <e id="3">Podstawowe instrukcje</e>
+    <e id="4">Jak wygrać:</e>
+    <e id="5">Instrukcje zaawansowane</e>
+</Locale>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">SC Universe RPG: Chronicles of Fate</e>
+    <e id="2">Since 1997, BIizzard fans have dreamed of what it would be like to play a SC MMO. &lt;br&gt;&lt;br&gt;Though SC Universe is not a true MMO, it helps make that dream a reality by combining the third person RPG elements of World of War-craft with the action packed Universe of SC2.</e>
+    <e id="3">Braxis Alpha (Space Platform)</e>
+    <e id="4">RPG</e>
+    <e id="5">Level up and explore in roleplaying games.</e>
+    <e id="6">Prologue</e>
+    <e id="7">All settings may be customized.</e>
+    <e id="8">Reinforced Thor</e>
+    <e id="9">Fighting against the Hybrid Titan boss. Hint: Stay inside the circling of the beams!</e>
+    <e id="10">Zeratul rallying the last of the Protoss during the intro cinematic.</e>
+    <e id="11">Trapping an Ultralisk in a void prison!</e>
+    <e id="12">Custom MMO-style user interface.</e>
+    <e id="13">Mounted vehicle combat!</e>
+    <e id="14">Use WASD to move. Press and hold down the middle mouse button to control the camera. Use Numpad +/- to zoom in/out.</e>
+    <e id="15">Select enemies by clicking on them or pressing the TAB key on your keyboard, then use abilities from your skill bar to destroy them!</e>
+    <e id="16">The menu bar at the bottom left of the screen gives you access to all core features of the game, such as your equipment panel or the GPS.</e>
+    <e id="17">Make sure to check out all the hints to get a basic understanding of how to play the game!</e>
+    <e id="18">The GPS shows important points on the map, such as mission targets or NPCs. Left click on the minimap to show/hide GPS.</e>
+    <e id="19">Basic Instructions</e>
+    <e id="20">Control character with the W A S D keys</e>
+    <e id="21">Control camera by holding down middle mouse button. This can be changed within the SCU options menu, Middle button used for lagless control.</e>
+    <e id="22">Use skill bar abilities by clicking their icon, or pressing the corresponding hotkey on your keyboard.</e>
+    <e id="23">How To Win</e>
+    <e id="24">Complete all missions.</e>
+    <e id="25">Advanced Instructions</e>
+    <e id="26">Select enemy units by left clicking them or press tab to cycle through nearby enemies.</e>
+    <e id="27">Toggle auto-attack on to automatically move to and attack selected units. Auto-attack is the first ability on your main skill bar.</e>
+    <e id="28">Link consumable items to your skill bar by left-clicking them in your inventory and clicking the "Add to skillbar" button in item options.</e>
+    <e id="29">Craft unique items by obtaining all required components from blueprints and then use the blueprint.</e>
+    <e id="30">Control + click or Alt + click ability icons on your skill bar to move them or change hotkeys.</e>
+    <e id="31">Version 1.0</e>
+    <e id="32">February 15, 2013</e>
+    <e id="33">Please visit upheavalarts.com/starcraftuniverse for changelogs.</e>
+    <e id="34">http://upheavalarts.com/starcraftuniverse</e>
+</Locale>

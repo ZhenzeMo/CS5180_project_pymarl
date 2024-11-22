@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="ruRU">
+    <e id="1">Wings of Liberty Coop 23. [S] Piercing the Shroud</e>
+    <e id="2"></e>
+    <e id="3">Кастанар (военная база)</e>
+    <e id="4">Другое</e>
+    <e id="5">Тип игры не определен.</e>
+    <e id="6">Coop - Secret</e>
+    <e id="7">Map only available to those that found the secret.</e>
+    <e id="8">Основные инструкции</e>
+    <e id="9">Как победить</e>
+    <e id="10">Дополнительные инструкции</e>
+    <e id="11">Версия 1.0</e>
+    <e id="12">Январь 13, 2018</e>
+    <e id="13">Resources should now show at the end.</e>
+    <e id="14">Версия 1.1</e>
+    <e id="15">Май 1, 2018</e>
+    <e id="16">Briefing added.</e>
+    <e id="17">Briefing can be skipped.</e>
+    <e id="18">Lowered the amount of item charges you get from item pickups.</e>
+    <e id="19">Moved some pickups around.</e>
+    <e id="20">Tried to fix the UI bug.</e>
+    <e id="21">Версия 1.2</e>
+    <e id="22">Июнь 20, 2019</e>
+    <e id="23">Hopefully fixed a bug with the camera UI.</e>
+</Locale>

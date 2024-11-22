@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">BGH with Supply at 500</e>
+    <e id="2">All minerals are at 20,000 and vespene at 25,000.  Supply limit is increased to 500 for all races.  No other changes.</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">How To Win</e>
+    <e id="5">Advanced Instructions</e>
+</Locale>

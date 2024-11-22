@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="itIT">
+    <e id="1">Ohana LE</e>
+    <e id="2">Mappa vincitrice della competizione di TeamLiquid.&lt;br&gt;&lt;br&gt;Creata da IronManSC.</e>
+    <e id="3">Bel'Shir (giungla)</e>
+    <e id="4">Scontro</e>
+    <e id="5">Partita standard contro altri giocatori.</e>
+    <e id="6">1v1</e>
+    <e id="7">Due giocatori si sfidano all'ultimo sangue.</e>
+    <e id="8">Altro</e>
+    <e id="9">Tipo di partita non classificato.</e>
+    <e id="10">Altro</e>
+    <e id="11">Modalità di gioco non classificata.</e>
+    <e id="12">Istruzioni base</e>
+    <e id="13">Come si vince</e>
+    <e id="14">Istruzioni avanzate</e>
+</Locale>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="frFR">
+    <e id="1">StarJeweled</e>
+    <e id="2">Dans StarJeweled, vous alignez 3 joyaux identiques horizontalement ou verticalement pour générer de l&apos;énergie, que vous utiliserez pour former des unités ou activer des capacités. Écrasez la base ennemie pour emporter la victoire.</e>
+    <e id="3">Monlyth (Lunaire)</e>
+    <e id="4">Bras de fer</e>
+    <e id="5">Construisez des bâtiments qui envoient des unités attaquer la base ennemie.</e>
+    <e id="6">2c2</e>
+    <e id="7">Deux équipes luttent pour la domination.</e>
+    <e id="8">Deux alignements sont créés avec un seul coup, ce qui octroie un bonus d&apos;énergie.</e>
+    <e id="9">Les Colosses excellent contre les unités légères, alors que les chars de sièges sont très efficaces contre les bâtiments.</e>
+    <e id="10">Pointez les unités dans le menu d&apos;invocation pour voir leurs forces et leurs faiblesses.</e>
+    <e id="11">Une judicieuse cellule de tranfert rend l&apos;ultralisk adverse inoffensif.</e>
+    <e id="12">Vous ne pouvez jouer un coup que s&apos;il en résulte un alignement.</e>
+    <e id="13">Plus vous alignez de gemmes, plus vous obtenez d&apos;énergie.</e>
+    <e id="14">Invoquez des unités en cliquant sur les boutons unités sous votre barre d&apos;énergie.</e>
+    <e id="15">Détruisez la base ennemie et la victoire est à vous.</e>
+    <e id="16">Instructions de base</e>
+    <e id="17">Inversez 2 joyaux adjacents pour créer un alignement.</e>
+    <e id="18">Si vous alignez 3 joyaux ou plus de la même couleur, ils disparaîtront et vous gagnerez de l&apos;énergie.</e>
+    <e id="19">Utilisez votre énergie pour créer des unités qui attaqueront vos ennemis.</e>
+    <e id="20">Comment gagner</e>
+    <e id="21">Détruire la base ennemie.</e>
+    <e id="22">Instructions avancées</e>
+    <e id="23">Créer un alignement en bas du tableau peut en déclencher d&apos;autres plus haut.</e>
+    <e id="24">Vous recevrez un bonus d&apos;énergie si vous réalisez plusieurs alignements avec un seul coup.</e>
+    <e id="25">Chaque unité a des forces et des faiblesses différentes. Essayez de créer des unités qui sont performantes contre celles de votre adversaire.</e>
+    <e id="26">Une bonne utilisation des capacités spéciales peut changer l&apos;issue du conflit.</e>
+    <e id="27">Vous pouvez économiser votre énergie pour envoyer une grosse vague d&apos;unités, ou quelques unités très puissantes.</e>
+    <e id="28">Version 1.0</e>
+    <e id="29">25 Juillet 2012</e>
+    <e id="30">Arcade v.1.0</e>
+</Locale>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">Golpe orbital</e>
+    <e id="2">El enemigo realiza ataques orbitales reiteradamente en todo el mapa.</e>
+    <e id="3">Instrucciones básicas</e>
+    <e id="4">Cómo ganar</e>
+    <e id="5">Instrucciones avanzadas</e>
+</Locale>

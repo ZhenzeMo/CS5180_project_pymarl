@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">Lanzamiento del Vacío</e>
+    <e id="2">Amón está utilizando los conductos de transposición de Kaldir para transportar sus tropas por el sector. Destruye los transbordadores que las llevan antes de que lleguen a los conductos de transposición.</e>
+    <e id="3">Mundo gélido Ex2</e>
+    <e id="4">Varios</e>
+    <e id="5">Partidas de tipos varios</e>
+    <e id="6">Personalizado</e>
+    <e id="7">Todas las configuraciones se pueden personalizar.</e>
+    <e id="8">Instrucciones básicas</e>
+    <e id="9">Cómo ganar</e>
+    <e id="10">Instrucciones avanzadas</e>
+</Locale>

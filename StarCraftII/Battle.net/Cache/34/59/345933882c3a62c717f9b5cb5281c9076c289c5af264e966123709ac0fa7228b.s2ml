@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="ptBR">
+    <e id="1">Chef de Aiur</e>
+    <e id="2">Em um local remoto do planeta Aiur, os chefs fanáticus aspirantes, especializados nas artes culinárias e de abate competem pelo título de Chef de Aiur.</e>
+    <e id="3">Aiur (urbano)</e>
+    <e id="4">Arena</e>
+    <e id="5">Grupos de unidades equilibrados se enfrentam em uma arena de combate.</e>
+    <e id="6">TCT</e>
+    <e id="7">Todos os jogadores lutam até ficar um.</e>
+    <e id="8">Alguns ingredientes podem ser encontrados no chão. Outros precisam que você mate criaturas selvagens.</e>
+    <e id="9">Fique sempre de olho no seu cartão de receitas para decidir quais ingredientes coletar.</e>
+    <e id="10">Depois que completar uma receita, retorne ao centro para preparar seu prato.</e>
+    <e id="11">Alcance a maior pontuação depois de 3 rodadas para receber o título de &quot;Chef de Aiur&quot;.</e>
+    <e id="12">Instruções Básicas</e>
+    <e id="13">Explore o mapa para coletar ingredientes. Use a sua lista no canto direito para decidir quais ingredientes coletar.</e>
+    <e id="14">Depois que tiver todos os ingredientes para uma receita, retorne ao centro do mapa para completar seu prato.</e>
+    <e id="15">Seu chef ressurge se for morto, mas ele largará todos os ingredientes que carregava.</e>
+    <e id="16">Como Vencer</e>
+    <e id="17">Alcance a maior pontuação depois de 3 rodadas.</e>
+    <e id="18">Instruções Avançadas</e>
+    <e id="19">Cada rodada oferece receitas baseadas em ingredientes especiais.</e>
+    <e id="20">Tente misturar as receitas. Cozinhar o mesmo prato várias vezes pode fazer com que você receba menos pontos.</e>
+    <e id="21">Algumas receitas concedem habilidades especiais ou aprimoramentos para o seu Chef, além de pontos.</e>
+    <e id="22">Colete uma Carga de Restauração para curar seu Chef se ele ficar ferido.</e>
+    <e id="23">Você pode largar itens não desejados do seu inventário se precisar de espaço ou quiser mudar de receita.</e>
+    <e id="24">Versão 1.0</e>
+    <e id="25">Julho 25, 2012</e>
+    <e id="26">Arcade v.1.0</e>
+</Locale>

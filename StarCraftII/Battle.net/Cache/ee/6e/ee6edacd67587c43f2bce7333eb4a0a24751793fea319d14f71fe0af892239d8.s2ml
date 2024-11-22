@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Big Game Hunters + Workers Cost no Supply - Ailathis</e>
+    <e id="2">All Mineral Fields on the map are increased to 20,000 minerals and Vespene Geysers are increased to 25,000 gas. Gas harvest rate increased a little bit to to allow for 1 base play.  Workers cost no supply.</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">How To Win</e>
+    <e id="5">Advanced Instructions</e>
+</Locale>

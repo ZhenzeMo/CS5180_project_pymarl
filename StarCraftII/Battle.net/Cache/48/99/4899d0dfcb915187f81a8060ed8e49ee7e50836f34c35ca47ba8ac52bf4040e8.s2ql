@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><locale locale="enUS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="l10n_output.xsd">
+  <e id="0">3-ROUND</e>
+  <e id="1">1V1</e>
+  <e id="2">- 3 rounds with 8 players
+- Single elimination bracket play
+- 25 minute games with 5 minute breaks
+- No time limit on the final match</e>
+</locale>

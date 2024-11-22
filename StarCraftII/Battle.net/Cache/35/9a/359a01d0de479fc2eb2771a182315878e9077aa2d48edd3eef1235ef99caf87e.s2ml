@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="zhCN">
+    <e id="1">小捞油水</e>
+    <e id="2">玩家的工人单位采集资源的效率降低，但是地图上会生成可以拾取的资源。</e>
+    <e id="3">基础说明</e>
+    <e id="4">如何获胜</e>
+    <e id="5">进阶说明</e>
+</Locale>

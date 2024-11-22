@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">Ciberguerra</e>
+    <e id="2">Hace mucho tiempo, este complejo protoss se usaba para convertir personalidades de grandes guerreros en inteligencias artificiales llamadas Purificadores. Los investigadores probaron el proceso en un prisionero tal&apos;darim, que con su personalidad pícara comenzó a atacar el complejo. Ahora Aurana, la guardiana de los Purificadores, intenta recuperar el control.</e>
+    <e id="3">Desierto de purificación</e>
+    <e id="4">Varios</e>
+    <e id="5">Partidas de tipos varios</e>
+    <e id="6">Instrucciones básicas</e>
+    <e id="7">Cómo ganar</e>
+    <e id="8">Instrucciones avanzadas</e>
+</Locale>

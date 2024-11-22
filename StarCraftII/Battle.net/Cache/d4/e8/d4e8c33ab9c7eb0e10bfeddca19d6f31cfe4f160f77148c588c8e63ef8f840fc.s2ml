@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="ruRU">
+    <e id="1">Coop Hots - 5. Fire in the Sky</e>
+    <e id="2">Required for the Heart of the Swarm 3 player cooperative maps.&lt;br&gt;All missions require a purchased copy of Heart of the Swarm or all the campaigns to be played.</e>
+    <e id="3">(HotS) Чар 2 (вулканическая поверхность)</e>
+    <e id="4">Другое</e>
+    <e id="5">Тип игры не определен.</e>
+    <e id="6">Custom</e>
+    <e id="7">Heart of the Swarm Coop</e>
+    <e id="8"></e>
+    <e id="9">The second player has a separate base, attack quickly or they could fall to the Dominion forces.</e>
+    <e id="10">Основные инструкции</e>
+    <e id="11">Как победить</e>
+    <e id="12">Дополнительные инструкции</e>
+    <e id="13">Версия 0.1</e>
+    <e id="14">Июнь 13, 2019</e>
+    <e id="15">First upload, just to test.</e>
+    <e id="16">Версия 0.2</e>
+    <e id="17">Июнь 29, 2019</e>
+    <e id="18">Removed some imports, fixed up tech tree (most of it)</e>
+    <e id="19">Версия 0.3</e>
+    <e id="20">Июнь 29, 2019</e>
+    <e id="21">Swarm Queens no longer have the Broodling ability.</e>
+    <e id="22">Версия 0.4</e>
+    <e id="23">Июль 5, 2019</e>
+    <e id="24">-Added much translate for RUS version</e>
+    <e id="25">-Fixed sreenshot</e>
+    <e id="26">http://discord.gg/tJr75Ew</e>
+</Locale>

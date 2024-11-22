@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Galactic Grinder</e>
+    <e id="2">Succesor to Void Idle with new features&lt;br&gt;&lt;br&gt;Grind through endless depths while unlocking new bonuses along the way</e>
+    <e id="3">The Void</e>
+    <e id="4">Other</e>
+    <e id="5">Unclassified game type.</e>
+    <e id="6">Custom</e>
+    <e id="7">All settings may be customized.</e>
+    <e id="8">Zergling</e>
+    <e id="9">Kill through endless depth of ever increasing difficulty</e>
+    <e id="10">Cast spells to help you progress</e>
+    <e id="11">Basic Instructions</e>
+    <e id="12">Read f12</e>
+    <e id="13">AFK a bit</e>
+    <e id="14">How To Win</e>
+    <e id="15">Win an Idle game ? lol</e>
+    <e id="16">Advanced Instructions</e>
+    <e id="17">AFK a lot</e>
+    <e id="18">Reset when it gets slow</e>
+    <e id="19">Unlocks should be done when acquired or on the following galaxy</e>
+    <e id="20">Version 0.1</e>
+    <e id="21">July 7, 2019</e>
+    <e id="22">Initial Public Release</e>
+    <e id="23">Version 0.2</e>
+    <e id="24">July 7, 2019</e>
+    <e id="25">   Fixes -</e>
+    <e id="26">   - Fixed a few upgrades not properly resetting your units</e>
+    <e id="27">   - Fixed a few challenges not properly allowing you to buy them</e>
+</Locale>

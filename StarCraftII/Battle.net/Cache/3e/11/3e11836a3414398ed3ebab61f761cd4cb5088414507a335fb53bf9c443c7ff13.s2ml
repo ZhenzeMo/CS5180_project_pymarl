@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="frFR">
+    <e id="1">Minerai vagabond</e>
+    <e id="2">Tous les gisements de minerai de la carte se comportent comme des créatures neutres et se déplacent de façon aléatoire dans une petite zone.</e>
+    <e id="3">Instructions de base</e>
+    <e id="4">Comment gagner</e>
+    <e id="5">Instructions avancées</e>
+</Locale>

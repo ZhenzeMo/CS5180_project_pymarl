@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="deDE">
+    <e id="1">Bedrohung auf Korhal</e>
+    <e id="2">Leerenspalten haben sich überall im Palastbezirk von Augustgrad geöffnet. Gemeinsam müssen Sie die Spalte vernichten, bevor die Hybriden Ihre Streitkräfte überwältigen.</e>
+    <e id="3">Korhal - Stadt</e>
+    <e id="4">Verschiedenes</e>
+    <e id="5">Verschiedene Spieltypen.</e>
+    <e id="6">Benutzerdefiniert</e>
+    <e id="7">Alle Einstellungen können vom Benutzer konfiguriert werden.</e>
+    <e id="8">Grundinformationen</e>
+    <e id="9">Wie man gewinnt</e>
+    <e id="10">Erweiterte Anweisungen</e>
+</Locale>

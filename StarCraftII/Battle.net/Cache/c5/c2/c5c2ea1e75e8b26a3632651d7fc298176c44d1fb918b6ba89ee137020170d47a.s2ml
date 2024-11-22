@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="plPL">
+    <e id="1">WCS GameHeart - Pro Series</e>
+    <e id="2">WCS GameHeart to modyfikacja rozszerzeniowa zaprojektowana, aby ułatwić oglądanie rozgrywek w StarCrafta 2.&lt;br&gt;&lt;br&gt;Blizzard Entertainment chce podziękować członkom społeczności, do których zaliczają się Ryan Schutter, Christoph Ahlers, Philip Tan, Nick Mohr, The MIT Game Lab, Milov Vasya i Pedro Zea za ich wkład i niesamowitą pracę nad oryginalną modyfikacją GameHeart Mod.&lt;br&gt;&lt;br&gt;Do rozwoju modyfikacji przyczynił się również MIT Game Lab.</e>
+    <e id="3">Kiedy widoczny jest pasek statusu, ikony nad budowlami pokazują, co w nich powstaje lub jest opracowywane.</e>
+    <e id="4">Powiadomienia o ulepszeniach, które informują o ich trwaniu, zakończeniu, anulowaniu lub odrzuceniu.</e>
+    <e id="5">Powiadomienia, które informują o tym, ile jednostek robotniczych stracił gracz w ostatnim starciu.</e>
+    <e id="6">Podstawowe instrukcje</e>
+    <e id="7">Aby zmienić interfejs, przejdź do opcji rozgrywki i wybierz go z menu!</e>
+    <e id="8">Aby wzmocnić kolory drużyny, przejdź do opcji rozgrywki i dostosuj intensywność barw drużyny!</e>
+    <e id="9">Aby uzyskać dostęp do logo drużynowych i ligowych, upewnij się, że plik Logos.SC2Mod znajduje się w katalogu Dokumenty/Starcraft II!</e>
+    <e id="10">Jak wygrać:</e>
+    <e id="11">Instrukcje zaawansowane</e>
+    <e id="12">WCS 2.0 to obecnie jedyny interfejs posiadający elementy niezbędne do wyświetlania przełączanego panelu informacyjnego.</e>
+    <e id="13">Logos.SC2Mod to specjalny plik modyfikacji, który pozwala wyświetlać na mapie logo dla obserwujących.</e>
+    <e id="14">Instrukcje dotyczące korzystania z Logos.SC2Mod można znaleźć w dokumentacji online.</e>
+</Locale>

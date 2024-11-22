@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Stack That Cannon! Defense!</e>
+    <e id="2">Defend against the zerg wave! Go go stack that cannon!&lt;br&gt;&lt;br&gt;1-8 players&lt;br&gt;&lt;br&gt;V1.01 2/26/2011</e>
+    <e id="3">Monlyth (Lunar)</e>
+    <e id="4">Stack That Cannon</e>
+    <e id="5">Defense</e>
+    <e id="6">Tower Defense</e>
+    <e id="7">Build towers to defend against waves of enemies.</e>
+    <e id="8">Stack That Cannon</e>
+    <e id="9">All settings may be customized.</e>
+    <e id="10">Broodling Upgrade</e>
+    <e id="11">Hydralisk upgrade</e>
+    <e id="12">Baneling upgrade</e>
+    <e id="13">Brood Lord Upgrade</e>
+    <e id="14">Ultralisk Upgrade</e>
+    <e id="15">Zergling upgrade</e>
+    <e id="16">Drone Upgrade</e>
+    <e id="17">Overlord Upgrade</e>
+    <e id="18">Mutalisk Upgrade</e>
+    <e id="19">Infested Terran Upgrade</e>
+    <e id="20">Roach upgrade</e>
+    <e id="21">Nydus Worm upgrade</e>
+</Locale>

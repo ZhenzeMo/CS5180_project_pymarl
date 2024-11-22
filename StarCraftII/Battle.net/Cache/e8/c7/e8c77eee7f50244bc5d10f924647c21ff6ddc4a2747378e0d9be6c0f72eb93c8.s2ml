@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="zhCN">
+    <e id="1">坚强意志</e>
+    <e id="2">敌方英雄单位附近有任何非英雄敌方单位时，其所受到的伤害最高不超过10点。</e>
+    <e id="3">基础说明</e>
+    <e id="4">如何获胜</e>
+    <e id="5">进阶说明</e>
+</Locale>

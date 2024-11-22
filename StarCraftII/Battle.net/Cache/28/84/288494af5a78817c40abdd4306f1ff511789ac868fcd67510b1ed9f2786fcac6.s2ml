@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Green Tea AI (GTAI)</e>
+    <e id="2">GTAI was created by ptanhkhoa &amp; Nexxy, modified for patch 3.x by NeoBlade.&lt;br&gt;&lt;br&gt;GameHeart: Blizzard Entertainment would like to thank and recognize community members Ryan Schutter, Christoph Ahlers, Philip Tan, Nick Mohr, The MIT Game Lab, Milov Vasya and Pedro Zea for their amazing work on the original GameHeart Mod.&lt;br&gt;&lt;br&gt;Portions contributed by the MIT Game Lab.</e>
+    <e id="3">Upgrade notifications that alert you when they are completing, complete, cancelled or denied.</e>
+    <e id="4">Icons over buildings which show what they are training or researching while their status bar is displayed.</e>
+    <e id="5">Workers killed notifications that alert you how many workers were lost in the last engagement for a player.</e>
+    <e id="6">Basic Instructions</e>
+    <e id="7">To get a custom interface, make sure to go into your gameplay options and select one from the dropdown!</e>
+    <e id="8">To see stronger team colors go into your gameplay options and adjust your team color intensity option!</e>
+    <e id="9">To get team and league logos, make sure to put a Logos.SC2Mod file in your Documents/Starcraft II directory!</e>
+    <e id="10">How To Win</e>
+    <e id="11">Advanced Instructions</e>
+    <e id="12">The WCS 2.0 interface is the only interface to currently have the necessary UI elements to display the cycling information panel.</e>
+    <e id="13">Logos.SC2Mod is a special type of mod file which manages the display of logos on the map for observing.</e>
+    <e id="14">Please refer to online documentation for instructions on using a Logos.SC2Mod.</e>
+    <e id="15">Version 28.0</e>
+    <e id="16">May 1, 2017</e>
+    <e id="17">- Bugfix: Stargate is build too late</e>
+    <e id="18">- Improved Oracle-Harass</e>
+    <e id="19">- Several bugfixes</e>
+    <e id="20">- Deactivated CommandCard</e>
+    <e id="21">- Newest LOTV-GTAI</e>
+    <e id="22">string version()</e>
+    <e id="23">{</e>
+    <e id="24">	return &quot;&lt;c val=\&quot;00ff00\&quot;&gt;LotV-GTAI 3.40&quot;;</e>
+    <e id="25">}</e>
+    <e id="26">Version 28.1</e>
+    <e id="27">May 2, 2017</e>
+    <e id="28">- New Feature: &quot;Periodic Harass ALL-IN &gt; 170 Supply&quot;</e>
+    <e id="29">- Bugfix: Sentry Hallus do not work</e>
+    <e id="30">Version 28.2</e>
+    <e id="31">May 3, 2017</e>
+    <e id="32">- several Bugfixes</e>
+    <e id="33">Version 29.0</e>
+    <e id="34">October 15, 2017</e>
+    <e id="35">- Tried to enhance Zerg-AI, I assume &quot;Blizzard-Saturation-Bug&quot; strikes again</e>
+    <e id="36">Version 29.1</e>
+    <e id="37">October 16, 2017</e>
+    <e id="38">ZergAI is broken. It&apos;s a Blizzard-Bug introduced in 2014, where Workers </e>
+    <e id="39">just randomly mine from different bases or just one</e>
+</Locale>

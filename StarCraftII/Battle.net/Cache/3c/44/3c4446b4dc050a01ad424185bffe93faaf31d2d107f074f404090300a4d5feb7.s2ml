@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="plPL">
+    <e id="1">Swarm Multi (Mod)</e>
+    <e id="2">Swarm Multi (Mod)</e>
+    <e id="3">Duch</e>
+    <e id="4">Duch</e>
+    <e id="5">Szpony drążące</e>
+    <e id="6">Uzbrojenie pojazdów i statków terran – poziom 3</e>
+    <e id="7">Opancerzenie pojazdów i statków terran – poziom 2</e>
+    <e id="8">Opancerzenie pojazdów i statków terran – poziom 3</e>
+    <e id="9">Opancerzenie pojazdów i statków terran – poziom 1</e>
+    <e id="10">Uzbrojenie pojazdów i statków terran – poziom 2</e>
+    <e id="11">Uzbrojenie pojazdów i statków terran – poziom 1</e>
+    <e id="12">Podstawowe instrukcje</e>
+    <e id="13">Jak wygrać:</e>
+    <e id="14">Instrukcje zaawansowane</e>
+</Locale>

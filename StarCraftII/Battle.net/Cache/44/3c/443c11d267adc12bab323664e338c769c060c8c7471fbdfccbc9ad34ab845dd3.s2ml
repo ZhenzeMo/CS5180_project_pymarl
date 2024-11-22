@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="deDE">
+    <e id="1">StarJeweled</e>
+    <e id="2">Bei StarJeweled bilden Sie eine vertikale oder horizontale Kette aus 3 oder mehr Juwelen, um Energie zu generieren, die dann zum Bau von Einheiten oder aktivieren von Fähigkeiten verwendet werden kann. Vernichten Sie die feindliche Basis, um den Sieg zu erlangen.</e>
+    <e id="3">Monlyth (Mond)</e>
+    <e id="4">Kräftemessen</e>
+    <e id="5">Bauen Sie Gebäude, welche Einheiten entsenden, um die gegnerische Basis anzugreifen.</e>
+    <e id="6">2vs2</e>
+    <e id="7">Zwei Teams aus jeweils zwei Spielern kämpfen um die Vorherrschaft.</e>
+    <e id="8">Zwei Ketten werden mit einem einzigen Zug gebildet und gewähren Bonusenergie.</e>
+    <e id="9">Kolosse eignen sich hervorragend gegen leichte Einheiten, während Belagerungspanzer gut gegen Gebäude sind.</e>
+    <e id="10">Bewegen Sie den Mauszeiger über eine Einheit im Auswahlmenü, um ihre Stärken und Schwächen zu erfahren.</e>
+    <e id="11">Ein abgepasstes Graviton-Gefängnis setzt einen gegnerischen Ultralisken außer Gefecht.</e>
+    <e id="12">Juwelen können nur ausgetauscht werden, wenn dadurch eine Kette entsteht.</e>
+    <e id="13">Je mehr Juwelen Sie zu Ketten zusammenfügen, desto mehr Energie erhalten Sie.</e>
+    <e id="14">Erschaffen Sie Einheiten, indem Sie auf die Schaltflächen unter der Energieleiste klicken.</e>
+    <e id="15">Vernichten Sie die gegnerische Basis und der Sieg ist Ihnen sicher.</e>
+    <e id="16">Grundinformationen</e>
+    <e id="17">Vertauschen Sie zwei benachbarte Juwelen miteinander, um eine Kette zu bilden.</e>
+    <e id="18">Wenn Sie eine Kette aus 3 oder mehr Juwelen derselben Farbe bilden, verschwinden diese und erzeugen Energie.</e>
+    <e id="19">Setzen Sie die Energie ein, um Einheiten zu erschaffen, die Ihre Gegner angreifen.</e>
+    <e id="20">Wie man gewinnt</e>
+    <e id="21">Vernichten Sie die gegnerische Basis.</e>
+    <e id="22">Erweiterte Anweisungen</e>
+    <e id="23">Das Bilden von Ketten im unteren Bereich kann auch weiter oben zu Ketten führen.</e>
+    <e id="24">Sie erhalten Bonusenergie, wenn Sie mit nur einem Zug mehrere Ketten bilden.</e>
+    <e id="25">Jede Einheit verfügt über unterschiedliche Stärken und Schwächen. Versuchen Sie die Einheiten zu bauen, die am stärksten gegen die gegnerischen Einheiten sind.</e>
+    <e id="26">Der gezielte Einsatz von Spezialfähigkeiten kann das Blatt in einer Schlacht wenden.</e>
+    <e id="27">Sie können Energie ansparen, um eine große Welle Einheiten oder wenige sehr mächtige zu entsenden.</e>
+    <e id="28">Version 1.0</e>
+    <e id="29">Juli 25, 2012</e>
+    <e id="30">Arcade V 1.0</e>
+</Locale>

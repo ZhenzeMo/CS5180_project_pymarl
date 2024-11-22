@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="zhCN">
+    <e id="1">暴风雪</e>
+    <e id="2">风暴雷云在地图上飘荡，对位于其行进路线上的玩家单位造成伤害并将其冻结。</e>
+    <e id="3">基础说明</e>
+    <e id="4">如何获胜</e>
+    <e id="5">进阶说明</e>
+</Locale>

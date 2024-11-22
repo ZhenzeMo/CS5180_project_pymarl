@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Discovered</e>
+    <e id="2">Your expedition has just discovered an isolated planet filled with ruins of an ancient race. In a desolate environment, you find resources not long before sighting your foes. The victor of this battle is still to be discovered.</e>
+    <e id="3">Bel'Shir (Jungle)</e>
+    <e id="4">Melee</e>
+    <e id="5">Standard melee games against other players</e>
+    <e id="6">1V1</e>
+    <e id="7">Two players fight to the death.</e>
+    <e id="8">Miscellaneous</e>
+    <e id="9">Miscellaneous game types</e>
+    <e id="10">Other</e>
+    <e id="11">Unclassified game mode.</e>
+    <e id="12">Basic Instructions</e>
+    <e id="13">How To Win</e>
+    <e id="14">Advanced Instructions</e>
+</Locale>

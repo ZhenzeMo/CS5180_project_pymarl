@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="deDE">
+    <e id="1">Void (Mod)</e>
+    <e id="2">Void (Mod)</e>
+    <e id="3">Herk</e>
+    <e id="4">Disruptor</e>
+    <e id="5">Replikant</e>
+    <e id="6">Falke</e>
+    <e id="7">Falke</e>
+    <e id="8">Zyklon</e>
+    <e id="9">Vergifter</e>
+    <e id="10">Verheerer</e>
+    <e id="11">Terror</e>
+    <e id="12">Schatten</e>
+    <e id="13">Vergifter</e>
+    <e id="14">Herk</e>
+    <e id="15">Adept</e>
+    <e id="16">Wiederbelebung für Unsterbliche - Leiche</e>
+    <e id="17">Brutkönigin</e>
+    <e id="18">Bohrkrallen</e>
+    <e id="19">Level-3-Upgrade für Fahrzeug- und Schiffswaffen (Terraner)</e>
+    <e id="20">Schildverbesserung</e>
+    <e id="21">Level-2-Upgrade für Fahrzeug- und Schiffspanzerung (Terraner)</e>
+    <e id="22">Schockwelle</e>
+    <e id="23">Luftziele erfassen</e>
+    <e id="24">Level-3-Upgrade für Fahrzeug- und Schiffspanzerung (Terraner)</e>
+    <e id="25">Wiederbelebung für Unsterbliche</e>
+    <e id="26">Level-1-Upgrade für Fahrzeug- und Schiffspanzerung (Terraner)</e>
+    <e id="27">Unsterblicher - Barriere</e>
+    <e id="28">Level-2-Upgrade für Fahrzeug- und Schiffswaffen (Terraner)</e>
+    <e id="29">Zielfindungsoptik</e>
+    <e id="30">Bodenabwehrmodus</e>
+    <e id="31">Level-1-Upgrade für Fahrzeug- und Schiffswaffen (Terraner)</e>
+    <e id="32">Grundinformationen</e>
+    <e id="33">Wie man gewinnt</e>
+    <e id="34">Erweiterte Anweisungen</e>
+</Locale>

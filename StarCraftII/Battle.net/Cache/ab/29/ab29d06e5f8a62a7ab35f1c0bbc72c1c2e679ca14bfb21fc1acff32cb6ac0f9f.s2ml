@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Campaign Units and Buildings Unlimited Infinite 3</e>
+    <e id="2">This mod adds units and buildings exclusive to the Starcraft 2 Campaign Mode to the Multiple-Player experience.&lt;br&gt;&lt;br&gt;Mineral deposits and vespene geysers have their capacity increased by 100 times the normal value.&lt;br&gt;&lt;br&gt;The supply limit was raised to 500.</e>
+    <e id="3">Tech Reactor</e>
+    <e id="4">Reactor</e>
+    <e id="5">Basic Instructions</e>
+    <e id="6">How To Win</e>
+    <e id="7">Advanced Instructions</e>
+</Locale>

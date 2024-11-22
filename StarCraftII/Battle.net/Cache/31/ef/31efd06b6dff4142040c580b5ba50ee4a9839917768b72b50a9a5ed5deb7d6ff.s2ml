@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="ruRU">
+    <e id="1">Apex Roleplay - Updated Megalopolis</e>
+    <e id="2">Всякое описание отсутствует.</e>
+    <e id="3">(HotS) Корхал-сити</e>
+    <e id="4">Другое</e>
+    <e id="5">Тип игры не определен.</e>
+    <e id="6">Custom</e>
+    <e id="7">All settings may be customized.</e>
+    <e id="8">Residential Area</e>
+    <e id="9">Farms</e>
+    <e id="10">Marketplace</e>
+    <e id="11">Riverside</e>
+    <e id="12">Airport</e>
+    <e id="13">Основные инструкции</e>
+    <e id="14">Roleplay by imagining different characters and interacting with other players.</e>
+    <e id="15">Type &quot;commands&quot; into chat to see a list all cortex commands.</e>
+    <e id="16">This is a city themed map, use it to build a story. </e>
+    <e id="17">Как победить</e>
+    <e id="18">Cortex is a sandbox, use it for creating stories and your own entertainment.</e>
+    <e id="19">Дополнительные инструкции</e>
+    <e id="20">Map terrain made by Adonminus.</e>
+    <e id="21">Special thanks to Snivs.</e>
+    <e id="22">Версия 1.0</e>
+    <e id="23">Январь 13, 2018</e>
+    <e id="24">For a full list of Patch Notes, consult the previously published Cortex version of this map.</e>
+    <e id="25"></e>
+    <e id="26">Aside from being Apex instead of Cortex, this also has:</e>
+    <e id="27">- the Serobliss Dependency pack that you will see in all Apex maps</e>
+    <e id="28">- a complete removal of all terrain collision</e>
+    <e id="29">Версия 1.1</e>
+    <e id="30">Июнь 17, 2019</e>
+    <e id="31">Updated manually by Comfromal to include all dependancies lost.</e>
+</Locale>

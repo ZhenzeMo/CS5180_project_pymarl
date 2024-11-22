@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="koKR">
+    <e id="1">궤도 폭격</e>
+    <e id="2">적의 궤도 폭격이 주기적으로 지도 곳곳에 떨어집니다.</e>
+    <e id="3">기본 설명</e>
+    <e id="4">승리 방식</e>
+    <e id="5">고급 설명</e>
+</Locale>

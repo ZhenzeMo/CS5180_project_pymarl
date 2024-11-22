@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">No_Unit_Limit</e>
+    <e id="2">Minerals set to 20000 and Vespene Gas set to 250000&lt;br&gt;&lt;br&gt;Supply cap raised to 9999&lt;br&gt;&lt;br&gt;Made by ParthTactics</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">How To Win</e>
+    <e id="5">Advanced Instructions</e>
+</Locale>

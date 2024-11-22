@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">PeepMode Lost and Found LE</e>
+    <e id="2">Play or observe 1v1, 2v2, and FFA matches.  Graphical team selection, smart cam, event log, live stats, betting, unlockable avatars, global rating, and more.&lt;br&gt;&lt;br&gt;MAP: LOST AND FOUND</e>
+    <e id="3">Korhal City</e>
+    <e id="4">Game Style</e>
+    <e id="5">Commentator</e>
+    <e id="6">Democratic</e>
+    <e id="7">Role</e>
+    <e id="8">Player</e>
+    <e id="9">Commentator</e>
+    <e id="10">Other</e>
+    <e id="11">Unclassified game type.</e>
+    <e id="12">Peepmode</e>
+    <e id="13">All players vote on global options; commentator tools disabled</e>
+    <e id="14">CustomDecalMuta</e>
+    <e id="15">Basic Instructions</e>
+    <e id="16">Compete in standard melee matches or sit back and observe</e>
+    <e id="17">Great way to practice, socialize, and improve your skill</e>
+    <e id="18">How To Win</e>
+    <e id="19">Beat your opponents in melee matches and make winning bets as a spectator</e>
+    <e id="20">Advanced Instructions</e>
+    <e id="21">See in-game Help (F12) for detailed instructions and list of commands</e>
+    <e id="22">See peepmode.com for video tutorials and discussions</e>
+    <e id="23">Version 1.0</e>
+    <e id="24">July 15, 2018</e>
+    <e id="25">Initial release of PeepMode Lost and Found LE. Note, missing bug fixes made by zippy, the author of other PeepMode maps.</e>
+    <e id="26">Bug fixes will later be added.</e>
+    <e id="27">Version 1.2</e>
+    <e id="28">July 16, 2018</e>
+    <e id="29">Observers can no longer steal units from players using alt.</e>
+    <e id="30">Version 1.5</e>
+    <e id="31">July 18, 2018</e>
+    <e id="32">Bug fix: The peepmode soundtrack will now properly play</e>
+    <e id="33">http://peepmode.com</e>
+</Locale>

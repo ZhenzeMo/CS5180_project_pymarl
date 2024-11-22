@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="l10n_output.xsd" locale="enUS">
+  <e id="1">1V1</e>
+  <e id="2">2V2</e>
+  <e id="3">3V3</e>
+  <e id="4">4V4</e>
+  <e id="5">FFA</e>
+  <e id="71">1VA.I.</e>
+  <e id="72">2VA.I.</e>
+  <e id="73">3VA.I.</e>
+  <e id="81">STAGE 1</e>
+  <e id="82">STAGE 2</e>
+  <e id="83">STAGE 3</e>
+  <e id="101">1V1</e>
+  <e id="102">2V2</e>
+  <e id="103">3V3</e>
+  <e id="104">4V4</e>
+  <e id="105">FFA</e>
+  <e id="171">1VA.I.</e>
+  <e id="172">2VA.I.</e>
+  <e id="173">3VA.I.</e>
+  <e id="181">STAGE 1</e>
+  <e id="182">STAGE 2</e>
+  <e id="183">STAGE 3</e>
+  <e id="201">1V1</e>
+  <e id="202">2V2</e>
+  <e id="203">3V3</e>
+  <e id="204">4V4</e>
+  <e id="206">Archon</e>
+  <e id="211">Testing</e>
+  <e id="271">1VA.I.</e>
+  <e id="272">2VA.I.</e>
+  <e id="273">3VA.I.</e>
+  <e id="275">Archon V A.I.</e>
+  <e id="281">STAGE 1</e>
+  <e id="282">STAGE 2</e>
+  <e id="283">STAGE 3</e>
+  <e id="290">Co-op</e>
+  <e id="291">Mutation</e>
+  <e id="292">Custom Mutation</e>
+  <e id="301">1V1</e>
+  <e id="311">1V1</e>
+  <e id="10202">2V2</e>
+</locale>

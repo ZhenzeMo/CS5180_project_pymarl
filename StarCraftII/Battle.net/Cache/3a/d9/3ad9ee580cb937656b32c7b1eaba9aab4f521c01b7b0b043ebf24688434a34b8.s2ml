@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Coop + Zombie 3.18</e>
+    <e id="2">Allows the use of all Coop Commanders, in PvP games. Commander select is in-game and all Commanders are level 15.&lt;br&gt;&lt;br&gt;Originally made by EatsHumans&lt;br&gt;Modify to work with Patch 3.17 and hopefully not break with updates&lt;br&gt;Mod is OpenSource, simply give credits</e>
+    <e id="3">Death Council</e>
+    <e id="4">Ascendant Archives</e>
+    <e id="5">Basic Instructions</e>
+    <e id="6">Uses all Coop Commanders</e>
+    <e id="7">Preset to level 15, with no masteries.</e>
+    <e id="8">How To Win</e>
+    <e id="9">Advanced Instructions</e>
+    <e id="10">Version 1.7</e>
+    <e id="11">February 28, 2017</e>
+    <e id="12">Fixed Shadow Fury Button.</e>
+    <e id="13">Removed internal testing bug.</e>
+    <e id="14">(Swann) BFG repairs in progress.</e>
+    <e id="15">(Karax) Chrono Wave is being investigated.</e>
+    <e id="16">Version 1.8</e>
+    <e id="17">March 1, 2017</e>
+    <e id="18">Fixed Placement Errors for starting structures (Karax/Nova/Stukov/Swann)</e>
+    <e id="19">(Karax) Chrono Wave is now functional. (still needs button tooltip update)</e>
+    <e id="20">(Nova/Swann) Fixed Spinning Dizzy / Missile Turret name mixup.</e>
+    <e id="21">Version 1.9</e>
+    <e id="22">March 7, 2017</e>
+    <e id="23">(Swann) Concentrated Beam is now working.</e>
+    <e id="24">Version 1.10</e>
+    <e id="25">March 27, 2017</e>
+    <e id="26">(Artanis) fixed bug with Sheild overcharge, causing it to effect only players 1 and 2.</e>
+    <e id="27">(Artanis) fixed but with Orbital Strike.</e>
+    <e id="28">Version 1.11</e>
+    <e id="29">May 25, 2017</e>
+    <e id="30">applied fix for chat bar and menus.</e>
+    <e id="31">cyclones updated.</e>
+</Locale>

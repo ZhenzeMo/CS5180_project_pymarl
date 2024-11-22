@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esES">
+    <e id="1">Ohana EJ</e>
+    <e id="2">Ganador del concurso de mapas de TeamLiquid.&lt;br&gt;&lt;br&gt;Creado por IronManSC.</e>
+    <e id="3">Bel'Shir (selva)</e>
+    <e id="4">Refriega</e>
+    <e id="5">Una refriega normal contra otros jugadores.</e>
+    <e id="6">1 vs 1</e>
+    <e id="7">Dos jugadores luchan a muerte.</e>
+    <e id="8">Miscelánea</e>
+    <e id="9">Tipo de partida no clasificado.</e>
+    <e id="10">Otro</e>
+    <e id="11">Modo de partida no clasificado.</e>
+    <e id="12">Instrucciones básicas</e>
+    <e id="13">Cómo ganar</e>
+    <e id="14">Instrucciones avanzadas</e>
+</Locale>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="plPL">
+    <e id="1">1v1 Obs LotV</e>
+    <e id="2">Brak jakiegokolwiek opisu</e>
+    <e id="3">Tajne oddziały, Laboratorium A</e>
+    <e id="4">Game Style</e>
+    <e id="5">Commentator</e>
+    <e id="6">Democratic</e>
+    <e id="7">Role</e>
+    <e id="8">Player</e>
+    <e id="9">Commentator</e>
+    <e id="10">Inne</e>
+    <e id="11">Niesklasyfikowany rodzaj gry.</e>
+    <e id="12">PeepMode</e>
+    <e id="13">Melee Spectator - PeepMode</e>
+    <e id="14">CustomDecalMuta</e>
+    <e id="15">Podstawowe instrukcje</e>
+    <e id="16">Compete in standard melee matches or sit back and observe</e>
+    <e id="17">Great way to practice, socialize, and improve your skill</e>
+    <e id="18">Jak wygrać:</e>
+    <e id="19">Beat your opponents in melee matches and make winning bets as a spectator</e>
+    <e id="20">Instrukcje zaawansowane</e>
+    <e id="21">See in-game Help (F12) for detailed instructions and list of commands</e>
+    <e id="22">See peepmode.com for video tutorials and discussions</e>
+    <e id="23">Wersja 1.0</e>
+    <e id="24">Grudzień 12, 2017</e>
+    <e id="25">See peepmode.com/changelog</e>
+    <e id="26">http://peepmode.com</e>
+</Locale>

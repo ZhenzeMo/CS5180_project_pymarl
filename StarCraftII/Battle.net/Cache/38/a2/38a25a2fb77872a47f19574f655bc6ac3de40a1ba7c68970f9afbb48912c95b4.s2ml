@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Survival Wars EU</e>
+    <e id="2">A map that combines the survival plus the tug of war mechanics:&lt;br&gt;one team has to defend (using terran and playing the game like a survival)&lt;br&gt;the other team has to attack (using zerg, buying units tug of war alike)&lt;br&gt;&lt;br&gt;The map supports AI (place computer player in the lobby)</e>
+    <e id="3">Mar Sara (Wasteland)</e>
+    <e id="4">Survival</e>
+    <e id="5">Stay alive as long as possible among hordes of enemies.</e>
+    <e id="6">1-3 v 1-3</e>
+    <e id="7">Tutte le impostazioni possono essere personalizzate.</e>
+    <e id="8">Dummy - new</e>
+    <e id="9">Basic Instructions</e>
+    <e id="10">Terran: defend your ramp, build a choke, place bunkers, infantry /siege /air</e>
+    <e id="11">Zerg: buy units that will spawn automatically, increase their number and upgrade them</e>
+    <e id="12">As a terran you can help your allies if they are much in trouble if you think your ramp can hold</e>
+    <e id="13">How To Win</e>
+    <e id="14">Terran : resist till the timer ends;  Zerg: destroy the terran headquarter before the timer ends</e>
+    <e id="15">Advanced Instructions</e>
+    <e id="16">Terran can buy mercenaries, once you buy them all the people in your team will receive them too</e>
+    <e id="17">Zerg can use manual units (i.e. viper, infestors) to change the flow of the battle</e>
+    <e id="18">All terran units killed (including structures) give resourced to the zerg player</e>
+    <e id="19">Zerg can use swarm units that will spawn for each zerg player</e>
+    <e id="20">Terran have got many upgrades that can be reaserched</e>
+    <e id="21">Version 1.66</e>
+    <e id="22">July 9, 2017</e>
+    <e id="23">- Zergling Swarmling upgrade vespene cost reduced from 6 =&gt; 3</e>
+    <e id="24">- Baneling Hunter vespene cost decreased from 5 =&gt; 4</e>
+    <e id="25">- Devourer base attack increased from 10 (25 vs armored) =&gt; 20 (55 vs armored)</e>
+    <e id="26">- Odin Barrage damage and duration increased from 1500 damage over 4 seconds =&gt; 12.000 damage over 20 seconds</e>
+    <e id="27">- Odin Barrage cast range increased from 11 =&gt; 20</e>
+    <e id="28">- Odin Hand gun damage type changed to Spell</e>
+    <e id="29">Version 1.67</e>
+    <e id="30">July 13, 2017</e>
+    <e id="31">- Scourge max movement speed increased from 3.75 =&gt; 6.75</e>
+    <e id="32">- Devourers aggro range is correctly modified by the upgrade</e>
+    <e id="33">- Devourer corrosive acid behavior now drains 1 hp/s as well as -1 armor per stack (max 20 stack)</e>
+    <e id="34">- Terran Heroes HP Aura now affects buildings as well</e>
+    <e id="35">- Terran heroes max level increased from 10 =&gt; 25</e>
+    <e id="36">Version 1.68</e>
+    <e id="37">July 15, 2017</e>
+    <e id="38">- Devourer dot kill now correctly awards minerals/vespene for the kill</e>
+    <e id="39">- Warhound can now use their missile ability on armored air units as well</e>
+    <e id="40">- Increased warhound tornado missiles total damage from 48 =&gt; 96</e>
+    <e id="41">- Diamondback damage increased from 20 (75 vs armored) =&gt; 25 (85 vs armored)</e>
+    <e id="42">- Brakk HP regen increased from 2 =&gt; 5 hp/s</e>
+    <e id="43">- Added a new Mercenary for terran: Red Adder (Diamondback)</e>
+    <e id="44">- Merc Banshee =&gt; Increased missile damage from 34 =&gt; 50</e>
+    <e id="45">- Merc Banshee =&gt; Carpet bomb damage increased from 18 =&gt; 30; doubled area of effect</e>
+    <e id="46">- Merc Viking =&gt; Doubled number of missiles fired</e>
+    <e id="47">- Omegalisk Thickness upgrade cost reduced from 4000/10 =&gt; 2000/4 (minerals/vespene)</e>
+    <e id="48">- Brutalisk air attack increased from 66 =&gt; 66 (110 vs armored)</e>
+    <e id="49">- Brutalisk air attack range increased from 7 =&gt; 8</e>
+    <e id="50">Version 1.69</e>
+    <e id="51">September 4, 2017</e>
+    <e id="52">- Omegalisk damage vs structures increased from 120 =&gt; 130</e>
+    <e id="53">Version 1.70</e>
+    <e id="54">March 18, 2018</e>
+    <e id="55">- Devourer damage reduced from 20 (55 vs armored) =&gt; 18 (40 vs armored)</e>
+    <e id="56">- Fixed a case where using the Hyperion barrage ability could case an Hyperion to last until the end of the game</e>
+    <e id="57">http://www.tapatalk.com/groups/bwsc2/</e>
+</Locale>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="plPL">
+    <e id="1">Mod testowania balansu</e>
+    <e id="2">Oficjalna modyfikacja Blizzarda do testów balansu. Dodanie tej modyfikacji rozszerzeniowej zmieni balans jednostek StarCrafta II na bieżącą wersję testową.</e>
+    <e id="3">Podstawowe instrukcje</e>
+    <e id="4">Jak wygrać:</e>
+    <e id="5">Instrukcje zaawansowane</e>
+    <e id="6">Wersja 1.0</e>
+    <e id="7">Sierpień 17, 2017</e>
+    <e id="8">Pełne informacje o nowych zmianach balansu znaleźć można w zakładce „Podsumowanie” po wybraniu odnośnika w sekcji „Szczegóły”.</e>
+    <e id="9"></e>
+    <e id="10">Dziękujemy za przetestowanie nowych zmian i zachęcamy do podzielenia się opiniami na ich temat na forach społecznościowych!</e>
+    <e id="11">http://starcraft2.com/news/22372713</e>
+</Locale>

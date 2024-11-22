@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="deDE">
+    <e id="1">Tempel der Vergangenheit</e>
+    <e id="2">Der Xel&apos;Naga-Tempel auf Shakuras wird belagert. Verschanzen Sie sich und halten Sie den gegnerischen Angriffen stand. </e>
+    <e id="3">Shakuras - Tempel</e>
+    <e id="4">Verschiedenes</e>
+    <e id="5">Verschiedene Spieltypen.</e>
+    <e id="6">Benutzerdefiniert</e>
+    <e id="7">Alle Einstellungen können vom Benutzer konfiguriert werden.</e>
+    <e id="8">Grundinformationen</e>
+    <e id="9">Wie man gewinnt</e>
+    <e id="10">Erweiterte Anweisungen</e>
+</Locale>

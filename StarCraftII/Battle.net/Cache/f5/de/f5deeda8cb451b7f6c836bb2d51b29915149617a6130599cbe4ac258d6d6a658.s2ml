@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="zhCN">
+    <e id="1">Coop + Zombie 3.18</e>
+    <e id="2">完全没有任何说明。</e>
+    <e id="3">Death Council</e>
+    <e id="4">Ascendant Archives</e>
+    <e id="5">基础说明</e>
+    <e id="6">Uses all Coop Commanders</e>
+    <e id="7">Preset to level 15, with no masteries.</e>
+    <e id="8">如何获胜</e>
+    <e id="9">进阶说明</e>
+    <e id="10">版本1.7</e>
+    <e id="11">2017年2月28日</e>
+    <e id="12">Fixed Shadow Fury Button.</e>
+    <e id="13">Removed internal testing bug.</e>
+    <e id="14">(Swann) BFG repairs in progress.</e>
+    <e id="15">(Karax) Chrono Wave is being investigated.</e>
+    <e id="16">版本1.8</e>
+    <e id="17">2017年3月1日</e>
+    <e id="18">Fixed Placement Errors for starting structures (Karax/Nova/Stukov/Swann)</e>
+    <e id="19">(Karax) Chrono Wave is now functional. (still needs button tooltip update)</e>
+    <e id="20">(Nova/Swann) Fixed Spinning Dizzy / Missile Turret name mixup.</e>
+    <e id="21">版本1.9</e>
+    <e id="22">2017年3月7日</e>
+    <e id="23">(Swann) Concentrated Beam is now working.</e>
+    <e id="24">版本1.10</e>
+    <e id="25">2017年3月27日</e>
+    <e id="26">(Artanis) fixed bug with Sheild overcharge, causing it to effect only players 1 and 2.</e>
+    <e id="27">(Artanis) fixed but with Orbital Strike.</e>
+    <e id="28">版本1.11</e>
+    <e id="29">2017年5月25日</e>
+    <e id="30">applied fix for chat bar and menus.</e>
+    <e id="31">cyclones updated.</e>
+</Locale>

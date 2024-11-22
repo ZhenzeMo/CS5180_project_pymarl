@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><locale locale="deDE" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="l10n_output.xsd">
+  <e id="0">6 RUNDEN</e>
+  <e id="1">1vs1</e>
+  <e id="2">- 6 Runden, 16 Spieler
+- 3 Runden Gruppenphase im Doppel-K.-o.-System
+- 3 Runden Turnierbaum im K.-o.-System
+- 25 Minuten pro Spiel, 5 Minuten Pause
+- Keine Zeitbeschränkung im Finale</e>
+</locale>

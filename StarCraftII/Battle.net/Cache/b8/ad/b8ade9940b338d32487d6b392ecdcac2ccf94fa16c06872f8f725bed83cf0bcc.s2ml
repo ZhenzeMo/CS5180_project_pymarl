@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">BGH+Increased Supply+No Worker Supply</e>
+    <e id="2">Mineral values 20000&lt;br&gt;Gas values 25000&lt;br&gt;Supply increased to 1000&lt;br&gt;Workers cost no supply&lt;br&gt;(Legacy of The Void)</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">How To Win</e>
+    <e id="5">Advanced Instructions</e>
+</Locale>

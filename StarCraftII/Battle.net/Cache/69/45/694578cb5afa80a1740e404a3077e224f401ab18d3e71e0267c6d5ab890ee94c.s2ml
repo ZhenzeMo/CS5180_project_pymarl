@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Infested Horde Mod</e>
+    <e id="2">Player 1 starts off by controlling the Infested Terrans, Player 1 will be able to control all Infested units that spawn in the map.&lt;br&gt;- Buildings will perodically spawn on the map for The Infested Terran Player&lt;br&gt;- Become The Infested Horde or Survive their attacks!&lt;br&gt;- Feedback Appreciated.&lt;br&gt;</e>
+    <e id="3">Infested Horde</e>
+    <e id="4">Basic Instructions</e>
+    <e id="5">Infested Terrans - Kill all players, leave none standing.</e>
+    <e id="6">Players - Kill all Infested Terrans, Including Player 1&apos;s base or they will keep spawning.</e>
+    <e id="7">FFA - Kill all Infested Terrans and other Players</e>
+    <e id="8">How To Win</e>
+    <e id="9">Alliances - Kill Player 1 entirely. FFA - Kill Player 1 and other Players</e>
+    <e id="10">Advanced Instructions</e>
+    <e id="11">Engineering Bay will slowly upgrade Infested Terrans overtime making them stronger.</e>
+    <e id="12">Infested Terrans have alot of units even in early game, Players must be careful about this.</e>
+    <e id="13">Super Infested Units have a Regenerative Aura, speeding up life regen of Allied units around it.</e>
+    <e id="14">This is mainly suggested to play with a couple friends. As AI will get a bit boring eventually. :/</e>
+    <e id="15">And finally, have fun. I certainly had fun creating this in my spare time. :)</e>
+    <e id="16">Version 1.1</e>
+    <e id="17">March 19, 2016</e>
+    <e id="18">- First Release</e>
+    <e id="19">- Added Super Infested Marine</e>
+    <e id="20">- Infested Engineering Bay now can upgrade The Infested Horde overtime.</e>
+    <e id="21">- Players start with extra Minerals and Vespene to help them actually survive.</e>
+    <e id="22">Version 1.2</e>
+    <e id="23">March 21, 2016</e>
+    <e id="24">- Overmind now spawns in the middle of the map for Player 1, which spawns Infested Terrans!</e>
+    <e id="25">- Boss bar for Overmind.</e>
+    <e id="26">- Temporarily removed AutoTrain for now.</e>
+    <e id="27">- Upon reaching 60 minutes in game Overmind will get 8 Energy Regeneration.</e>
+    <e id="28">- Players now have Objectives to help them find out what to do.</e>
+    <e id="29">- All Players will now become allies and enemies of Player 1 Automatically when the game starts.</e>
+    <e id="30">Version 1.3</e>
+    <e id="31">September 24, 2016</e>
+    <e id="32">- Finally an Update (Sorry for delay had to reset my PC due to a virus and I only just got my Mod Files back)</e>
+    <e id="33">-  Infested Engineering bay now only spawns near Overmind</e>
+    <e id="34">- Super Infested Units now only spawn every 5 minutes, but they have a slight increase in life regeneration.</e>
+</Locale>

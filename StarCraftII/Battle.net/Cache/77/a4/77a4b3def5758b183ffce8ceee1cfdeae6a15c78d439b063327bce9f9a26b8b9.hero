@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="l10n_output.xsd" locale="enUS">
+  <e id="10501">Auto Stress</e>
+  <e id="10502">Auto Quick Match</e>
+  <e id="10503">Auto Unranked Draft</e>
+  <e id="10504">Auto Hero League</e>
+  <e id="50001">Quick Match</e>
+  <e id="50021">Versus A.I.</e>
+  <e id="50031">Heroes Brawl</e>
+  <e id="50041">Training</e>
+  <e id="50051">Unranked</e>
+  <e id="50061">Hero League</e>
+  <e id="50071">Team League</e>
+  <e id="50091">Storm League</e>
+</locale>

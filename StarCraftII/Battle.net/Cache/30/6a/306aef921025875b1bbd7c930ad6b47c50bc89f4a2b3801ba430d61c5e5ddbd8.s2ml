@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">Void (Mod)</e>
+    <e id="2">Void (Mod)</e>
+    <e id="3">HERC</e>
+    <e id="4">Disruptor</e>
+    <e id="5">Replicante</e>
+    <e id="6">Libertador</e>
+    <e id="7">Libertador</e>
+    <e id="8">Ciclón</e>
+    <e id="9">Profanador</e>
+    <e id="10">Devastador</e>
+    <e id="11">Azote</e>
+    <e id="12">Sombra</e>
+    <e id="13">Profanador</e>
+    <e id="14">HERC</e>
+    <e id="15">Adepta</e>
+    <e id="16">Inmortal - Revivir - Cadáver</e>
+    <e id="17">Reina de la colonia</e>
+    <e id="18">Garras perforadoras</e>
+    <e id="19">Armas de vehículos y naves terran - Nivel 3</e>
+    <e id="20">Mejora de escudo</e>
+    <e id="21">Coraza de vehículos y naves terran - Nivel 2</e>
+    <e id="22">Ola de choque</e>
+    <e id="23">Objetivos tierra-aire</e>
+    <e id="24">Coraza de vehículos y naves terran - Nivel 3</e>
+    <e id="25">Resurgimiento de inmortal</e>
+    <e id="26">Coraza de vehículos y naves terran - Nivel 1</e>
+    <e id="27">Barrera inmortal</e>
+    <e id="28">Armas de vehículos y naves terran - Nivel 2</e>
+    <e id="29">Ópticas de ataque</e>
+    <e id="30">Libertador - Transformación</e>
+    <e id="31">Armas de vehículos y naves terran - Nivel 1</e>
+    <e id="32">Instrucciones básicas</e>
+    <e id="33">Cómo ganar</e>
+    <e id="34">Instrucciones avanzadas</e>
+</Locale>

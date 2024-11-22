@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="zhTW">
+    <e id="1">流浪晶礦</e>
+    <e id="2">地圖上所有的晶礦都和中立生物一樣，會在一小塊區域內隨意漫遊。</e>
+    <e id="3">基本指示</e>
+    <e id="4">如何獲勝</e>
+    <e id="5">進階指示</e>
+</Locale>

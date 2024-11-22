@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="frFR">
+    <e id="1">Big Game Hunters (No-Unit-Limit) Full Custom</e>
+    <e id="2">- Nearly endless ressources&lt;br&gt;- No unit limits&lt;br&gt;- Custom teams&lt;br&gt;- No default AI player.</e>
+    <e id="3">Agria (Jungle)</e>
+    <e id="4">Mêlée</e>
+    <e id="5">Parties en mêlée standard contre d’autres joueurs</e>
+    <e id="6">4 VS 4</e>
+    <e id="7">Unclassified game mode.</e>
+    <e id="8">Mêlée</e>
+    <e id="9">Parties en mêlée standard contre d’autres joueurs</e>
+    <e id="10">3 VS 5</e>
+    <e id="11">Unclassified game mode.</e>
+    <e id="12">Mêlée</e>
+    <e id="13">Parties en mêlée standard contre d’autres joueurs</e>
+    <e id="14">2 VS 6</e>
+    <e id="15">Unclassified game mode.</e>
+    <e id="16">Mêlée</e>
+    <e id="17">Parties en mêlée standard contre d’autres joueurs</e>
+    <e id="18">1 VS 7</e>
+    <e id="19">Unclassified game mode.</e>
+    <e id="20">Mêlée</e>
+    <e id="21">Parties en mêlée standard contre d’autres joueurs</e>
+    <e id="22">Chacun pour soi</e>
+    <e id="23">Tous les joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un.</e>
+    <e id="24">Monocombat</e>
+    <e id="25">Parties en mêlée dans lesquelles chaque joueur ne peut construire qu’un seul type d’unités</e>
+    <e id="26">Chacun pour soi</e>
+    <e id="27">Tous les joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un.</e>
+    <e id="28">Instructions de base</e>
+    <e id="29">Comment gagner</e>
+    <e id="30">Instructions avancées</e>
+</Locale>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">BGH + Zombiecastrophe 5X HARD</e>
+    <e id="2">Original by Trickfoxx&lt;br&gt;&lt;br&gt;Big Game Hunters Added&lt;br&gt;&lt;br&gt;Zombies now have 5x health and damage&lt;br&gt;</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">Zombies spawn in the center of the map (generally)</e>
+    <e id="5">Zombies are attracted to nearby structures.</e>
+    <e id="6">Zombies grow stronger over time.</e>
+    <e id="7">How To Win</e>
+    <e id="8">Defeat your opponent before the zombies overwhelm everyone on the map!</e>
+    <e id="9">Advanced Instructions</e>
+    <e id="10">Zombies are attracted to nearby structures.  Clever people might use this to their advantage.</e>
+    <e id="11">Zombies grow more threatening over time.  End the game quickly or you might face an unstoppable horde.</e>
+    <e id="12">Zombies will not spawn too close to player start locations.  Be careful about expanding too far from it, though.</e>
+    <e id="13">Zombies begin attacking around 3 minutes into the game.  Don&apos;t get rushed!</e>
+    <e id="14">Version 1.0</e>
+    <e id="15">January 22, 2014</e>
+    <e id="16">Initial Release</e>
+    <e id="17">Version 1.1</e>
+    <e id="18">February 5, 2014</e>
+    <e id="19">Zombies now have a rare chance to mutate a Detector strain with more health.</e>
+    <e id="20">Version 1.2</e>
+    <e id="21">November 17, 2018</e>
+    <e id="22">Just added 4x health and damage. Enjoy</e>
+</Locale>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="zhTW">
+    <e id="1">WCS GameHeart 2v2</e>
+    <e id="2">WCS GameHeart是一個以提升《星海爭霸II》觀戰體驗為出發點的延伸模組。&lt;br&gt;&lt;br&gt;Blizzard Entertainment感謝社群成員Ryan Schutter，Christoph Ahlers，Philip Tan，Nick Mohr，MIT Game Lab，Milov Vasya與Pedro Zea對GameHeart原創模組的優秀設計。&lt;br&gt;&lt;br&gt;部分內容由MIT Game Lab提供。</e>
+    <e id="3">這些圖示會出現於建築物的上方，在建築物的狀態列開啟的同時顯示它們正在生產或研發的內容。</e>
+    <e id="4">這些升級通知會提示你，它們的狀態為完成中、已完成、取消或無法使用。</e>
+    <e id="5">工人死亡通知，它們會提示玩家在上一次交戰中損失了多少工人。</e>
+    <e id="6">基本指示</e>
+    <e id="7">你如果想使用自訂介面，記得從選項裡遊戲設定的下拉選單中挑選一個！</e>
+    <e id="8">如果想讓隊伍顏色更明顯，可以到遊戲設定中調整「隊伍顏色強度」！</e>
+    <e id="9">如果想設定隊伍、聯賽或聯盟的標誌，記得把Logos.SC2Mod檔案放到你的Documents或Starcraft II目錄下！</e>
+    <e id="10">如何獲勝</e>
+    <e id="11">進階指示</e>
+    <e id="12">WCS 2.0介面，是目前唯一擁有顯示循環資訊面板所需之元件的介面。</e>
+    <e id="13">Logos.SC2Mod是特殊類型的模組檔案，用來管理觀戰時地圖上的標誌。</e>
+    <e id="14">Logos.SC2Mod的使用說明，請參閱線上文件。</e>
+</Locale>

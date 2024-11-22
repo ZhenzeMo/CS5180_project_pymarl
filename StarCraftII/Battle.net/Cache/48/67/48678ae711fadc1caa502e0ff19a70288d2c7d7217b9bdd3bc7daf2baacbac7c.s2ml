@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="itIT">
+    <e id="1">Oscurità</e>
+    <e id="2">Le aree esplorate in precedenza sono nascoste sulla minimappa se al di fuori della visuale del giocatore.</e>
+    <e id="3">Istruzioni base</e>
+    <e id="4">Come si vince</e>
+    <e id="5">Istruzioni avanzate</e>
+</Locale>

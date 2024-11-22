@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="itIT">
+    <e id="1">WCS GameHeart - Pro Series</e>
+    <e id="2">WCS GameHeart è un&apos;estensione progettata per migliorare l&apos;esperienza degli spettatori di StarCraft 2,&lt;br&gt;&lt;br&gt;Blizzard Entertainment desidera ringraziare e riconoscere i meriti dei membri della comunità Ryan Schutter, Christoph Ahlers, Philip Tan, Nick Mohr, MIT Game Lab, Milov Vasya e Pedro Zea per il loro incredibile lavoro sul mod originale di GameHeart.&lt;br&gt;&lt;br&gt;Contributi di MIT Game Lab.</e>
+    <e id="3">Icone sopra le strutture che mostrano l&apos;addestramento o la ricerca in corso parallelamente alla barra di stato.</e>
+    <e id="4">Notifiche che aggiornano sul completamento, annullamento o impossibilità dei potenziamenti.</e>
+    <e id="5">Notifiche sull&apos;uccisione dei lavoratori che aggiornano sul numero di lavoratori uccisi durante l&apos;ultimo scontro.</e>
+    <e id="6">Istruzioni base</e>
+    <e id="7">Per ottenere un&apos;interfaccia personalizzata, apri le opzioni di dinamica di gioco e selezionane una dal menu a tendina.</e>
+    <e id="8">Per visualizzare colori della squadra più definiti, apri le opzioni di dinamica di gioco e regola l&apos;opzione Intensità colore squadra!</e>
+    <e id="9">Per visualizzare i loghi di squadre e lega, copia un file Logos.SC2Mod nella cartella Documenti/Starcraft II!</e>
+    <e id="10">Come si vince</e>
+    <e id="11">Istruzioni avanzate</e>
+    <e id="12">L&apos;interfaccia WCS 2.0 è l&apos;unica interfaccia che attualmente dispone degli elementi necessari a mostrare il pannello delle informazioni periodiche.</e>
+    <e id="13">Logos.SC2Mod è uno speciale tipo di file mod che gestisce la visualizzazione dei loghi sulla mappa.</e>
+    <e id="14">Consulta la documentazione online per le istruzioni sull&apos;utilizzo di un file Logos.SC2Mod.</e>
+</Locale>

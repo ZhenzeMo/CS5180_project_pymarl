@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="itIT">
+    <e id="1">Monobattaglia ufficiale</e>
+    <e id="2">Lanciati in uno scontro dalle condizioni ostili, in cui ogni giocatore può scegliere un solo tipo di unità. Pianifica attentamente la tua scelta in base alle intenzioni del nemico.&lt;br&gt;&lt;br&gt;Tenere d'occhio l'avversario e avere una buona coordinazione nelle partite a squadre sono le chiavi per ottenere la vittoria.&lt;br&gt;&lt;br&gt;L'I.A. non è supportata.</e>
+    <e id="3">Tutti casuali</e>
+    <e id="4">No</e>
+    <e id="5">Sì</e>
+    <e id="6">Costruisci le strutture necessarie per l'unità che vuoi usare.</e>
+    <e id="7">Sfrutta le debolezze del nemico: nel caso abbia scelto uno Zelota, la mobilità del Mietitore sarà perfetta per contrastarlo.</e>
+    <e id="8">Una volta neutralizzate le difese dell'avversario, potrai finirlo facilmente!</e>
+    <e id="9">Istruzioni base</e>
+    <e id="10">Aspetta il momento opportuno per scegliere la tua unità. Non è necessario decidere subito.</e>
+    <e id="11">Fai attenzione alle mosse del nemico per non essere sopraffatto.</e>
+    <e id="12">Se giochi in una partita a squadre, coordinati con il tuo alleato per formare una solida armata.</e>
+    <e id="13">Come si vince</e>
+    <e id="14">Distruggi tutte le strutture nemiche o rimani l'ultimo giocatore in campo.</e>
+    <e id="15">Istruzioni avanzate</e>
+</Locale>

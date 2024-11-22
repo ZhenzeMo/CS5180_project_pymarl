@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="deDE">
+    <e id="1">Königreich der Wolken LE</e>
+    <e id="2">Gewinner des Kartenwettbewerbs von TeamLiquid.&lt;br&gt;&lt;br&gt;Entwickelt von SUPEROUMAN.</e>
+    <e id="3">Shakuras (Ödland)</e>
+    <e id="4">Standard</e>
+    <e id="5">Normale Spiele der Kategorie Standard gegen andere Spieler.</e>
+    <e id="6">1vs1</e>
+    <e id="7">Zwei Spieler kämpfen bis zum Tod.</e>
+    <e id="8">Verschiedenes</e>
+    <e id="9">Unklassifizierter Spieltyp.</e>
+    <e id="10">Andere</e>
+    <e id="11">Unklassifizierter Spielmodus.</e>
+    <e id="12">Grundinformationen</e>
+    <e id="13">Wie man gewinnt</e>
+    <e id="14">Erweiterte Anweisungen</e>
+</Locale>

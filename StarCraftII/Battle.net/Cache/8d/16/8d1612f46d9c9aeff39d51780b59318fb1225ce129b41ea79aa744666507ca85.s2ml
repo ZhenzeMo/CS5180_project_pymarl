@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">Minerales errantes</e>
+    <e id="2">Todos los campos de minerales se comportan como criaturas neutrales y merodearán aleatoriamente en un área pequeña.</e>
+    <e id="3">Instrucciones básicas</e>
+    <e id="4">Cómo ganar</e>
+    <e id="5">Instrucciones avanzadas</e>
+</Locale>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="koKR">
+    <e id="1">사용자 지정 돌연변이원</e>
+    <e id="2">스타크래프트 II 협동전 모드</e>
+    <e id="3">기본 설명</e>
+    <e id="4">승리 방식</e>
+    <e id="5">고급 설명</e>
+</Locale>

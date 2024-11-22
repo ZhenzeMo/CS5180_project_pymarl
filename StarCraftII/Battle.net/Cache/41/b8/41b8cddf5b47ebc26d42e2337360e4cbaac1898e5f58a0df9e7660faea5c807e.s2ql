@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="3">Trophy Bronze First Place</e>
+    <e id="4">Trophy Bronze Second Place</e>
+    <e id="5">Trophy Silver First Place</e>
+    <e id="6">Trophy Silver Second Place</e>
+    <e id="7">Trophy Gold First Place</e>
+    <e id="8">Trophy Gold Second Place</e>
+    <e id="9">Trophy Platinum First Place</e>
+    <e id="10">Trophy Platinum Second Place</e>
+    <e id="11">Trophy Diamond First Place</e>
+    <e id="12">Trophy Diamond Second Place</e>
+    <e id="13">Trophy Master First Place</e>
+    <e id="14">Trophy Master Second Place</e>
+    <e id="15">Trophy Grand Master First Place</e>
+    <e id="16">Trophy Grand Master Second Place</e>
+</Locale>

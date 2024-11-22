@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="zhCN">
+    <e id="1">复仇战士</e>
+    <e id="2">当附近的敌方单位死亡时，敌方单位的攻击速度、护甲以及生命值提高。</e>
+    <e id="3">基础说明</e>
+    <e id="4">如何获胜</e>
+    <e id="5">进阶说明</e>
+</Locale>

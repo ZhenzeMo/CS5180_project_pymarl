@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">LOTV Unit Tester Online</e>
+    <e id="2">Unit tester for one or two players.  Easy to use unit creator, resource spending tracker, different arenas, and many options. Compare unit compositions and costs, or practice your micro with friends.&lt;br&gt;&lt;br&gt;modified by Brandon&lt;br&gt;WoL version by Killer and modified by Hunter</e>
+    <e id="3">Braxis Alpha (Space Platform)</e>
+    <e id="4">Other</e>
+    <e id="5">Unclassified game type.</e>
+    <e id="6">Custom</e>
+    <e id="7">All settings may be customized.</e>
+    <e id="8">Terran Builder</e>
+    <e id="9">Zerg Builder</e>
+    <e id="10">Protoss Builder</e>
+    <e id="11">Basic Instructions</e>
+    <e id="12">How To Win</e>
+    <e id="13">Advanced Instructions</e>
+</Locale>

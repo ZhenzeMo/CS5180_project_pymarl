@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">K_Discography</e>
+    <e id="2">Remind you of anything from the 70's?</e>
+    <e id="3">(HotS) Skygeirr Lab (Space Platform)</e>
+    <e id="4">Melee</e>
+    <e id="5">Standard melee games against other players</e>
+    <e id="6">Other</e>
+    <e id="7">Unclassified game mode.</e>
+    <e id="8">Basic Instructions</e>
+    <e id="9">How To Win</e>
+    <e id="10">Advanced Instructions</e>
+</Locale>

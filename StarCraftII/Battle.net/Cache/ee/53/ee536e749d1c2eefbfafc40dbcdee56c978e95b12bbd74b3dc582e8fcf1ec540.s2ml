@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Temple of the Past</e>
+    <e id="2">The xel&apos;naga temple on Shakuras is under assault. Build your defenses and hold out against the enemy&apos;s siege.</e>
+    <e id="3">Shakuras Temple</e>
+    <e id="4">Miscellaneous</e>
+    <e id="5">Miscellaneous game types</e>
+    <e id="6">Custom</e>
+    <e id="7">All settings may be customized.</e>
+    <e id="8">Basic Instructions</e>
+    <e id="9">How To Win</e>
+    <e id="10">Advanced Instructions</e>
+</Locale>

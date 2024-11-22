@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Official Monobattle</e>
+    <e id="2">Dash into a fight under harsh conditions, in which every player can choose only one type of unit. Plan carefully your choice according to the intents of your enemy. &lt;br&gt;&lt;br&gt;Keeping an eye on you foe and having a good coordination in team games are the keys to get the win.&lt;br&gt;&lt;br&gt;A.I. is not supported.</e>
+    <e id="3">All Random</e>
+    <e id="4">No</e>
+    <e id="5">Yes</e>
+    <e id="6">Build the structures needed for the unit you want to use.</e>
+    <e id="7">Take advantage of your enemy's weaknesses: in case he has chosen a Zealot, the Reaper's mobility will be perfect to counter him.</e>
+    <e id="8">Once neutralized the defences of your opponent, you will be able to finish him easily!</e>
+    <e id="9">Basic Instructions</e>
+    <e id="10">Wait the appropriate time to choose your unit. There is no need to choose right away.</e>
+    <e id="11">Watch out your opponent's moves not to be overwhelmed.</e>
+    <e id="12">If you are playing in a team game, coordinate with your ally in order to form a solid army.</e>
+    <e id="13">How To Win</e>
+    <e id="14">Destroy all enemy structures or remain the last player afield.</e>
+    <e id="15">Advanced Instructions</e>
+</Locale>

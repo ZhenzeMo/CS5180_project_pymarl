@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="itIT">
+    <e id="1">Notte oscura</e>
+    <e id="2">Uno dei pianeti esterni del Dominio è stato infestato. Bisogna eliminare tutte le strutture infestate prima che il problema si diffonda.</e>
+    <e id="3">Meinhoff Ex3</e>
+    <e id="4">Altro</e>
+    <e id="5">Tipo di gioco non classificato.</e>
+    <e id="6">Altro</e>
+    <e id="7">Modalità di gioco non classificata.</e>
+    <e id="8">Istruzioni base</e>
+    <e id="9">Come si vince</e>
+    <e id="10">Istruzioni avanzate</e>
+</Locale>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Crazy Koprulu</e>
+    <e id="2">- Supply limit: 800&lt;br&gt;- Workers at start: 12&lt;br&gt;- Worker build time: 1 sec&lt;br&gt;- Minerals/Gas: 50000, 2x harvest amount&lt;br&gt;- Units build, weapon/armor upgrade: 3x boost&lt;br&gt;- Chrono Boost: 2x boost&lt;br&gt;- Larva spawn: 3x boost (2x amount with Queen)&lt;br&gt;- Larva limit: 6/19&lt;br&gt;&lt;br&gt;Balance reviews are welcome.</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">How To Win</e>
+    <e id="5">Advanced Instructions</e>
+    <e id="6">Version 1.0</e>
+    <e id="7">December 24, 2013</e>
+    <e id="8">First public release on PTR.</e>
+    <e id="9"></e>
+    <e id="10">- Supply limit: 800</e>
+    <e id="11">- Workers at start: 12</e>
+    <e id="12">- Worker build time: 1 sec</e>
+    <e id="13">- Larva spawn time: 2 sec</e>
+    <e id="14">- Larva limit: 42</e>
+    <e id="15">- Minerals/Gas harvest: 2x amount</e>
+    <e id="16">- Chrono Boost: 4x boost</e>
+    <e id="17">- Terran, Zerg units production, weapon/armor upgrade: 3x boost</e>
+    <e id="18">Version 1.2</e>
+    <e id="19">January 22, 2014</e>
+    <e id="20">First public release.</e>
+    <e id="21">Version 1.3</e>
+    <e id="22">January 23, 2014</e>
+    <e id="23">Big balanace change to address Zerg OP issue:</e>
+    <e id="24"></e>
+    <e id="25">- All race units build, weapon/armor upgrade: 3x boost</e>
+    <e id="26">- Chrono Boost: 2x boost</e>
+    <e id="27">- Larva spawn: 3x boost</e>
+    <e id="28">- Larva limit: 6 (19 with Queen)</e>
+    <e id="29">- Queen spawn larva: 2x amount</e>
+    <e id="30">- Overlord build: No 3x boost</e>
+    <e id="31">Version 1.4</e>
+    <e id="32">January 23, 2014</e>
+    <e id="33">Update description with total amount of minerals/gas.</e>
+    <e id="34">Lolcalization, publish to all regions.</e>
+</Locale>

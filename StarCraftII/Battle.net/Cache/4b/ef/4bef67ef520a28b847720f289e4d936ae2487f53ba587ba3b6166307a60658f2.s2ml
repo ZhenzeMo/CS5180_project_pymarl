@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="koKR">
+    <e id="1">암흑</e>
+    <e id="2">플레이어가 탐험한 지역이더라도 플레이어의 시야 밖이라면 미니맵상에서 여전히 검게 표시됩니다.</e>
+    <e id="3">기본 설명</e>
+    <e id="4">승리 방식</e>
+    <e id="5">고급 설명</e>
+</Locale>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="3">Marauder&lt;br&gt;/dance</e>
+    <e id="4">MULE&lt;br&gt;/dance</e>
+    <e id="5">Viking&lt;br&gt;/dance</e>
+    <e id="6">Ghost&lt;br&gt;/dance</e>
+    <e id="7">Queen&lt;br&gt;/dance</e>
+    <e id="8">Overlord&lt;br&gt;/dance</e>
+    <e id="9">Roach&lt;br&gt;/dance</e>
+    <e id="10">Infestor&lt;br&gt;/dance</e>
+    <e id="11">Immortal&lt;br&gt;/dance</e>
+    <e id="12">Stalker&lt;br&gt;/dance</e>
+    <e id="13">Oracle&lt;br&gt;/dance</e>
+    <e id="14">Colossus&lt;br&gt;/dance</e>
+    <e id="15">Marine&lt;br&gt;/dance</e>
+    <e id="16">Zergling&lt;br&gt;/dance</e>
+    <e id="17">Zealot&lt;br&gt;/dance</e>
+    <e id="18">Adept&lt;br&gt;/dance</e>
+    <e id="19">Hydralisk&lt;br&gt;/dance</e>
+    <e id="20">High Templar&lt;br&gt;/dance</e>
+    <e id="21">Thor&lt;br&gt;/dance</e>
+    <e id="22">Ultralisk&lt;br&gt;/dance</e>
+</Locale>

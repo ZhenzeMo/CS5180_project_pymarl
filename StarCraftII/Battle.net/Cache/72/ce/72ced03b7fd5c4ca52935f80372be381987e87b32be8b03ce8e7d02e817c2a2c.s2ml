@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="deDE">
+    <e id="1">Transtarsonische Eisenbahn</e>
+    <e id="2">Das Moebius-Corps schickt Züge mit unbekannter Ladung über Tarsonis. Schließen Sie sich mit Ihrem Verbündeten zusammen und fangen Sie die Züge ab, bevor sie entkommen können.</e>
+    <e id="3">Tarsonis (Stadt)</e>
+    <e id="4">Verschiedenes</e>
+    <e id="5">Verschiedene Spieltypen.</e>
+    <e id="6">Sonstige</e>
+    <e id="7">Unklassifizierter Spielmodus.</e>
+    <e id="8">Grundinformationen</e>
+    <e id="9">Wie man gewinnt</e>
+    <e id="10">Erweiterte Anweisungen</e>
+</Locale>

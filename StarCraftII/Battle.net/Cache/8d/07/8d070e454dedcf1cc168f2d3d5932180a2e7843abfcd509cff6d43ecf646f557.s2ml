@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">Fisuras a Korhal</e>
+    <e id="2">Se han abierto fisuras del Vacío por todo el sector imperial de Augustogrado. Juntos, tu aliado y tú deben destruir las fisuras antes de que los híbridos abrumen a sus fuerzas.</e>
+    <e id="3">Ciudad de Korhal</e>
+    <e id="4">Varios</e>
+    <e id="5">Partidas de tipos varios</e>
+    <e id="6">Personalizado</e>
+    <e id="7">Todas las configuraciones se pueden personalizar.</e>
+    <e id="8">Instrucciones básicas</e>
+    <e id="9">Cómo ganar</e>
+    <e id="10">Instrucciones avanzadas</e>
+</Locale>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Legends Open RPG</e>
+    <e id="2">You begin by selecting a hero.  Through your adventures you will level up, collect gold, recruit minions, and even build your own town!  This map is a tribute to the Original UMS map back in 2002, Legends Open RPG.  Enjoy upgrading!</e>
+    <e id="3">Agria (Jungle)</e>
+    <e id="4">Open RPG</e>
+    <e id="5">Main</e>
+    <e id="6">Standard</e>
+    <e id="7">Default</e>
+    <e id="8">Ghost Archer</e>
+    <e id="9">Brawler</e>
+    <e id="10">Dark Mage</e>
+    <e id="11">Crystal Warrior</e>
+    <e id="12">Bandit</e>
+    <e id="13">Hunter</e>
+    <e id="14">Ranger</e>
+    <e id="15">Slug</e>
+    <e id="16">Lake Spirit</e>
+    <e id="17">Marksman</e>
+    <e id="18">Mud Crab</e>
+    <e id="19">Knight</e>
+    <e id="20">Fighter</e>
+    <e id="21">Cave Bat</e>
+    <e id="22">Death Beast</e>
+    <e id="23">Blood Fiend</e>
+    <e id="24">Elemental</e>
+    <e id="25">Mountain Faerie</e>
+    <e id="26">Assassin</e>
+    <e id="27">Rift Portal</e>
+    <e id="28">Sapling</e>
+    <e id="29">Mage</e>
+    <e id="30">Archer</e>
+</Locale>

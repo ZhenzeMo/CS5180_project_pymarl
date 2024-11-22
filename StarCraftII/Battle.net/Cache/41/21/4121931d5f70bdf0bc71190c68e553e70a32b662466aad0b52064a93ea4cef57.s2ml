@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="frFR">
+    <e id="1">Réanimateurs du Vide</e>
+    <e id="2">Les réanimateurs du Vide sillonnent le champ de bataille, ramenant vos ennemis à la vie.</e>
+    <e id="3">Instructions de base</e>
+    <e id="4">Comment gagner</e>
+    <e id="5">Instructions avancées</e>
+</Locale>

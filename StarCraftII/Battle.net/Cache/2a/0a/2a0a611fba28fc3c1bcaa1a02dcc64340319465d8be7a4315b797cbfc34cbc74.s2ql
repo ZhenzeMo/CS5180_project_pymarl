@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><locale locale="enUS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="l10n_output.xsd">
+  <e id="0">Co-Op: Campaign</e>
+  <e id="1">Co-op</e>
+  <e id="2">Play with a partner in a campaign mission.</e>
+</locale>

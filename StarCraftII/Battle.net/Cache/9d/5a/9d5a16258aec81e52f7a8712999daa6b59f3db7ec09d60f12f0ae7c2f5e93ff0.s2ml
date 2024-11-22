@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esES">
+    <e id="1">Chef de Aiur</e>
+    <e id="2">En un lugar remoto del planeta Aiur, unos fanáticos aspirantes a chef versados en las delicadas artes de la cocina y la matanza compiten por el título de Chef de Aiur.</e>
+    <e id="3">Aiur (urbano)</e>
+    <e id="4">Arena</e>
+    <e id="5">Grupos equilibrados de unidades se enfrentan en combate de arena.</e>
+    <e id="6">TcT</e>
+    <e id="7">Todos los jugadores luchan hasta que solo queda uno.</e>
+    <e id="8">Algunos ingredientes pueden encontrarse en el suelo. Puede que para conseguir otros tengas que matar criaturas salvajes.</e>
+    <e id="9">Permanece siempre atento al cuadro de las recetas al decidir qué ingredientes recoger.</e>
+    <e id="10">Cuando hayas completado una receta, regresa al centro para preparar tu plato.</e>
+    <e id="11">Consigue la puntuación máxima tras 3 rondas de cocina para lograr el título de &quot;Chef de Aiur&quot;.</e>
+    <e id="12">Instrucciones básicas</e>
+    <e id="13">Explora el mapa para recoger ingredientes. Utiliza tu lista de recetas de la esquina superior izquierda para decidir qué ingredientes recoger.</e>
+    <e id="14">Cuando tengas todos los ingredientes de una receta, regresa al centro del mapa para completar el plato.</e>
+    <e id="15">Tu chef volverá a engendrarse si muere, pero perderá todos los ingredientes que llevase.</e>
+    <e id="16">Cómo ganar</e>
+    <e id="17">Consigue la mejor puntuación tras 3 rondas de cocina.</e>
+    <e id="18">Instrucciones avanzadas</e>
+    <e id="19">Cada ronda ofrece diferentes recetas basadas en un ingrediente indicado.</e>
+    <e id="20">Intenta alternar las recetas. Si cocinas el mismo plato varias veces seguidas, obtendrás menos puntos.</e>
+    <e id="21">Además de puntos, algunas recetas otorgan habilidades especiales o mejoras para tu chef.</e>
+    <e id="22">Recoge una carga de restauración para sanar a tu chef si está herido.</e>
+    <e id="23">Puedes deshacerte de los objetos del inventario que no quieras si necesitas espacio o si quieres cambiar de receta.</e>
+    <e id="24">Versión 1.0</e>
+    <e id="25">25 Julio 2012</e>
+    <e id="26">Arcade v.1.0</e>
+</Locale>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Star Mower Ult</e>
+    <e id="2">So dan good.</e>
+    <e id="3">Bel&apos;Shir (Jungle)</e>
+    <e id="4">Other</e>
+    <e id="5">Unclassified game type.</e>
+    <e id="6">Custom</e>
+    <e id="7">All settings may be customized.</e>
+    <e id="8">Basic Instructions</e>
+    <e id="9">Mow the lawn</e>
+    <e id="10">Type &quot;new game&quot; to reset</e>
+    <e id="11">WASD</e>
+    <e id="12">How To Win</e>
+    <e id="13">what?</e>
+    <e id="14">Advanced Instructions</e>
+</Locale>

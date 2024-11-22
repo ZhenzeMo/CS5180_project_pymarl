@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="plPL">
+    <e id="1">Gwiezdne klejnoty</e>
+    <e id="2">W Gwiezdnych klejnotach musisz dopasować 3 kamienie, pionowo lub poziomo, aby zdobyć energię. Używasz jej do szkolenia jednostek i aktywacji umiejętności. Zniszcz bazę wroga.</e>
+    <e id="3">Monlyth (księżyc)</e>
+    <e id="4">Przeciąganie liny</e>
+    <e id="5">Buduj struktury, które będą wysyłały jednostki do ataku na bazę wroga.</e>
+    <e id="6">2NA2</e>
+    <e id="7">Dwie drużyny walczą o dominację.</e>
+    <e id="8">Dwa połączenia stworzone jednym ruchem dają dodatkową energię.</e>
+    <e id="9">Kolosy sprawdzają się przeciw lekkim jednostkom, czołgi oblężnicze są skuteczne przeciwko budowlom.</e>
+    <e id="10">Przytrzymaj kursor nad jednostką w menu przyzwania, aby przeczytać o jej słabych i mocnych stronach.</e>
+    <e id="11">Odpowiednie użycie więzienia grawitonowego na chwilę wyłączy z walki ultraliska przeciwnika.</e>
+    <e id="12">Zamiana klejnotów miejscami jest możliwa tylko wtedy, gdy w jej wyniku powstanie połączenie.</e>
+    <e id="13">Im więcej klejnotów połączysz, tym więcej zyskasz energii.</e>
+    <e id="14">Przyzywaj jednostki klikając ich przyciski, które znajdują się pod twoim paskiem energii.</e>
+    <e id="15">Zniszcz bazę przeciwnika, a zwyciężysz.</e>
+    <e id="16">Podstawowe instrukcje</e>
+    <e id="17">Zamień miejscami dwa klejnoty, aby stworzyć połączenie.</e>
+    <e id="18">Klejnoty w tym samym kolorze znikną, jeżeli uda ci się połączyć trzy z nich lub więcej, ale otrzymasz dodatkową energię.</e>
+    <e id="19">Używaj energii, aby tworzyć jednostki, które zaatakują przeciwnika.</e>
+    <e id="20">Jak wygrać:</e>
+    <e id="21">Zniszcz bazę przeciwnika.</e>
+    <e id="22">Instrukcje zaawansowane</e>
+    <e id="23">Tworzenie połączeń w dolnej części planszy może doprowadzić do powstania dodatkowych połączeń na górze.</e>
+    <e id="24">Otrzymasz dodatkową energię za każdym razem, kiedy jednym ruchem doprowadzisz do kilku połączeń.</e>
+    <e id="25">Każda jednostka ma swoje słabe i mocne strony. Twórz takie, które zapewnią ci przewagę w starciu z jednostkami przeciwnika.</e>
+    <e id="26">Odpowiednie wykorzystanie specjalnych umiejętności może przechylić szalę zwycięstwa na twoją korzyść.</e>
+    <e id="27">Możesz oszczędzać energię, żeby wysłać dużą falę jednostek lub kilka bardzo potężnych.</e>
+    <e id="28">Wersja 1.0</e>
+    <e id="29">Lipiec 25, 2012</e>
+    <e id="30">Salon Gier v.1.0.</e>
+</Locale>

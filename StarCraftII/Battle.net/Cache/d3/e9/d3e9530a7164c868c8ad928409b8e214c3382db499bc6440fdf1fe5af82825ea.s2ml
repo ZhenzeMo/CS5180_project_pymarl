@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="deDE">
+    <e id="1">Big Game Hunters (No-Unit-Limit) Full Custom</e>
+    <e id="2">- Nearly endless ressources&lt;br&gt;- No unit limits</e>
+    <e id="3">Agria (Dschungel)</e>
+    <e id="4">Standard</e>
+    <e id="5">Normale Spiele der Kategorie Standard gegen andere Spieler</e>
+    <e id="6">4 VS 4</e>
+    <e id="7">Unclassified game mode.</e>
+    <e id="8">Standard</e>
+    <e id="9">Normale Spiele der Kategorie Standard gegen andere Spieler</e>
+    <e id="10">3 VS 5</e>
+    <e id="11">Unclassified game mode.</e>
+    <e id="12">Standard</e>
+    <e id="13">Normale Spiele der Kategorie Standard gegen andere Spieler</e>
+    <e id="14">2 VS 6</e>
+    <e id="15">Unclassified game mode.</e>
+    <e id="16">Standard</e>
+    <e id="17">Normale Spiele der Kategorie Standard gegen andere Spieler</e>
+    <e id="18">1 VS 7</e>
+    <e id="19">Unclassified game mode.</e>
+    <e id="20">Standard</e>
+    <e id="21">Normale Spiele der Kategorie Standard gegen andere Spieler</e>
+    <e id="22">JGJ</e>
+    <e id="23">Alle Spielern kämpfen, bis nur noch einer verbleibt.</e>
+    <e id="24">Monobattle</e>
+    <e id="25">Standardspiel, in dem jeder Spieler nur einen einzigen Einheitentyp bauen darf</e>
+    <e id="26">JGJ</e>
+    <e id="27">Alle Spielern kämpfen, bis nur noch einer verbleibt.</e>
+    <e id="28">Grundinformationen</e>
+    <e id="29">Wie man gewinnt</e>
+    <e id="30">Erweiterte Anweisungen</e>
+</Locale>

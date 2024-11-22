@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="itIT">
+    <e id="1">Oblio Express</e>
+    <e id="2">La Divisione Moebius sta spostando sulla superficie di Tarsonis dei treni dal carico sconosciuto. Unite le forze per intercettare i treni prima che fuggano.</e>
+    <e id="3">Tarsonis (urbano)</e>
+    <e id="4">Altro</e>
+    <e id="5">Tipi di partita di vario genere</e>
+    <e id="6">Altro</e>
+    <e id="7">Modalità di gioco non classificata.</e>
+    <e id="8">Istruzioni base</e>
+    <e id="9">Come si vince</e>
+    <e id="10">Istruzioni avanzate</e>
+</Locale>

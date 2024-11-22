@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Infinite workers</e>
+    <e id="2">All workers are free. Terran and protoss have autocast. (I didn't want the zerg larvae to be used up without the player's decision.)</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">How To Win</e>
+    <e id="5">Advanced Instructions</e>
+</Locale>

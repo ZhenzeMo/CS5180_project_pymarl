@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esES">
+    <e id="1">Erupción de lava</e>
+    <e id="2">Chorros de lava emergen del suelo de forma periódica en ubicaciones aleatorias, e infligen daño a las unidades terrestres y aéreas de los jugadores.</e>
+    <e id="3">Instrucciones básicas</e>
+    <e id="4">Cómo ganar</e>
+    <e id="5">Instrucciones avanzadas</e>
+</Locale>

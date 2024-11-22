@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><locale locale="deDE" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="l10n_output.xsd">
+  <e id="0">Spieler vs. Computer</e>
+  <e id="1">1 vs K.I.</e>
+  <e id="2">Spielen Sie gegen den Computer.</e>
+</locale>

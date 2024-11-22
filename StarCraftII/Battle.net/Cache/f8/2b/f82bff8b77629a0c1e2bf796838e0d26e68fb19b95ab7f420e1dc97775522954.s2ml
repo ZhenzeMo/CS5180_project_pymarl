@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="koKR">
+    <e id="1">눈보라</e>
+    <e id="2">폭풍우가 지도를 가로지르며 그 경로에 있는 플레이어 유닛에게 피해를 주고 얼립니다.</e>
+    <e id="3">기본 설명</e>
+    <e id="4">승리 방식</e>
+    <e id="5">고급 설명</e>
+</Locale>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="itIT">
+    <e id="1">StarJeweled</e>
+    <e id="2">In StarJeweled, devi abbinare 3 gemme orizzontalmente o verticalmente per creare l&apos;energia utilizzabile per produrre unità o attivare abilità. Distruggi la base nemica per aggiudicarti la vittoria.</e>
+    <e id="3">Monlyth (lunare)</e>
+    <e id="4">Scenario di guerra</e>
+    <e id="5">Costruisci strutture che inviano unità ad attaccare la base nemica.</e>
+    <e id="6">2V2</e>
+    <e id="7">Due squadre di due giocatori si contendono la supremazia.</e>
+    <e id="8">Creando due abbinamenti con una sola mossa, otterrai un bonus di energia.</e>
+    <e id="9">I Colossi sono eccellenti per contrastare le unità leggere, mentre i Carri d&apos;assedio sono efficaci contro le strutture.</e>
+    <e id="10">Passa sopra un&apos;unità del menu di evocazione per controllarne le caratteristiche.</e>
+    <e id="11">Una Prigione gravitonica usata al momento giusto mette fuori uso l&apos;Ultralisca del nemico.</e>
+    <e id="12">Puoi compiere uno scambio solo se dà luogo a un abbinamento.</e>
+    <e id="13">Più gemme riesci ad abbinare, più energia otterrai.</e>
+    <e id="14">Evoca le unità cliccando sui relativi pulsanti sotto la barra dell&apos;energia.</e>
+    <e id="15">Distruggi la base nemica e la vittoria sarà tua.</e>
+    <e id="16">Istruzioni base</e>
+    <e id="17">Scambia due gemme adiacenti per creare un abbinamento.</e>
+    <e id="18">Allineando 3 o più gemme dello stesso colore, le farai sparire e otterrai maggiore energia.</e>
+    <e id="19">Sfrutta l&apos;energia per creare unità con cui attaccare i nemici.</e>
+    <e id="20">Come si vince</e>
+    <e id="21">Distruggi la base nemica.</e>
+    <e id="22">Istruzioni avanzate</e>
+    <e id="23">Creare degli abbinamenti nella parte bassa della griglia può generarne altri più in alto.</e>
+    <e id="24">Otterrai energia extra se generi più abbinamenti con una sola mossa.</e>
+    <e id="25">Ogni unità ha diversi punti di forza e debolezze. Cerca di creare unità in grado di contrastare efficacemente quelle dei nemici.</e>
+    <e id="26">Un uso accorto delle abilità speciali può ribaltare le sorti di uno scontro.</e>
+    <e id="27">Puoi risparmiare energia per inviare un grosso contingente di unità o poche unità molto potenti.</e>
+    <e id="28">Versione 1.0</e>
+    <e id="29">Luglio 25, 2012</e>
+    <e id="30">Arcade v.1.0</e>
+</Locale>

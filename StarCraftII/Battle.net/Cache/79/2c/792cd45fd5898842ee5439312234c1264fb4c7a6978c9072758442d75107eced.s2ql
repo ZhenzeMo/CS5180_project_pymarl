@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="3">Marine</e>
+    <e id="4">Ghost</e>
+    <e id="5">Command Center</e>
+    <e id="6">Reaper</e>
+    <e id="7">Marauder</e>
+    <e id="8">&quot;Live Now&quot; Marine</e>
+    <e id="9">Reapers</e>
+    <e id="10">Raynor</e>
+    <e id="11">Nova</e>
+    <e id="12">James Raynor</e>
+    <e id="13">November Terra</e>
+    <e id="14">Classic</e>
+    <e id="15">Tyrador Battlecruiser</e>
+</Locale>

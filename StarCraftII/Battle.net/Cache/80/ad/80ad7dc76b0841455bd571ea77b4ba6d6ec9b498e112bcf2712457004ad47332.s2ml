@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Big Game Hunters SC</e>
+    <e id="2">Big Game Hunters resources.</e>
+    <e id="3">Infested Command Center</e>
+    <e id="4">Engineering Bay</e>
+    <e id="5">Basic Instructions</e>
+    <e id="6">How To Win</e>
+    <e id="7">Advanced Instructions</e>
+</Locale>

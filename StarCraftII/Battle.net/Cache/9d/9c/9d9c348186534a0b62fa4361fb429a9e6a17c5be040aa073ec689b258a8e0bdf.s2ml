@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Monobattle LotV - Map Rotation</e>
+    <e id="2">Like regular Starcraft 2 LotV, except you can only build 1 type of unit. Variety of game modes to choose from. Current Map: Sunset Valley (by Marras)</e>
+    <e id="3">(HotS) Immortal Forge (Space Platform)</e>
+    <e id="4">Other</e>
+    <e id="5">Unclassified game type.</e>
+    <e id="6">4v4 Monobattles</e>
+    <e id="7">4v4 Monobattles</e>
+    <e id="8">Basic Instructions</e>
+    <e id="9">How To Win</e>
+    <e id="10">Advanced Instructions</e>
+</Locale>

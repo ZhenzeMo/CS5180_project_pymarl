@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="koKR">
+    <e id="1">Doraemon Survivor</e>
+    <e id="2">Run away from Doraemon&lt;br&gt;&lt;br&gt;Use WASD or Arrow key to move&lt;br&gt; &lt;br&gt;Open door with K or Z&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;:: This is a translation of Usemap in Asia server</e>
+    <e id="3">시설 저택</e>
+    <e id="4">기타</e>
+    <e id="5">미분류 게임 유형입니다.</e>
+    <e id="6">Tag</e>
+    <e id="7">run away from Doraemon</e>
+    <e id="8">기본 설명</e>
+    <e id="9">Player 1 can choose number of rounds by entering a number between 1~5 (1~5 point to win, default is 3)</e>
+    <e id="10">승리 방식</e>
+    <e id="11">고급 설명</e>
+    <e id="12">버전 1.8</e>
+    <e id="13">2018년 7월 20일</e>
+    <e id="14">- Incresed lobby size to 8</e>
+    <e id="15"></e>
+    <e id="16">- You can also use arrow key to move, and Z to open door</e>
+    <e id="17"></e>
+    <e id="18">- If Doraemon doesn&apos;t spawn, typting &apos;-re&apos; to restart that round</e>
+    <e id="19"></e>
+    <e id="20">- Now You can choose Classic, Random mod </e>
+    <e id="21">  Classic Mod : only one player play Doraemon</e>
+    <e id="22">  Random Mod : Doraemon player is randomly selected through all rounds</e>
+    <e id="23">버전 1.19</e>
+    <e id="24">2018년 8월 9일</e>
+    <e id="25">- also can open door with space bar (for one hand play)</e>
+    <e id="26"></e>
+    <e id="27">- new map mansion 2 added</e>
+    <e id="28"></e>
+    <e id="29">- city remaked</e>
+</Locale>

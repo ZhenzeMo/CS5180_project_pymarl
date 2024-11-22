@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Zombie Fx + Dead Units Return + Essence Stealing (Mod Compatible)</e>
+    <e id="2">Just a package of mods. All credits to original mod authors.</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">Dead units and buildings respawn after some time as neutral hostile units (zombies).</e>
+    <e id="5">Most free units do not respawn after death (exception: infested terran).</e>
+    <e id="6">Zombie workers attack automatically. Be careful!</e>
+    <e id="7">How To Win</e>
+    <e id="8">Victory conditions are standard. You can avoid the zombies and still win by defeating your opponents.</e>
+    <e id="9">Advanced Instructions</e>
+    <e id="10">Battles near your base may tend to a zombie snow ball. Avoid that.</e>
+    <e id="11">Aggressive and harass strategies can be pretty punishing to your enemies.</e>
+</Locale>

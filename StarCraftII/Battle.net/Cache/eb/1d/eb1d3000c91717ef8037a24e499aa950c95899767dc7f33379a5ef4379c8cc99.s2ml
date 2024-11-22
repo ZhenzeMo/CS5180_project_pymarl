@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="frFR">
+    <e id="1">Grande toque d&apos;Aïur</e>
+    <e id="2">Dans une zone reculée de la planète Aïur, les aspirants chefs zélotes sélectionnés pour leurs prouesses dans les arts culinaires et guerriers s&apos;affrontent pour le titre de Grande Toque d&apos;Aïur.</e>
+    <e id="3">Aïur (Urbaine)</e>
+    <e id="4">Arène</e>
+    <e id="5">Des groupes d’unités équilibrés s’affrontent en combat d’arène.</e>
+    <e id="6">Chacun pour soi</e>
+    <e id="7">Tous les joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un.</e>
+    <e id="8">Certains ingrédients se ramassent au sol. Pour d&apos;autres, il faudra abattre des créatures sauvages.</e>
+    <e id="9">Ayez toujours un œil sur votre panneau de recette en décidant quels ingrédients vous récupérez.</e>
+    <e id="10">Après avoir rassemblé tous les ingrédients d&apos;une recette, retournez au centre pour préparer votre plat.</e>
+    <e id="11">Récoltez le plus grand nombre de points après 3 rounds de cuisine pour gagner le titre de « Grande  toque d&apos;Aïur ».</e>
+    <e id="12">Instructions de base</e>
+    <e id="13">Explorez la carte pour récolter des ingrédients. Utilisez votre liste de recettes en haut à gauche pour décider quels ingrédients vous voulez ramasser.</e>
+    <e id="14">Une fois que vous avez tous les ingrédients pour une recette, revenez au centre de la carte pour préparer votre plat.</e>
+    <e id="15">Votre chef réapparaîtra s&apos;il est abattu, mais il aura laissé sur place tous les ingrédients qu&apos;il portait.</e>
+    <e id="16">Comment gagner</e>
+    <e id="17">Avoir le plus grand nombre de points après 3 rounds de cuisine.</e>
+    <e id="18">Instructions avancées</e>
+    <e id="19">Chaque round vous propose différentes recettes autour d&apos;un ingrédient commun.</e>
+    <e id="20">Essayez de diversifier vos recettes. Refaire sans cesse le même plat vous fera gagner moins de points.</e>
+    <e id="21">Certaines recettes vous permettent d&apos;obtenir des capacités spéciales ou des bonus temporaires en plus des points.</e>
+    <e id="22">Ramassez une charge de restauration pour soigner votre chef s&apos;il est blessé.</e>
+    <e id="23">Vous pouvez abandonner les objets qui encombrent votre inventaire si vous avez besoin de place ou si vous voulez changer de recettes.</e>
+    <e id="24">Version 1.0</e>
+    <e id="25">25 Juillet 2012</e>
+    <e id="26">Arcade v.1.0</e>
+</Locale>

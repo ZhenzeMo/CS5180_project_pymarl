@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="ptBR">
+    <e id="1">Comboio da Aniquilação</e>
+    <e id="2">A Fundação Moebius está transportando carga secreta por trens pela superfície de Tarsonis. Junte forças com seus aliados e intercepte os trens antes que consigam escapar.</e>
+    <e id="3">Tarsonis (urbano)</e>
+    <e id="4">Miscelânea</e>
+    <e id="5">Tipos de jogo diversos</e>
+    <e id="6">Outros</e>
+    <e id="7">Modo de jogo não classificado.</e>
+    <e id="8">Instruções Básicas</e>
+    <e id="9">Como Vencer</e>
+    <e id="10">Instruções Avançadas</e>
+</Locale>

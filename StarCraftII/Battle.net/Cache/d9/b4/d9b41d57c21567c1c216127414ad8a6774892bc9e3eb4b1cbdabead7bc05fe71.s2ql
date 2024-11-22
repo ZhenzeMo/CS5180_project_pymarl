@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="3">Default Terran Voice Pack</e>
+    <e id="4">Abathur Terran Voice Pack</e>
+    <e id="5">Artanis Terran Voice Pack</e>
+    <e id="6">Alarak Terran Voice Pack</e>
+    <e id="7">D.Va Terran Voice Pack</e>
+    <e id="8">Kerrigan Terran Voice Pack</e>
+    <e id="9">Raynor Terran Voice Pack</e>
+    <e id="10">Swann Terran Voice Pack</e>
+    <e id="11">Nova Terran Voice Pack</e>
+    <e id="12">TotalBiscuit Terrain Voice Pack</e>
+    <e id="13">VoicePackTerranTastosis</e>
+    <e id="14">Nathanias Terran Voice Pack</e>
+    <e id="15">Dehaka Terran Voice Pack</e>
+    <e id="16">VoicePackTerraniNcontrol</e>
+    <e id="17">scboy Terran Voice Pack</e>
+    <e id="18">VoicePackTerranHornerHan</e>
+</Locale>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Basic Essence+BGH+Zomibe fx</e>
+    <e id="2">Essence stacking from an existing mod, And BGH with zombie catastrophe. This is much less edited mod from my other mod that does similar things, but this mod has no extra features. If you have bugs to report, or requests for other mods please tell!  Thanks to all those that made the original mods! </e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">Every kill a unit gets, it will get stronger proportionally to the value of the unit it killed. Friendly-fire kills also count.</e>
+    <e id="5">If a &quot;built-up&quot; unit is killed, all of its increased strength transfers to the unit that killed it.</e>
+    <e id="6">Read the advanced instructions for info on zombies!</e>
+    <e id="7">How To Win</e>
+    <e id="8">Advanced Instructions</e>
+    <e id="9">Version 0.10</e>
+    <e id="10">May 29, 2017</e>
+    <e id="11">Alpha test release! This is the very first attempt at combining these without adding more stuff. Please reveiw!</e>
+    <e id="12"></e>
+    <e id="13">- Made zombies give 1 xp instead of zero. Might need more xp</e>
+    <e id="14">- added Lotv Dependancies</e>
+    <e id="15">- added BGH + Zombie fx Dependancies</e>
+    <e id="16">- added Essence  stacking BGH</e>
+    <e id="17">- Removed Enirboreh</e>
+</Locale>

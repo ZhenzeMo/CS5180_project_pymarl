@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="frFR">
+    <e id="1">Point du jour EC</e>
+    <e id="2">Gagnante du sondage des cartes GSL. C'est l'édition pour les classements de la carte de tournoi de la GSL.&lt;br&gt;&lt;br&gt;Créée par WinparkPrime.</e>
+    <e id="3">Avernus (Plateforme spatiale)</e>
+    <e id="4">Mêlée</e>
+    <e id="5">Une partie en mêlée standard contre d'autres joueurs.</e>
+    <e id="6">1c1</e>
+    <e id="7">Deux joueurs s'affrontent jusqu'à la mort.</e>
+    <e id="8">Divers</e>
+    <e id="9">Type de jeu sans classification.</e>
+    <e id="10">Autre</e>
+    <e id="11">Mode de jeu sans classification.</e>
+    <e id="12">Instructions de base</e>
+    <e id="13">Comment gagner</e>
+    <e id="14">Instructions avancées</e>
+</Locale>

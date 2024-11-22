@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="frFR">
+    <e id="1">Ténèbres</e>
+    <e id="2">Les zones explorées sont de nouveau masquées sur la minicarte quand elles sont hors de vision du joueur.</e>
+    <e id="3">Instructions de base</e>
+    <e id="4">Comment gagner</e>
+    <e id="5">Instructions avancées</e>
+</Locale>

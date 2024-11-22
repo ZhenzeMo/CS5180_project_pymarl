@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enGB">
+    <e id="1">CHAOS: map loads random extensions...</e>
+    <e id="2">At each game random extensions set at start.&lt;br&gt;Currently has 18 such extensions, planning to add hundreds more:)&lt;br&gt;&lt;br&gt;All players get the exact same extensions</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">How To Win</e>
+    <e id="5">By winning!</e>
+    <e id="6">Advanced Instructions</e>
+    <e id="7">Version 0.1</e>
+    <e id="8">January 22, 2014</e>
+    <e id="9">Yay, I am uploaded onto the battle.net!</e>
+    <e id="10">Version 0.2</e>
+    <e id="11">January 23, 2014</e>
+    <e id="12">Fixed and polished some stuff.</e>
+    <e id="13"></e>
+    <e id="14">Added 9 new extensions...</e>
+    <e id="15">Version 0.3</e>
+    <e id="16">January 24, 2014</e>
+    <e id="17">New extensions and polishing.</e>
+    <e id="18">http://www.sc2goa.com</e>
+</Locale>

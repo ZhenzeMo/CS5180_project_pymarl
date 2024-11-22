@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="plPL">
+    <e id="1">Problem Vermilliona</e>
+    <e id="2">Amon wywołał erupcje wulkaniczne, które niszczą Veridię Prime. Zbierz kryształy potrzebne do ponownego uruchomienia stabilizatorów środowiskowych i ocal planetę przed zniszczeniem, zanim będzie za późno.</e>
+    <e id="3">Char Ex2</e>
+    <e id="4">Różne</e>
+    <e id="5">Różne typy gier.</e>
+    <e id="6">Inny</e>
+    <e id="7">Niesklasyfikowany tryb gry.</e>
+    <e id="8">Podstawowe instrukcje</e>
+    <e id="9">Jak wygrać:</e>
+    <e id="10">Instrukcje zaawansowane</e>
+</Locale>

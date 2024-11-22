@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">RndmMod</e>
+    <e id="2">- Destroy to the enemies.&lt;br&gt;- Has many changes in comparative with a normal game.&lt;br&gt;- Extraction of mineral and vespene gas increased.&lt;br&gt;&lt;br&gt;- Max. Supplies:&lt;br&gt;   -Terran = 300&lt;br&gt;   - Protoss = 300&lt;br&gt;   - Zerg = 350&lt;br&gt;&lt;br&gt;- Preferably use hotkeys in grid mode to avoid any conflict.</e>
+    <e id="3">Instrucciones básicas</e>
+    <e id="4">It has units and skills different from the common ones.</e>
+    <e id="5">Cómo ganar</e>
+    <e id="6">You win by destroying all enemy structures.</e>
+    <e id="7">Instrucciones avanzadas</e>
+</Locale>

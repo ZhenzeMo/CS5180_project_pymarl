@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="frFR">
+    <e id="1">Barrière</e>
+    <e id="2">Les unités et bâtiments ennemis obtiennent un bouclier temporaire la première fois qu’ils subissent des dégâts.</e>
+    <e id="3">Instructions de base</e>
+    <e id="4">Comment gagner</e>
+    <e id="5">Instructions avancées</e>
+</Locale>

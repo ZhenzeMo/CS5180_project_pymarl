@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="zhTW">
+    <e id="1">熔岩爆發</e>
+    <e id="2">每隔一段時間，會隨機從地表爆發熔岩，對玩家的空中與地面單位造成傷害。</e>
+    <e id="3">基本說明</e>
+    <e id="4">如何獲勝</e>
+    <e id="5">進階說明</e>
+</Locale>

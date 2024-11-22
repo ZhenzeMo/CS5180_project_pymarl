@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="deDE">
+    <e id="1">Nacht des Grauens</e>
+    <e id="2">Auf einer Randwelt der Liga wurde eine Verseuchung entdeckt, die sich rasant ausbreitet. Verbrennen Sie alle befallenen Gebäude, bevor die Verseuchung überhand nimmt.</e>
+    <e id="3">Meinhoff Ex3</e>
+    <e id="4">Andere</e>
+    <e id="5">Unklassifizierter Spieltyp.</e>
+    <e id="6">Andere</e>
+    <e id="7">Unklassifizierter Spielmodus.</e>
+    <e id="8">Grundinformationen</e>
+    <e id="9">Wie man gewinnt</e>
+    <e id="10">Erweiterte Anweisungen</e>
+</Locale>

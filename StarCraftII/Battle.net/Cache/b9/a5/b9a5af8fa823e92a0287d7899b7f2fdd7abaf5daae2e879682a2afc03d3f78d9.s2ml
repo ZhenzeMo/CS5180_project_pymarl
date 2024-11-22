@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="ptBR">
+    <e id="1">StarJeweled</e>
+    <e id="2">Em StarJeweled, você alinha 3 joias verticalmente ou horizontalmente para gerar energia que você precisa para treinar unidades ou ativar habilidades. Esmague a base inimiga para alcançar a vitória.</e>
+    <e id="3">Monlyth (lunar)</e>
+    <e id="4">Cabo de Guerra</e>
+    <e id="5">Construa estruturas que enviam unidades para atacar a base inimiga.</e>
+    <e id="6">2x2</e>
+    <e id="7">Duas equipes de dois disputam o domínio.</e>
+    <e id="8">Criar duas combinações com um único movimento concede um bônus de energia.</e>
+    <e id="9">Colossos são excelentes contra unidades leves, e Tanques de Cerco são eficientes contra estruturas.</e>
+    <e id="10">Passe o mouse sobre uma unidade no menu de evocação para ler sobre seus pontos fortes e fracos.</e>
+    <e id="11">Uma Prisão Graviton usada na hora certa inutiliza o Mammuthus do inimigo.</e>
+    <e id="12">Você só pode completar uma troca de posição se ela resultar numa combinação.</e>
+    <e id="13">Quando mais gemas combinar, mais energia você ganhará.</e>
+    <e id="14">Evoque unidades clicando nos botões de unidade abaixo da sua barra de energia.</e>
+    <e id="15">Destrua a base inimiga e a vitória será sua.</e>
+    <e id="16">Instruções Básicas</e>
+    <e id="17">Troque as posições de duas gemas adjacentes para criar uma combinação.</e>
+    <e id="18">Se você alinhar 3 ou mais gemas da mesma cor, elas desaparecerão e você ganhará energia.</e>
+    <e id="19">Use energia para criar unidades e atacar seus inimigos.</e>
+    <e id="20">Como Vencer</e>
+    <e id="21">Destrua a base inimiga.</e>
+    <e id="22">Instruções Avançadas</e>
+    <e id="23">Criar combinações na parte de baixo do tabuleiro pode provocar combinações adicionais na parte de cima.</e>
+    <e id="24">Você receberá um bônus de energia se criar diversas combinações como consequência de uma única ação. </e>
+    <e id="25">Cada unidade tem suas próprias forças e fraquezas. Tente criar unidades que sejam fortes contra as unidades que seus inimigos usam.</e>
+    <e id="26">O uso sábio das habilidades especiais pode mudar os rumos de uma batalha.</e>
+    <e id="27">Você pode economizar energia para enviar uma onda imensa de unidades, ou uma menor quantidade de unidades mais poderosas.</e>
+    <e id="28">Versão 1.0</e>
+    <e id="29">Julho 25, 2012</e>
+    <e id="30">Arcade v.1.0</e>
+</Locale>

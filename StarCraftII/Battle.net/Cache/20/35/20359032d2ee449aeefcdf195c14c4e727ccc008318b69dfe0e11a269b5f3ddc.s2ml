@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="frFR">
+    <e id="1">Détonation des unités</e>
+    <e id="2">Quand une unité terrestre est tuée, elle explose en infligeant des dégâts aux unités et bâtiments proches sous la forme d’une douche d’acide.</e>
+    <e id="3">Instructions de base</e>
+    <e id="4">Comment gagner</e>
+    <e id="5">Instructions avancées</e>
+</Locale>

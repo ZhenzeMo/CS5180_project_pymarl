@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Big Game Hunters (No-Unit-Limit) Full Custom</e>
+    <e id="2">- Nearly endless ressources&lt;br&gt;- No unit limits&lt;br&gt;- Custom teams&lt;br&gt;- No default AI player.</e>
+    <e id="3">Agria (Jungle)</e>
+    <e id="4">Melee</e>
+    <e id="5">Standard melee games against other players</e>
+    <e id="6">4 VS 4</e>
+    <e id="7">Unclassified game mode.</e>
+    <e id="8">Melee</e>
+    <e id="9">Standard melee games against other players</e>
+    <e id="10">3 VS 5</e>
+    <e id="11">Unclassified game mode.</e>
+    <e id="12">Melee</e>
+    <e id="13">Standard melee games against other players</e>
+    <e id="14">2 VS 6</e>
+    <e id="15">Unclassified game mode.</e>
+    <e id="16">Melee</e>
+    <e id="17">Standard melee games against other players</e>
+    <e id="18">1 VS 7</e>
+    <e id="19">Unclassified game mode.</e>
+    <e id="20">Melee</e>
+    <e id="21">Standard melee games against other players</e>
+    <e id="22">FFA</e>
+    <e id="23">All players fight until only one remains.</e>
+    <e id="24">Monobattle</e>
+    <e id="25">Melee games where each player may only build a single unit type</e>
+    <e id="26">FFA</e>
+    <e id="27">All players fight until only one remains.</e>
+    <e id="28">Basic Instructions</e>
+    <e id="29">How To Win</e>
+    <e id="30">Advanced Instructions</e>
+</Locale>

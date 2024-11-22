@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="zhTW">
+    <e id="1">WCS GameHeart</e>
+    <e id="2">WCS GameHeart是針對《星海爭霸II》觀戰者經驗所設計並改良的觀戰延伸模組。&lt;br&gt;&lt;br&gt;Blizzard Entertainment在此要感謝社群成員Ryan Schutter、Christoph Ahlers、Philip Tan、Nick Mohr、MIT遊戲實驗室、Milov Vasya及 Pedro Zea在原始GameHeart模組上的驚人貢獻。&lt;br&gt;&lt;br&gt; MIT遊戲實驗室同樣也對此模組付出了相當的貢獻。</e>
+    <e id="3">造型套件</e>
+    <e id="4">玩家設定值</e>
+    <e id="5">特種部隊</e>
+    <e id="6">利維坦群落</e>
+    <e id="7">試煉者</e>
+    <e id="8">米拉掠奪者</e>
+    <e id="9">原生蟲族</e>
+    <e id="10">淨化者</e>
+    <e id="11">尤摩捷</e>
+    <e id="12">擬態機甲</e>
+    <e id="13">黃金紀元</e>
+    <e id="14">泰拉朵</e>
+    <e id="15">地獄犬</e>
+    <e id="16">伊翰利</e>
+    <e id="17">經典</e>
+    <e id="18">當狀態條顯示時，建築物上的圖示會顯示正在訓練或研發的項目。</e>
+    <e id="19">更新完成中、已完成、已取消和無法進行的通知。</e>
+    <e id="20">工作單位擊殺通知會提示在最後的會戰中玩家損失了多少工作單位。</e>
+    <e id="21">基本說明</e>
+    <e id="22">如需自訂介面，請至遊戲設定選項，從下拉選單中選擇需要設定的項目！</e>
+    <e id="23">如果想要有更強烈的隊伍色彩，請前往遊戲設定選項，並調整隊伍色彩強度選項！</e>
+    <e id="24">如果想要使用戰隊和聯盟標誌，請務必將Logos.SC2Mod檔案放進你電腦上的Documents/Starcraft II目錄中！ </e>
+    <e id="25">如何獲勝</e>
+    <e id="26">進階說明</e>
+    <e id="27">WCS 2.0是目前唯一擁有必要面板，可循環顯示資訊的使用者介面。</e>
+    <e id="28">Logos.SC2Mod是一個特殊類型的模組檔案，可以管理觀戰時要顯示在地圖上的標誌。</e>
+    <e id="29">請參考線上文件，其中有如何使用Logos.SC2Mod的說明。</e>
+</Locale>

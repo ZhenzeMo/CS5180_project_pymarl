@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">Expreso del olvido</e>
+    <e id="2">La Fuerza Moebius está movilizando trenes con un cargamento no identificado en la superficie de Tarsonis. Únete a tu aliado para interceptarlos antes de que huyan.</e>
+    <e id="3">Tarsonis (Urbano)</e>
+    <e id="4">Varios</e>
+    <e id="5">Partidas de tipos varios</e>
+    <e id="6">Otro</e>
+    <e id="7">Modo de juego no clasificado.</e>
+    <e id="8">Instrucciones básicas</e>
+    <e id="9">Cómo ganar</e>
+    <e id="10">Instrucciones avanzadas</e>
+</Locale>

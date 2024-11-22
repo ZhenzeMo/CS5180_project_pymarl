@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="l10n_output.xsd" locale="enUS">
+  <e id="0">In Menus</e>
+  <e id="1">Tutorial</e>
+  <e id="2">Campaign</e>
+  <e id="3">Try Mode</e>
+  <e id="4">Challenge Mission</e>
+  <e id="5">Lobby</e>
+  <e id="6">Custom</e>
+  <e id="7">Arcade</e>
+  <e id="8">Hero Select</e>
+  <e id="9">Preparing for Hero League</e>
+  <e id="10">Preparing for Team League</e>
+  <e id="11">Searching $0x10017</e>
+  <e id="12">Playing $0x10017</e>
+  <e id="13">Versus A.I.</e>
+  <e id="14">Training</e>
+  <e id="15">Quick Match</e>
+  <e id="16">Ranked</e>
+  <e id="17">Replay</e>
+  <e id="18">Editor</e>
+  <e id="19">Browsing Collection</e>
+  <e id="20">Score Screen</e>
+  <e id="21">Replay Lobby</e>
+  <e id="22">Allied Commanders</e>
+  <e id="23">Tournament - $0x10017</e>
+  <e id="24">Mutation</e>
+  <e id="25">Preparing for Unranked Draft</e>
+  <e id="26">Preparing for Heroes Brawl</e>
+  <e id="27">Custom Mutation</e>
+  <e id="28">Browsing Loot Chests</e>
+  <e id="29">Opening a Loot Chest</e>
+  <e id="30">Preparing for Storm League</e>
+</locale>

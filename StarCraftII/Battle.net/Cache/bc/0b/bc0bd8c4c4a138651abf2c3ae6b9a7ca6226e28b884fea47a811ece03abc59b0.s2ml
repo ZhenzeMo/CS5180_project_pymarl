@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="ptBR">
+    <e id="1">Dirt Side FFA - Surrender Enabled</e>
+    <e id="2">Expansões naturais estão próximas mas são vulneráveis a ataques. Há muitas rotas até o inimigo centradas em torno de expansões ricas em minérios. As expansões de ilhas são uma maneira mais segura de extrair recursos adicionais.</e>
+    <e id="3">Tarsonis (urbano)</e>
+    <e id="4">Corpo-a-corpo</e>
+    <e id="5">Jogos corpo a corpo padrão contra outros jogadores.</e>
+    <e id="6">TCT</e>
+    <e id="7">Todos os jogadores lutam até ficar um.</e>
+    <e id="8">Instruções Básicas</e>
+    <e id="9">Como Vencer</e>
+    <e id="10">Instruções Avançadas</e>
+</Locale>

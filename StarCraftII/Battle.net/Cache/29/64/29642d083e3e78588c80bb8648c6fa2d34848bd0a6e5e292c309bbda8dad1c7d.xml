@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="l10n_output.xsd" locale="enUS">
+  <e id="0">No Catgegory</e>
+  <e id="1">Test only</e>
+  <e id="1000">Terran Strategy %d</e>
+  <e id="1001">Zerg Strategy %d</e>
+  <e id="1002">Protoss Strategy %d</e>
+  <e id="1003">Looking for Quick Match Team %d</e>
+  <e id="1004">Looking for Cooperative Team %d</e>
+  <e id="1005">Practice League %d</e>
+  <e id="1006">Bronze League %d</e>
+  <e id="1007">Silver League %d</e>
+  <e id="1008">Gold League %d</e>
+  <e id="1009">Platinum League %d</e>
+  <e id="1010">Diamond League %d</e>
+  <e id="1011">eSports %d</e>
+  <e id="1012">Looking for Custom Games %d</e>
+  <e id="1013">Achievements %d</e>
+  <e id="1014">Single Player Discussion %d</e>
+  <e id="1015">Terran vs. Terran Strategy %d</e>
+  <e id="1016">Terran vs. Zerg Strategy %d</e>
+  <e id="1017">Terran vs. Protoss Strategy %d</e>
+  <e id="1018">Zerg vs. Terran Strategy %d</e>
+  <e id="1019">Zerg vs. Zerg Strategy %d</e>
+  <e id="1020">Zerg vs. Protoss Strategy %d</e>
+  <e id="1021">Protoss vs. Terran Strategy %d</e>
+  <e id="1022">Protoss vs. Zerg Strategy %d</e>
+  <e id="1023">Protoss vs. Protoss Strategy %d</e>
+  <e id="1024">Blizzard Discussion %d</e>
+  <e id="1025">General Discussion %d</e>
+  <e id="1026">Off Topic %d</e>
+  <e id="1027">SC2 Looking for Team %d</e>
+  <e id="1028">General %d</e>
+  <e id="1029">The Cow Level %d</e>
+  <e id="1030">Arcade %d</e>
+  <e id="1031">SC2 Strategy %d</e>
+  <e id="1032">Hero League Chat %d</e>
+  <e id="1033">Co-op Missions %d</e>
+  <e id="1034">New Player Chat %d</e>
+</locale>

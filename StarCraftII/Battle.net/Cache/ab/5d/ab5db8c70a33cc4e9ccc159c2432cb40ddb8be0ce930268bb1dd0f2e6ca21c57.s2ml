@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Explorers League</e>
+    <e id="2">1-3 Heros kill spawn points to move on.To die is to be defeated. 5 Seconds of not being hit and your hero will tend his wounds. Kill hordes of zerg to level up. *BETA</e>
+    <e id="3">Agria (Jungle)</e>
+    <e id="4">Co-op VS AI</e>
+    <e id="5">Cooperate with other players to defeat the computer AI.</e>
+    <e id="6">Hero RPG</e>
+    <e id="7">All settings may be customized.</e>
+    <e id="8">Unit HP</e>
+</Locale>

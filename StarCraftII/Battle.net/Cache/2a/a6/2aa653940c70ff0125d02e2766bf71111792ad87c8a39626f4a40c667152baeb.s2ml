@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="ptBR">
+    <e id="1">Ohana ER</e>
+    <e id="2">Vencedor do concurso de mapas da TeamLiquid.&lt;br&gt;&lt;br&gt;Criado por IronManSC.</e>
+    <e id="3">Bel'Shir (selva)</e>
+    <e id="4">Corpo-a-corpo</e>
+    <e id="5">Jogo corpo-a-corpo padrão contra outros jogadores.</e>
+    <e id="6">1x1</e>
+    <e id="7">Dois jogadores lutam até morrer.</e>
+    <e id="8">Miscelânea</e>
+    <e id="9">Tipo de jogo não classificado.</e>
+    <e id="10">Outro</e>
+    <e id="11">Modo de jogo não classificado.</e>
+    <e id="12">Instruções Básicas</e>
+    <e id="13">Como Vencer</e>
+    <e id="14">Instruções Avançadas</e>
+</Locale>

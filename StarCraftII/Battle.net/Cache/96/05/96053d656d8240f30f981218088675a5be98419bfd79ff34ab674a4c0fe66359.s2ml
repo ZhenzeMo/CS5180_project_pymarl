@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">PeepMode Acropolis LE</e>
+    <e id="2">Completamente carente de cualquier tipo de descripción.</e>
+    <e id="3">Elsecaro</e>
+    <e id="4">Game Style</e>
+    <e id="5">Commentator</e>
+    <e id="6">Democratic</e>
+    <e id="7">Role</e>
+    <e id="8">Player</e>
+    <e id="9">Commentator</e>
+    <e id="10">Otro</e>
+    <e id="11">Tipo de juego no clasificado.</e>
+    <e id="12">PeepMode</e>
+    <e id="13">All players vote on global options; commentator tools disabled</e>
+    <e id="14">CustomDecalMuta</e>
+    <e id="15">Instrucciones básicas</e>
+    <e id="16">Compete in standard melee matches or sit back and observe</e>
+    <e id="17">Great way to practice, socialize, and improve your skill</e>
+    <e id="18">Cómo ganar</e>
+    <e id="19">Beat your opponents in melee matches and make winning bets as a spectator</e>
+    <e id="20">Instrucciones avanzadas</e>
+    <e id="21">See in-game Help (F12) for detailed instructions and list of commands</e>
+    <e id="22">Versión 0.1</e>
+    <e id="23">Mayo 30, 2019</e>
+    <e id="24">BATMAN: This commit has no parents</e>
+</Locale>

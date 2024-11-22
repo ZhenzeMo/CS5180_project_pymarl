@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="frFR">
+    <e id="1">Terreurs nocturnes</e>
+    <e id="2">Une contamination fulgurante se propage à la surface de l’un des mondes de la périphérie du Dominion. Démolissez tous les bâtiments contaminés pour l’empêcher de s’étendre davantage.</e>
+    <e id="3">Meinhoff Ex3</e>
+    <e id="4">Autre</e>
+    <e id="5">Type de jeu sans classification.</e>
+    <e id="6">Autres</e>
+    <e id="7">Mode de jeu sans classification.</e>
+    <e id="8">Instructions de base</e>
+    <e id="9">Comment gagner</e>
+    <e id="10">Instructions avancées</e>
+</Locale>

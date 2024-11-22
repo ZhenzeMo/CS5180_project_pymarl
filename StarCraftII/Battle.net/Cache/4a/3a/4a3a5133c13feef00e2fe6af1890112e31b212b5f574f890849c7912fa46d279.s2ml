@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="frFR">
+    <e id="1">Module de test d’équilibrage</e>
+    <e id="2">Module officiel de test d’équilibrage de Blizzard. Ajouter ce module à une carte multijoueur modifiera l’équilibrage des unités de StarCraft II en fonction de la version de test en cours.</e>
+    <e id="3">Instructions de base</e>
+    <e id="4">Comment gagner</e>
+    <e id="5">Instructions avancées</e>
+    <e id="6">Version 1.0</e>
+    <e id="7">17 Août 2017</e>
+    <e id="8">Pour toutes les informations sur les nouveaux changements d’équilibrage, cliquez sur l’onglet Présentation, puis sur le lien dans la section Détails.</e>
+    <e id="9"></e>
+    <e id="10">Merci de tester les nouveaux changements. N’hésitez pas à nous faire part de vos commentaires via les forums !</e>
+    <e id="11">http://starcraft2.com/news/22372713</e>
+</Locale>

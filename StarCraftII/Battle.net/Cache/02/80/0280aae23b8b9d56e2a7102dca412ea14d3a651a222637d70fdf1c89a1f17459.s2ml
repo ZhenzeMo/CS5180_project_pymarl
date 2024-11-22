@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">The Big Game Hunters - Rich Minerals</e>
+    <e id="2">The Big Game Hunters from SC1 is back for SC2. Bases now have higher terrain and ramps at choke points.&lt;br&gt;&lt;br&gt;2013-10-21 Lobby timer now 10 seconds&lt;br&gt;2013-09-10 Added second gas to all bases</e>
+    <e id="3">Agria (Jungle)</e>
+    <e id="4">Co-op VS A.I.</e>
+    <e id="5">Games played cooperatively against the A.I.</e>
+    <e id="6">Custom</e>
+    <e id="7">Host's Choice</e>
+    <e id="8">Co-op VS A.I.</e>
+    <e id="9">Games played cooperatively against the A.I.</e>
+    <e id="10">Very Hard</e>
+    <e id="11">Take on the computer A.I. at the given difficulty level.</e>
+    <e id="12">Co-op VS A.I.</e>
+    <e id="13">Games played cooperatively against the A.I.</e>
+    <e id="14">Elite</e>
+    <e id="15">Take on the computer A.I. at the given difficulty level.</e>
+    <e id="16">Co-op VS A.I.</e>
+    <e id="17">Games played cooperatively against the A.I.</e>
+    <e id="18">Cheater 1 (Vision)</e>
+    <e id="19">Take on the computer A.I. at the given difficulty level.</e>
+    <e id="20">Co-op VS A.I.</e>
+    <e id="21">Games played cooperatively against the A.I.</e>
+    <e id="22">Cheater 2 (Resources)</e>
+    <e id="23">Take on the computer A.I. at the given difficulty level.</e>
+    <e id="24">Co-op VS A.I.</e>
+    <e id="25">Games played cooperatively against the A.I.</e>
+    <e id="26">Cheater 3 (Insane)</e>
+    <e id="27">Take on the computer A.I. at the given difficulty level.</e>
+    <e id="28">Basic Instructions</e>
+    <e id="29">How To Win</e>
+    <e id="30">Advanced Instructions</e>
+    <e id="31">Version 1.1</e>
+    <e id="32">September 14, 2013</e>
+    <e id="33">Added More Gas</e>
+</Locale>

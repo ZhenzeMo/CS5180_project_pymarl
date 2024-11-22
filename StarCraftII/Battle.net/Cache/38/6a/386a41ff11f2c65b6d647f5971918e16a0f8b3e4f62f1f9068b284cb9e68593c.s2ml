@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="deDE">
+    <e id="1">Swarm (Mod)</e>
+    <e id="2">Swarm (Mod)</e>
+    <e id="3">Mutterschiffkern</e>
+    <e id="4">Tiefenhöhle</e>
+    <e id="5">Schleicher</e>
+    <e id="6">Kampfhellion</e>
+    <e id="7">Orakel</e>
+    <e id="8">Protoss-Schlange - Segment, Demo</e>
+    <e id="9">Schwarmwirt</e>
+    <e id="10">Tempest</e>
+    <e id="11">Viper</e>
+    <e id="12">Nyduszerstörer</e>
+    <e id="13">Kriecherturm</e>
+    <e id="14">Arachnomine</e>
+    <e id="15">Anionen-Impulskristalle</e>
+    <e id="16">Langlebige Schrecken</e>
+    <e id="17">Medipack</e>
+    <e id="18">Anionen-Impulskristalle</e>
+    <e id="19">Gräberkiefer</e>
+    <e id="20">Erhöhte Reichweite</e>
+    <e id="21">Transformationsservos</e>
+    <e id="22">Untertunneln entwickeln</e>
+    <e id="23">Rächersprung</e>
+    <e id="24">Bosonischer Kern</e>
+    <e id="25">250mm-Donnerkanonen</e>
+    <e id="26">Neuralparasit</e>
+    <e id="27">Quantumreaktor</e>
+    <e id="28">Muskelfaserverstärkung</e>
+    <e id="29">Schilde wiederherstellen</e>
+    <e id="30">Grundinformationen</e>
+    <e id="31">Wie man gewinnt</e>
+    <e id="32">Erweiterte Anweisungen</e>
+</Locale>

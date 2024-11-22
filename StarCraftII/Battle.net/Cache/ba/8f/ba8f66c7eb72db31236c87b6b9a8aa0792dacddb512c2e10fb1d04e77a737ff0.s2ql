@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><locale locale="deDE" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="l10n_output.xsd">
+  <e id="0">3 RUNDEN</e>
+  <e id="1">1vs1</e>
+  <e id="2">- 3 Runden, 8 Spieler
+- Turnierbaum im K.-o.-System
+- 25 Minuten pro Spiel, 5 Minuten Pause
+- Keine Zeitbeschränkung im Finale</e>
+</locale>

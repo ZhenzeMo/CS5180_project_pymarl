@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="ptBR">
+    <e id="1">Big Game Hunters (No-Unit-Limit) Full Custom</e>
+    <e id="2">- Nearly endless ressources&lt;br&gt;- No unit limits&lt;br&gt;- Custom teams&lt;br&gt;- No default AI player.</e>
+    <e id="3">Agria (selva)</e>
+    <e id="4">Corpo-a-corpo</e>
+    <e id="5">Jogos corpo a corpo padrão contra outros jogadores.</e>
+    <e id="6">4 VS 4</e>
+    <e id="7">Unclassified game mode.</e>
+    <e id="8">Corpo-a-corpo</e>
+    <e id="9">Jogos corpo a corpo padrão contra outros jogadores.</e>
+    <e id="10">3 VS 5</e>
+    <e id="11">Unclassified game mode.</e>
+    <e id="12">Corpo-a-corpo</e>
+    <e id="13">Jogos corpo a corpo padrão contra outros jogadores.</e>
+    <e id="14">2 VS 6</e>
+    <e id="15">Unclassified game mode.</e>
+    <e id="16">Corpo-a-corpo</e>
+    <e id="17">Jogos corpo a corpo padrão contra outros jogadores.</e>
+    <e id="18">1 VS 7</e>
+    <e id="19">Unclassified game mode.</e>
+    <e id="20">Corpo-a-corpo</e>
+    <e id="21">Jogos corpo a corpo padrão contra outros jogadores.</e>
+    <e id="22">TCT</e>
+    <e id="23">Todos os jogadores lutam até ficar um.</e>
+    <e id="24">Batalha de Unidade Única</e>
+    <e id="25">Jogos corpo a corpo nos quais cada jogador só pode construir um tipo de unidade.</e>
+    <e id="26">TCT</e>
+    <e id="27">Todos os jogadores lutam até ficar um.</e>
+    <e id="28">Instruções Básicas</e>
+    <e id="29">Como Vencer</e>
+    <e id="30">Instruções Avançadas</e>
+</Locale>

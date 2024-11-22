@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="ptBR">
+    <e id="1">Mod para testes de balanceamento</e>
+    <e id="2">Mod oficial da Blizzard para testes de balanceamento. Adicionar este mod de extensão a um mapa multijogador modificará o balanceamento das unidades Starcraft II para refletir a atual versão de testes.</e>
+    <e id="3">Instruções Básicas</e>
+    <e id="4">Como Vencer</e>
+    <e id="5">Instruções Avançadas</e>
+    <e id="6">Versão 1.0</e>
+    <e id="7">Agosto 17, 2017</e>
+    <e id="8">Para saber todos os detalhes sobre as novas mudanças de balanceamento, vá até a aba &quot;Visão geral&quot; e selecione o link localizado sob a seção &quot;Detalhes&quot;.</e>
+    <e id="9"></e>
+    <e id="10">Obrigado por testar as novas mudanças! Você pode nos enviar seu feedback nos nossos fóruns da comunidade.</e>
+    <e id="11">http://starcraft2.com/news/22372713</e>
+</Locale>

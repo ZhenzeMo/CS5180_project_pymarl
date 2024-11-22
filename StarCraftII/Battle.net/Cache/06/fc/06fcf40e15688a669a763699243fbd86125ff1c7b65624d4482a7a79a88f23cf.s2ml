@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="zhCN">
+    <e id="1">破晓黎明 - 天梯版</e>
+    <e id="2">GSL地图投票获胜者。这是GSL比赛地图的天梯版。&lt;br&gt;&lt;br&gt;作者：WinparkPrime</e>
+    <e id="3">阿佛纳斯(空间平台)</e>
+    <e id="4">对战</e>
+    <e id="5">同其他玩家进行标准对战游戏。</e>
+    <e id="6">1v1</e>
+    <e id="7">2名玩家的生死决战。</e>
+    <e id="8">其他</e>
+    <e id="9">未分类的游戏类型。</e>
+    <e id="10">其他</e>
+    <e id="11">未分类的游戏模式。</e>
+    <e id="12">基础说明</e>
+    <e id="13">如何获胜</e>
+    <e id="14">进阶说明</e>
+</Locale>

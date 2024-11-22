@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="zhTW">
+    <e id="1">Coop Hots - 13. Waking the Ancient</e>
+    <e id="2">完全沒有任何描述。</e>
+    <e id="3">（蟲族之心）澤瑞斯（叢林）</e>
+    <e id="4">其他</e>
+    <e id="5">未分類的遊戲類型。</e>
+    <e id="6">Coop</e>
+    <e id="7">Heart of the Swarm Campaign for 3 players.</e>
+    <e id="8">基本說明</e>
+    <e id="9">如何獲勝</e>
+    <e id="10">進階說明</e>
+    <e id="11">版本1.0</e>
+    <e id="12">2019年7月7日</e>
+    <e id="13">Alpha testing.</e>
+    <e id="14">版本1.1</e>
+    <e id="15">2019年7月9日</e>
+    <e id="16">Busy fixing bugs in other missions, so find me bugs in this one!</e>
+    <e id="17">版本1.2</e>
+    <e id="18">2019年7月16日</e>
+    <e id="19">Terrain updated.</e>
+    <e id="20">Translations added.</e>
+    <e id="21">2 new expansions added.</e>
+    <e id="22">Enemy spawns increased upon request.</e>
+    <e id="23">版本1.3</e>
+    <e id="24">2019年7月18日</e>
+    <e id="25">Strange Creature should now hide a bit better.</e>
+    <e id="26">Vespene Geyser can now be built on in base.</e>
+    <e id="27">Quillboar hud is looked upon but not yet fixed.</e>
+    <e id="28">http://discord.gg/qT2UdZj</e>
+</Locale>

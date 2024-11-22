@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esES">
+    <e id="1">Big Game Hunters (No-Unit-Limit) Full Custom</e>
+    <e id="2">- Nearly endless ressources&lt;br&gt;- No unit limits&lt;br&gt;- Custom teams&lt;br&gt;- No default AI player.</e>
+    <e id="3">Agria (selva)</e>
+    <e id="4">Refriega</e>
+    <e id="5">Partidas de refriega normal contra otros jugadores.</e>
+    <e id="6">4 VS 4</e>
+    <e id="7">Unclassified game mode.</e>
+    <e id="8">Refriega</e>
+    <e id="9">Partidas de refriega normal contra otros jugadores.</e>
+    <e id="10">3 VS 5</e>
+    <e id="11">Unclassified game mode.</e>
+    <e id="12">Refriega</e>
+    <e id="13">Partidas de refriega normal contra otros jugadores.</e>
+    <e id="14">2 VS 6</e>
+    <e id="15">Unclassified game mode.</e>
+    <e id="16">Refriega</e>
+    <e id="17">Partidas de refriega normal contra otros jugadores.</e>
+    <e id="18">1 VS 7</e>
+    <e id="19">Unclassified game mode.</e>
+    <e id="20">Refriega</e>
+    <e id="21">Partidas de refriega normal contra otros jugadores.</e>
+    <e id="22">TcT</e>
+    <e id="23">Todos los jugadores luchan hasta que solo queda uno.</e>
+    <e id="24">Monobatalla</e>
+    <e id="25">Partidas de refriega en las que cada jugador solo puede construir un tipo de unidad.</e>
+    <e id="26">TcT</e>
+    <e id="27">Todos los jugadores luchan hasta que solo queda uno.</e>
+    <e id="28">Instrucciones básicas</e>
+    <e id="29">Cómo ganar</e>
+    <e id="30">Instrucciones avanzadas</e>
+</Locale>

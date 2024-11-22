@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Balance Test Mod</e>
+    <e id="2">Official Blizzard Balance Test Mod. Adding this extension mod to a multiplayer map will alter StarCraft II&apos;s unit balance to the current test version.</e>
+    <e id="3">Basic Instructions</e>
+    <e id="4">How To Win</e>
+    <e id="5">Advanced Instructions</e>
+    <e id="6">Version 1.0</e>
+    <e id="7">August 17, 2017</e>
+    <e id="8">Thanks for testing the new changes and please feel free to provide feedback on any community forums!</e>
+</Locale>

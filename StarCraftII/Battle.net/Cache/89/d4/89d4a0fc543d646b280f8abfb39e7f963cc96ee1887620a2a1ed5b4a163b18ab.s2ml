@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esES">
+    <e id="1">Super Terrans and Resources</e>
+    <e id="2">Todos los campos de minerales del mapa se aumentan a 20000 minerales y los géiseres de vespeno se aumentan a 25000 de gas.</e>
+    <e id="3">Instrucciones básicas</e>
+    <e id="4">Use the Super Terrans like you would regular Terrans, but for extreme battles!</e>
+    <e id="5">Use the Super Terrans to defeat your most difficult enemies on the hardest maps!</e>
+    <e id="6">If you play against the Super Terrans, prepare for the most difficult of matches!</e>
+    <e id="7">Cómo ganar</e>
+    <e id="8">Play!  The Super Terrans are capable of taking on extreme odds!</e>
+    <e id="9">Instrucciones avanzadas</e>
+    <e id="10">The Super Terrans utilize more health, units and abilities.</e>
+    <e id="11">Nuke your enemies with dozens of warheads!</e>
+    <e id="12">Use Marines that can heal and build ground turrets!</e>
+    <e id="13">Pack dozens of troops in Medivacs!</e>
+    <e id="14">Many, many more!  Try this mod and see for yourself!</e>
+    <e id="15">Versión 1.0</e>
+    <e id="16">10 Abril 2015</e>
+    <e id="17">Test of Super Terrans.</e>
+    <e id="18">Versión 1.1</e>
+    <e id="19">19 Mayo 2015</e>
+    <e id="20">The Super Terrans are ready for war!  Take on your greatest enemies with the most powerful terrans in the universe!</e>
+    <e id="21">Versión 2.0</e>
+    <e id="22">17 Abril 2016</e>
+    <e id="23">Super Terrans have been re-balanced.  They are still overpowered, but much less of a &quot;god-mode.&quot;  </e>
+    <e id="24">Restored troop supply costs and increased cap to compensate.</e>
+    <e id="25">Removed marine initial auto-healing.  Select and initiate healing as needed.</e>
+    <e id="26">Reduced Super Terran life and energy totals from 10x to 2-2.5x.</e>
+    <e id="27">Range, sight and armor increased for Super Terrans.</e>
+    <e id="28">Many units added to Barracks and Command Center.</e>
+    <e id="29">Numerous tweaks...looking forward to more feedback, enjoy!</e>
+    <e id="30"></e>
+</Locale>

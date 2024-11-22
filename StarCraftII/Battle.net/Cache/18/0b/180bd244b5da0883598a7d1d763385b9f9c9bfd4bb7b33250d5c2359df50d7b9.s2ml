@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="esMX">
+    <e id="1">Swarm multi (Mod)</e>
+    <e id="2">Swarm multi (Mod)</e>
+    <e id="3">Fantasma</e>
+    <e id="4">Fantasma</e>
+    <e id="5">Garras perforadoras</e>
+    <e id="6">Armas de vehículos y naves terran - Nivel 3</e>
+    <e id="7">Coraza de vehículos y naves terran - Nivel 2</e>
+    <e id="8">Coraza de vehículos y naves terran - Nivel 3</e>
+    <e id="9">Coraza de vehículos y naves terran - Nivel 1</e>
+    <e id="10">Armas de vehículos y naves terran - Nivel 2</e>
+    <e id="11">Armas de vehículos y naves terran - Nivel 1</e>
+    <e id="12">Instrucciones básicas</e>
+    <e id="13">Cómo ganar</e>
+    <e id="14">Instrucciones avanzadas</e>
+</Locale>

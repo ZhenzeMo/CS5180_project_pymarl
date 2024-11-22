@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="plPL">
+    <e id="1">Swarm (Mod)</e>
+    <e id="2">Swarm (Mod)</e>
+    <e id="3">Rdzeń statku-matki</e>
+    <e id="4">Helbat</e>
+    <e id="5">Wyrocznia</e>
+    <e id="6">Protosi – segment węża – demo</e>
+    <e id="7">Nosiciel roju</e>
+    <e id="8">Orkan</e>
+    <e id="9">Żmij</e>
+    <e id="10">Niszczyciel nydusowy</e>
+    <e id="11">Wieża biomasy</e>
+    <e id="12">Wdowia mina</e>
+    <e id="13">Anionowe kryształy impulsowe</e>
+    <e id="14">Wytrzymała szarańcza</e>
+    <e id="15">Specyfiki bojowe</e>
+    <e id="16">Anionowe kryształy impulsowe</e>
+    <e id="17">Kopiące szczęki</e>
+    <e id="18">Zwiększony zasięg</e>
+    <e id="19">Serwomechanizmy transformacji</e>
+    <e id="20">Wyewoluuj podziemną szarżę</e>
+    <e id="21">Żniwiarz – skok</e>
+    <e id="22">Rdzeń bozonowy</e>
+    <e id="23">Działka uderzeniowe 250 mm</e>
+    <e id="24">Pasożyt neuronalny</e>
+    <e id="25">Reaktor kwantowy</e>
+    <e id="26">Wzmocnione mięśnie</e>
+    <e id="27">Przywróć osłony</e>
+    <e id="28">Podstawowe instrukcje</e>
+    <e id="29">Jak wygrać:</e>
+    <e id="30">Instrukcje zaawansowane</e>
+</Locale>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="enUS">
+    <e id="1">Dead of Night</e>
+    <e id="2">A rapid infestation has been discovered on one of the Dominion&apos;s fringe worlds. Burn down all of the infested structures before it has a chance to spread.</e>
+    <e id="3">Meinhoff Ex3</e>
+    <e id="4">Other</e>
+    <e id="5">Unclassified game type.</e>
+    <e id="6">Other</e>
+    <e id="7">Unclassified game mode.</e>
+    <e id="8">Basic Instructions</e>
+    <e id="9">How To Win</e>
+    <e id="10">Advanced Instructions</e>
+</Locale>

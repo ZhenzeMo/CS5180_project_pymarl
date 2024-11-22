@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locale region="plPL">
+    <e id="1">Kuchmistrz z Aiur</e>
+    <e id="2">Na odległym obszarze planety Aiur ambitni zeloci wdrożeni w arkana sztuki gotowania i mordowania rywalizują o tytuł Kuchmistrza z Aiur.</e>
+    <e id="3">Aiur (miasto)</e>
+    <e id="4">Arena</e>
+    <e id="5">Wyrównane grupy jednostek toczą boje na arenie.</e>
+    <e id="6">FFA</e>
+    <e id="7">Gracze walczą ze sobą do momentu, gdy na mapie pozostanie tylko zwycięzca.</e>
+    <e id="8">Niektóre składniki można znaleźć na ziemi. By zdobyć inne, trzeba będzie zabić jakieś stworzenie.</e>
+    <e id="9">Zawsze, kiedy zbierasz składniki, pamiętaj, by zaglądać do swojej karty z przepisem.</e>
+    <e id="10">Gdy już zbierzesz składniki przepisu, wróć na środek mapy, aby ukończyć danie.</e>
+    <e id="11">Zdobądź jak najwięcej punktów podczas 3 rund gotowania, by zdobyć tytuł „Kuchmistrza z Aiur”.</e>
+    <e id="12">Podstawowe instrukcje</e>
+    <e id="13">Eksploruj mapę, by zbierać składniki. Wykorzystaj znajdującą się lewej, górnej części ekranu listę składników przepisu, aby zdecydować, która składniki należy zebrać.</e>
+    <e id="14">Gdy już zbierzesz wszystkie składniki przepisu, wróć na środek mapy, aby ukończyć danie.</e>
+    <e id="15">Twój Kuchmistrz odrodzi się, jeśli zginie, ale straci wszystkie składniki, które miał przy sobie.</e>
+    <e id="16">Jak wygrać:</e>
+    <e id="17">Zdobądź jak najwięcej punktów podczas 3 rund gotowania.</e>
+    <e id="18">Instrukcje zaawansowane</e>
+    <e id="19">W każdej rundzie wprowadzane są różne przepisy oparte o dany składnik.</e>
+    <e id="20">Staraj się urozmaicać przepisy. Przygotowując wciąż to samo danie zdobędziesz mniej punktów.</e>
+    <e id="21">Poza punktami, niektóre przepisy pozwalają też zdobywać specjalne zdolności lub doładowania dla Kuchmistrza.</e>
+    <e id="22">Aby wyleczyć rannego Kuchmistrza, podnieś ładunek regeneracyjny.</e>
+    <e id="23">Możesz wyrzucać niepotrzebne przedmioty ze swojego ekwipunku, jeśli potrzebujesz więcej miejsca lub chcesz zmienić przepis.</e>
+    <e id="24">Wersja 1.0</e>
+    <e id="25">Lipiec 25, 2012</e>
+    <e id="26">Salon Gier – wersja 1.0</e>
+</Locale>
