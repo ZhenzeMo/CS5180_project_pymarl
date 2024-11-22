@@ -1,0 +1,12 @@
+map = "one_step_matrix_game"
+
+[keys]
+x = "timesteps"
+y = "return_mean"
+group = "Model"
+unit = "ID"
+
+[[data]]
+path = "./results/sacred/{map}/{label}/7/info.json"
+label = "qmix_env=8_adam_td_lambda"
+
